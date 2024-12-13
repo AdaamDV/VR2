@@ -1,0 +1,23 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+330,330,330,200904050DET,24.0,5.0,1st quarter,2:20.0,Dontell Jefferson,CHA,False,2-pointer,0,14-20,'DET',trails
+332,332,332,200904050DET,24.2,27.2,1st quarter,1:54.0,Dontell Jefferson,CHA,False,2-pointer,22,14-20,'DET',trails
+334,334,334,200904050DET,9.1,11.3,1st quarter,0:12.9,Dontell Jefferson,CHA,False,2-pointer,16,17-24,'DET',trails
+342,342,342,200904050DET,24.0,5.0,2nd quarter,8:09.0,Dontell Jefferson,CHA,True,2-pointer,0,23-33,'DET',trails
+344,344,344,200904050DET,12.8,11.9,2nd quarter,6:47.0,Dontell Jefferson,CHA,False,2-pointer,13,23-39,'DET',trails
+1169,1169,1169,200904100OKC,24.0,5.0,2nd quarter,5:40.0,Dontell Jefferson,CHA,True,2-pointer,0,27-39,'OKC',trails
+1172,1172,1172,200904100OKC,24.0,5.0,2nd quarter,4:29.0,Dontell Jefferson,CHA,True,2-pointer,0,33-39,'OKC',trails
+1210,1210,1210,200904100OKC,24.0,5.0,4th quarter,7:41.0,Dontell Jefferson,CHA,True,2-pointer,0,69-68,'OKC',leads
+37,37,37,200904110CHI,21.9,22.2,2nd quarter,3:48.0,Dontell Jefferson,CHA,False,2-pointer,17,42-50,'CHA',trails
+57,57,57,200904110CHI,24.0,5.0,3rd quarter,2:14.0,Dontell Jefferson,CHA,False,2-pointer,0,75-74,'CHA',leads
+61,61,61,200904110CHI,24.0,5.0,3rd quarter,0:08.5,Dontell Jefferson,CHA,True,2-pointer,0,83-78,'CHA',leads
+1161,1161,1161,200904130NJN,24.0,5.0,1st quarter,1:58.0,Dontell Jefferson,CHA,True,2-pointer,0,18-13,'NJN',leads
+1164,1164,1164,200904130NJN,24.0,5.0,1st quarter,0:02.3,Dontell Jefferson,CHA,True,2-pointer,0,25-20,'NJN',leads
+1167,1167,1167,200904130NJN,24.0,5.0,2nd quarter,9:49.0,Dontell Jefferson,CHA,True,2-pointer,0,29-20,'NJN',leads
+1206,1206,1206,200904130NJN,24.0,5.0,4th quarter,7:27.0,Dontell Jefferson,CHA,False,2-pointer,0,79-72,'NJN',leads
+1213,1213,1213,200904130NJN,17.0,5.4,4th quarter,2:23.0,Dontell Jefferson,CHA,False,2-pointer,7,87-85,'NJN',leads
+1216,1216,1216,200904130NJN,10.9,25.8,4th quarter,0:46.9,Dontell Jefferson,CHA,False,3-pointer,25,87-91,'NJN',trails
+1669,1669,1669,200904150ORL,32.9,16.3,2nd quarter,9:08.0,Dontell Jefferson,CHA,False,2-pointer,14,19-37,'CHA',trails
+1694,1694,1694,200904150ORL,32.8,11.0,4th quarter,11:25.0,Dontell Jefferson,CHA,True,2-pointer,11,60-79,'CHA',trails
+1699,1699,1699,200904150ORL,1.2,9.7,4th quarter,9:26.0,Dontell Jefferson,CHA,True,3-pointer,23,63-84,'CHA',trails
+1704,1704,1704,200904150ORL,14.3,22.3,4th quarter,6:30.0,Dontell Jefferson,CHA,False,2-pointer,20,63-89,'CHA',trails
+1711,1711,1711,200904150ORL,24.0,5.0,4th quarter,2:44.0,Dontell Jefferson,CHA,True,2-pointer,0,67-89,'CHA',trails

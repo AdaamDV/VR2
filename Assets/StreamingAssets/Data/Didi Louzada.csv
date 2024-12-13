@@ -1,0 +1,17 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+611,611,611,202105120DAL,23.6,7.4,3rd quarter,1:15.0,Didi Louzada,NOP,False,2-pointer,4,78-108,'NOP',trails
+617,617,617,202105120DAL,31.3,27.3,4th quarter,8:43.0,Didi Louzada,NOP,False,3-pointer,25,91-113,'NOP',trails
+624,624,624,202105120DAL,11.1,24.9,4th quarter,5:16.0,Didi Louzada,NOP,False,3-pointer,25,95-118,'NOP',trails
+626,626,626,202105120DAL,20.7,5.0,4th quarter,3:57.0,Didi Louzada,NOP,False,2-pointer,4,95-119,'NOP',trails
+629,629,629,202105120DAL,23.7,4.7,4th quarter,2:55.0,Didi Louzada,NOP,True,2-pointer,1,97-119,'NOP',trails
+369,369,369,202105140GSW,30.5,31.6,2nd quarter,10:06.0,Didi Louzada,NOP,False,3-pointer,29,32-44,'NOP',trails
+371,371,371,202105140GSW,1.5,8.3,2nd quarter,9:38.0,Didi Louzada,NOP,True,3-pointer,23,35-44,'NOP',trails
+375,375,375,202105140GSW,46.8,9.3,2nd quarter,7:52.0,Didi Louzada,NOP,False,3-pointer,24,37-49,'NOP',trails
+384,384,384,202105140GSW,25.7,4.9,2nd quarter,4:56.0,Didi Louzada,NOP,False,2-pointer,2,44-55,'NOP',trails
+412,412,412,202105140GSW,37.2,26.1,3rd quarter,0:35.0,Didi Louzada,NOP,True,3-pointer,26,90-96,'NOP',trails
+419,419,419,202105140GSW,40.8,23.9,4th quarter,9:02.0,Didi Louzada,NOP,False,3-pointer,27,99-110,'NOP',trails
+1178,1178,1178,202105160NOP,0.9,6.9,2nd quarter,7:21.0,Didi Louzada,NOP,False,3-pointer,23,36-46,'NOP',trails
+1204,1204,1204,202105160NOP,22.8,17.5,3rd quarter,0:16.0,Didi Louzada,NOP,False,2-pointer,14,76-91,'NOP',trails
+243,243,243,202111050GSW,0.7,6.8,4th quarter,4:25.0,Didi Louzada,NOP,False,3-pointer,24,78-114,'NOP',trails
+247,247,247,202111050GSW,39.5,24.4,4th quarter,2:22.0,Didi Louzada,NOP,False,3-pointer,26,80-119,'NOP',trails
+254,254,254,202111050GSW,34.2,26.8,4th quarter,0:04.0,Didi Louzada,NOP,False,3-pointer,26,85-126,'NOP',trails

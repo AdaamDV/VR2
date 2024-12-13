@@ -1,0 +1,16 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1102,1102,1102,202103150PHO,16.2,23.9,4th quarter,2:24.0,Jontay Porter,MEM,False,2-pointer,22,96-118,'PHO',trails
+1105,1105,1105,202103150PHO,11.6,27.2,4th quarter,1:24.0,Jontay Porter,MEM,False,3-pointer,27,96-122,'PHO',trails
+1290,1290,1290,202103270UTA,36.1,28.8,4th quarter,4:18.0,Jontay Porter,MEM,True,3-pointer,28,101-122,'UTA',trails
+1292,1292,1292,202103270UTA,10.7,17.5,4th quarter,2:49.0,Jontay Porter,MEM,True,2-pointer,20,105-122,'UTA',trails
+525,525,525,202104020MEM,29.6,28.8,4th quarter,2:56.0,Jontay Porter,MEM,False,3-pointer,26,118-100,'MEM',leads
+529,529,529,202104020MEM,1.4,14.8,4th quarter,1:23.0,Jontay Porter,MEM,False,3-pointer,25,120-106,'MEM',leads
+87,87,87,202104070ATL,30.4,29.8,4th quarter,0:42.0,Jontay Porter,MEM,False,3-pointer,27,131-113,'MEM',leads
+812,812,812,202104210LAC,24.2,28.9,4th quarter,1:27.0,Jontay Porter,MEM,True,3-pointer,26,102-114,'MEM',trails
+76,76,76,202104260DEN,31.5,27.8,4th quarter,2:48.0,Jontay Porter,MEM,False,3-pointer,26,89-112,'DEN',trails
+1095,1095,1095,202104300MEM,23.9,5.8,4th quarter,0:52.0,Jontay Porter,MEM,False,2-pointer,3,92-75,'ORL',leads
+1392,1392,1392,202105110MEM,22.7,13.1,4th quarter,1:59.0,Jontay Porter,MEM,True,2-pointer,10,129-102,'DAL',leads
+1393,1393,1393,202105110MEM,18.3,14.8,4th quarter,1:19.0,Jontay Porter,MEM,True,2-pointer,13,131-104,'DAL',leads
+831,831,831,202105140MEM,24.5,3.4,2nd quarter,8:13.0,Jontay Porter,MEM,True,2-pointer,1,42-36,'SAC',leads
+871,871,871,202105140MEM,24.0,3.3,4th quarter,8:45.0,Jontay Porter,MEM,True,2-pointer,0,83-84,'SAC',trails
+872,872,872,202105140MEM,17.3,27.5,4th quarter,8:11.0,Jontay Porter,MEM,True,3-pointer,25,86-86,'SAC',tied

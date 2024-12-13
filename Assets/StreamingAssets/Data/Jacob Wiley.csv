@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+344,344,344,201710290BRK,47.5,8.0,4th quarter,1:14.0,Jacob Wiley,BRK,False,3-pointer,24,109-124,'DEN',trails
+197,197,197,201711070DEN,33.6,18.2,2nd quarter,4:16.0,Jacob Wiley,BRK,False,2-pointer,17,37-39,'DEN',trails
+235,235,235,201711070DEN,1.7,2.3,4th quarter,10:30.0,Jacob Wiley,BRK,True,3-pointer,22,78-95,'DEN',trails
+245,245,245,201711070DEN,25.8,5.2,4th quarter,6:07.0,Jacob Wiley,BRK,False,2-pointer,2,87-104,'DEN',trails

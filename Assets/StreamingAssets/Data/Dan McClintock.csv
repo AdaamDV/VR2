@@ -1,0 +1,19 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+465,465,465,200104050DEN,40.1,4.8,4th quarter,2:45.0,Dan McClintock,DEN,False,2-pointer,16,76-96,SAS,trails
+466,466,466,200104050DEN,31.7,10.7,4th quarter,2:09.0,Dan McClintock,DEN,False,2-pointer,10,76-96,SAS,trails
+493,493,493,200104130DEN,9.9,4.6,4th quarter,1:58.0,Dan McClintock,DEN,True,2-pointer,14,105-88,'DEN',leads
+494,494,494,200104130DEN,27.0,11.6,4th quarter,1:29.0,Dan McClintock,DEN,False,2-pointer,7,105-90,'DEN',leads
+497,497,497,200104130DEN,24.0,5.0,4th quarter,0:24.9,Dan McClintock,DEN,False,2-pointer,0,108-90,'DEN',leads
+615,615,615,200104140SAS,23.6,4.8,3rd quarter,0:30.3,Dan McClintock,DEN,True,2-pointer,0,62-85,'SAS',trails
+631,631,631,200104140SAS,12.3,6.7,4th quarter,6:37.0,Dan McClintock,DEN,True,2-pointer,12,78-94,'SAS',trails
+633,633,633,200104140SAS,36.3,9.0,4th quarter,5:31.0,Dan McClintock,DEN,True,2-pointer,13,80-98,'SAS',trails
+640,640,640,200104140SAS,8.0,7.3,4th quarter,1:06.0,Dan McClintock,DEN,False,2-pointer,16,89-109,'SAS',trails
+535,535,535,200104170LAL,24.0,5.0,1st quarter,10:59.0,Dan McClintock,DEN,True,2-pointer,0,4-2,'LAL',leads
+566,566,566,200104170LAL,24.0,5.0,2nd quarter,3:18.0,Dan McClintock,DEN,True,2-pointer,0,44-45,'LAL',trails
+570,570,570,200104170LAL,24.0,5.0,2nd quarter,2:12.0,Dan McClintock,DEN,True,2-pointer,0,48-48,'LAL',tied
+581,581,581,200104170LAL,24.0,5.0,3rd quarter,10:16.0,Dan McClintock,DEN,False,2-pointer,0,53-59,'LAL',trails
+585,585,585,200104170LAL,13.5,11.1,3rd quarter,7:42.0,Dan McClintock,DEN,False,2-pointer,12,53-67,'LAL',trails
+587,587,587,200104170LAL,29.8,24.2,3rd quarter,5:41.0,Dan McClintock,DEN,True,2-pointer,20,55-73,'LAL',trails
+648,648,648,200104180DEN,20.7,11.8,1st quarter,1:01.0,Dan McClintock,DEN,False,2-pointer,8,17-24,'SAC',trails
+651,651,651,200104180DEN,24.0,5.0,2nd quarter,11:28.0,Dan McClintock,DEN,True,2-pointer,0,19-28,'SAC',trails
+709,709,709,200104180DEN,20.7,8.4,4th quarter,10:05.0,Dan McClintock,DEN,False,2-pointer,5,89-83,'SAC',leads

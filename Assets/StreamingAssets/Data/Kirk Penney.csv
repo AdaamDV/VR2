@@ -1,0 +1,10 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+324,324,324,200311030DAL,1.5,7.3,1st quarter,4:02.0,Kirk Penney,MIA,True,3-pointer,23,17-20,'MIA',trails
+328,328,328,200311030DAL,43.4,16.7,1st quarter,2:01.0,Kirk Penney,MIA,False,2-pointer,23,21-22,'MIA',trails
+330,330,330,200311030DAL,8.1,15.2,1st quarter,1:10.0,Kirk Penney,MIA,False,2-pointer,19,23-22,'MIA',leads
+337,337,337,200311030DAL,14.0,27.7,2nd quarter,9:54.0,Kirk Penney,MIA,False,3-pointer,25,28-27,'MIA',leads
+339,339,339,200311030DAL,46.3,7.0,2nd quarter,8:57.0,Kirk Penney,MIA,False,3-pointer,22,30-27,'MIA',leads
+340,340,340,200311030DAL,3.3,5.7,2nd quarter,8:23.0,Kirk Penney,MIA,False,2-pointer,21,30-29,'MIA',leads
+536,536,536,200412270MEM,42.4,8.0,4th quarter,4:38.0,Kirk Penney,LAC,True,2-pointer,19,65-84,'MEM',trails
+537,537,537,200412270MEM,43.2,21.1,4th quarter,4:05.0,Kirk Penney,LAC,False,3-pointer,25,65-84,'MEM',trails
+611,611,611,200412290LAC,11.4,18.7,3rd quarter,0:41.9,Kirk Penney,LAC,False,2-pointer,19,69-60,'UTA',leads

@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1516,1516,1516,200101130VAN,24.5,5.9,4th quarter,0:30.4,Etdrick Bohannon,CLE,True,2-pointer,1,105-117,'VAN',trails
+1518,1518,1518,200101130VAN,24.5,5.2,4th quarter,0:09.8,Etdrick Bohannon,CLE,True,2-pointer,1,107-119,'VAN',trails
+262,262,262,200101240CLE,24.1,5.7,2nd quarter,2:16.0,Etdrick Bohannon,CLE,False,2-pointer,1,43-33,'CLE',leads
+445,445,445,200101270CLE,22.2,5.0,3rd quarter,3:16.0,Etdrick Bohannon,CLE,False,2-pointer,2,61-74,'CLE',trails

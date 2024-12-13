@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+81,81,81,201403160LAC,24.0,3.6,4th quarter,0:11.0,Shane Edwards,CLE,False,2-pointer,1,80-102,'CLE',trails
+116,116,116,201403200CLE,24.4,3.4,2nd quarter,9:30.0,Shane Edwards,CLE,True,2-pointer,1,29-26,'OKC',leads
+120,120,120,201403200CLE,39.9,3.0,2nd quarter,6:36.0,Shane Edwards,CLE,False,2-pointer,16,36-35,'OKC',leads

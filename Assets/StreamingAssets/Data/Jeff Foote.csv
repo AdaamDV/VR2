@@ -1,0 +1,7 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+356,356,356,201203090DEN,23.8,8.7,2nd quarter,8:19.0,Jeff Foote,NOH,True,2-pointer,4,32-34,'NOH',trails
+361,361,361,201203090DEN,17.5,12.2,2nd quarter,3:53.0,Jeff Foote,NOH,False,2-pointer,10,40-42,'NOH',trails
+395,395,395,201203090DEN,24.0,5.3,4th quarter,2:56.0,Jeff Foote,NOH,True,2-pointer,0,89-104,'NOH',trails
+659,659,659,201203100MIN,24.0,5.7,2nd quarter,1:25.0,Jeff Foote,NOH,False,2-pointer,1,45-41,'NOH',leads
+593,593,593,201203120NOH,25.8,6.7,2nd quarter,9:11.0,Jeff Foote,NOH,False,2-pointer,2,26-20,'NOH',leads
+1246,1246,1246,201203140NOH,26.9,8.0,4th quarter,9:16.0,Jeff Foote,NOH,False,2-pointer,4,77-72,'LAL',leads

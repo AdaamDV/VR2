@@ -1,0 +1,21 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+331,331,331,201002020CLE,16.1,30.4,4th quarter,0:55.9,Cedric Jackson,CLE,False,3-pointer,27,104-84,'CLE',leads
+332,332,332,201002020CLE,11.2,14.6,4th quarter,0:02.9,Cedric Jackson,CLE,False,2-pointer,16,105-89,'CLE',leads
+1007,1007,1007,201003120MIN,29.1,10.5,3rd quarter,4:05.0,Cedric Jackson,SAS,False,2-pointer,8,67-51,'SAS',leads
+1008,1008,1008,201003120MIN,24.0,5.0,3rd quarter,4:04.0,Cedric Jackson,SAS,True,2-pointer,0,69-51,'SAS',leads
+1012,1012,1012,201003120MIN,38.9,25.5,3rd quarter,0:26.9,Cedric Jackson,SAS,False,3-pointer,25,73-58,'SAS',leads
+1013,1013,1013,201003120MIN,1.1,11.0,3rd quarter,0:01.8,Cedric Jackson,SAS,False,3-pointer,24,73-58,'SAS',leads
+1031,1031,1031,201003120MIN,24.0,5.0,4th quarter,1:04.0,Cedric Jackson,SAS,True,2-pointer,0,101-83,'SAS',leads
+968,968,968,201003130SAS,22.1,7.2,4th quarter,8:29.0,Cedric Jackson,SAS,False,2-pointer,3,100-73,'SAS',leads
+978,978,978,201003130SAS,24.1,5.1,4th quarter,1:36.0,Cedric Jackson,SAS,False,2-pointer,0,116-85,'SAS',leads
+1410,1410,1410,201004060WAS,24.1,4.4,1st quarter,2:05.0,Cedric Jackson,WAS,False,2-pointer,1,33-16,'WAS',leads
+1412,1412,1412,201004060WAS,20.2,5.6,1st quarter,0:42.9,Cedric Jackson,WAS,False,2-pointer,4,36-21,'WAS',leads
+1462,1462,1462,201004060WAS,41.1,5.1,4th quarter,5:40.0,Cedric Jackson,WAS,False,2-pointer,17,105-86,'WAS',leads
+1670,1670,1670,201004070ORL,5.0,8.4,4th quarter,3:37.0,Cedric Jackson,WAS,False,2-pointer,19,83-107,'ORL',trails
+1672,1672,1672,201004070ORL,24.0,5.0,4th quarter,2:51.0,Cedric Jackson,WAS,True,2-pointer,0,85-109,'ORL',trails
+1675,1675,1675,201004070ORL,24.0,5.0,4th quarter,1:35.0,Cedric Jackson,WAS,True,2-pointer,0,89-113,'ORL',trails
+2236,2236,2236,201004140WAS,0.1,15.1,2nd quarter,6:59.0,Cedric Jackson,WAS,False,3-pointer,26,38-34,'IND',leads
+2238,2238,2238,201004140WAS,36.5,25.5,2nd quarter,4:45.0,Cedric Jackson,WAS,False,3-pointer,24,41-38,'IND',leads
+2276,2276,2276,201004140WAS,5.8,4.7,4th quarter,6:20.0,Cedric Jackson,WAS,False,2-pointer,18,85-91,'IND',trails
+2280,2280,2280,201004140WAS,23.5,10.3,4th quarter,2:04.0,Cedric Jackson,WAS,True,2-pointer,5,95-97,'IND',trails
+2281,2281,2281,201004140WAS,41.6,22.3,4th quarter,1:31.0,Cedric Jackson,WAS,True,3-pointer,25,98-97,'IND',leads

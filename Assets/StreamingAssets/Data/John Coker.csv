@@ -1,0 +1,9 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+925,925,925,200012220SAS,16.1,20.0,2nd quarter,9:44.0,John Coker,GSW,False,2-pointer,17,28-32,'SAS',trails
+928,928,928,200012220SAS,35.0,8.0,2nd quarter,8:15.0,John Coker,GSW,False,2-pointer,11,30-34,'SAS',trails
+126,126,126,200012270GSW,24.0,5.0,2nd quarter,3:40.0,John Coker,GSW,False,2-pointer,0,41-46,'GSW',trails
+132,132,132,200012270GSW,41.4,5.0,2nd quarter,0:37.1,John Coker,GSW,False,2-pointer,17,51-52,'GSW',trails
+255,255,255,200012290GSW,23.0,12.8,2nd quarter,11:42.0,John Coker,GSW,True,2-pointer,8,21-8,'UTA',leads
+261,261,261,200012290GSW,34.2,6.7,2nd quarter,6:57.0,John Coker,GSW,False,2-pointer,10,26-19,'UTA',leads
+24,24,24,200101110ATL,33.8,5.9,2nd quarter,11:12.0,John Coker,GSW,False,2-pointer,10,27-30,'GSW',trails
+963,963,963,200101130ORL,35.9,5.4,1st quarter,6:23.0,John Coker,GSW,False,2-pointer,12,10-13,'ORL',trails

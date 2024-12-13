@@ -1,0 +1,11 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1102,1102,1102,200911040ORL,42.9,17.4,4th quarter,6:14.0,Taylor Griffin,PHO,False,2-pointer,23,85-111,'PHO',trails
+1108,1108,1108,200911040ORL,24.0,5.0,4th quarter,2:06.0,Taylor Griffin,PHO,True,2-pointer,0,95-119,'PHO',trails
+238,238,238,200912060LAL,35.0,5.0,4th quarter,1:48.0,Taylor Griffin,PHO,False,2-pointer,11,84-102,'LAL',trails
+1169,1169,1169,201002240PHO,24.0,5.0,4th quarter,1:27.0,Taylor Griffin,PHO,True,2-pointer,0,106-90,'PHO',leads
+1477,1477,1477,201003010PHO,35.9,6.7,4th quarter,1:12.0,Taylor Griffin,PHO,False,2-pointer,12,101-82,'PHO',leads
+894,894,894,201003030LAC,24.0,5.0,4th quarter,1:06.0,Taylor Griffin,PHO,True,2-pointer,0,127-101,'PHO',leads
+934,934,934,201003140PHO,30.4,8.1,4th quarter,3:06.0,Taylor Griffin,PHO,False,2-pointer,7,112-93,'PHO',leads
+1107,1107,1107,201003160PHO,8.8,5.3,4th quarter,6:13.0,Taylor Griffin,PHO,True,2-pointer,15,134-101,'PHO',leads
+1116,1116,1116,201003160PHO,47.0,8.9,4th quarter,1:45.0,Taylor Griffin,PHO,False,3-pointer,23,146-109,'PHO',leads
+1120,1120,1120,201003160PHO,-0.6,7.8,4th quarter,0:38.9,Taylor Griffin,PHO,False,3-pointer,25,150-113,'PHO',leads

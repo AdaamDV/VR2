@@ -1,0 +1,12 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+305,305,305,202201010DET,20.4,13.3,1st quarter,2:58.0,Micah Potter,DET,False,2-pointer,11,16-20,'SAS',trails
+308,308,308,202201010DET,35.8,7.1,1st quarter,2:05.0,Micah Potter,DET,True,2-pointer,12,18-23,'SAS',trails
+312,312,312,202201010DET,27.7,4.8,1st quarter,0:28.0,Micah Potter,DET,True,2-pointer,4,20-29,'SAS',trails
+315,315,315,202201010DET,19.4,29.3,2nd quarter,11:00.0,Micah Potter,DET,False,3-pointer,26,20-29,'SAS',trails
+355,355,355,202201010DET,25.9,29.2,4th quarter,10:10.0,Micah Potter,DET,False,3-pointer,26,85-81,'SAS',leads
+197,197,197,202201050CHO,25.3,3.9,2nd quarter,10:47.0,Micah Potter,DET,True,2-pointer,1,22-41,'CHO',trails
+202,202,202,202201050CHO,23.8,6.7,2nd quarter,9:00.0,Micah Potter,DET,True,2-pointer,3,28-49,'CHO',trails
+204,204,204,202201050CHO,26.1,4.9,2nd quarter,8:30.0,Micah Potter,DET,True,2-pointer,3,30-49,'CHO',trails
+240,240,240,202201050CHO,21.7,5.3,3rd quarter,1:41.0,Micah Potter,DET,False,2-pointer,3,75-97,'CHO',trails
+241,241,241,202201050CHO,23.8,4.8,3rd quarter,1:39.0,Micah Potter,DET,False,2-pointer,2,75-97,'CHO',trails
+251,251,251,202201050CHO,24.0,3.3,4th quarter,8:54.0,Micah Potter,DET,False,2-pointer,0,78-112,'CHO',trails

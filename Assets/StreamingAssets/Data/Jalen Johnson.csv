@@ -1,0 +1,23 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+177,177,177,202110210ATL,26.3,27.7,4th quarter,3:24.0,Jalen Johnson,ATL,True,3-pointer,25,107-77,'DAL',leads
+178,178,178,202110210ATL,34.4,21.0,4th quarter,2:55.0,Jalen Johnson,ATL,False,2-pointer,21,107-77,'DAL',leads
+180,180,180,202110210ATL,17.2,26.6,4th quarter,2:14.0,Jalen Johnson,ATL,False,3-pointer,24,107-79,'DAL',leads
+182,182,182,202110210ATL,13.8,25.9,4th quarter,1:31.0,Jalen Johnson,ATL,True,3-pointer,25,110-81,'DAL',leads
+178,178,178,202110250ATL,22.1,4.4,4th quarter,1:42.0,Jalen Johnson,ATL,True,2-pointer,2,122-101,'DET',leads
+1502,1502,1502,202110300PHI,15.7,16.3,4th quarter,4:48.0,Jalen Johnson,ATL,False,2-pointer,15,80-108,'ATL',trails
+1503,1503,1503,202110300PHI,23.5,3.2,4th quarter,4:00.0,Jalen Johnson,ATL,True,2-pointer,1,83-108,'ATL',trails
+161,161,161,202111040ATL,23.7,4.3,4th quarter,1:12.0,Jalen Johnson,ATL,True,2-pointer,1,97-116,'UTA',trails
+179,179,179,202111140ATL,11.1,17.0,4th quarter,0:52.0,Jalen Johnson,ATL,False,2-pointer,19,120-100,'MIL',leads
+180,180,180,202111140ATL,11.5,25.7,4th quarter,0:20.0,Jalen Johnson,ATL,False,3-pointer,26,120-100,'MIL',leads
+140,140,140,202112220ATL,29.6,15.2,4th quarter,11:38.0,Jalen Johnson,ATL,False,2-pointer,13,61-70,'ORL',trails
+142,142,142,202112220ATL,24.2,4.1,4th quarter,10:09.0,Jalen Johnson,ATL,True,2-pointer,1,63-74,'ORL',trails
+143,143,143,202112220ATL,47.3,1.9,4th quarter,9:40.0,Jalen Johnson,ATL,False,3-pointer,23,63-76,'ORL',trails
+1421,1421,1421,202112230PHI,20.2,5.2,2nd quarter,8:41.0,Jalen Johnson,ATL,False,2-pointer,4,36-26,'ATL',leads
+386,386,386,202112250NYK,0.2,3.6,1st quarter,3:12.0,Jalen Johnson,ATL,False,3-pointer,24,13-23,'NYK',trails
+438,438,438,202112250NYK,25.8,3.3,4th quarter,8:31.0,Jalen Johnson,ATL,True,2-pointer,2,70-89,'NYK',trails
+448,448,448,202112250NYK,25.3,3.2,4th quarter,1:45.0,Jalen Johnson,ATL,True,2-pointer,1,82-99,'NYK',trails
+180,180,180,202201260ATL,47.0,5.5,4th quarter,1:44.0,Jalen Johnson,ATL,True,3-pointer,23,120-95,'SAC',leads
+181,181,181,202201260ATL,25.4,5.8,4th quarter,1:25.0,Jalen Johnson,ATL,False,2-pointer,3,120-98,'SAC',leads
+1667,1667,1667,202202160ORL,48.3,13.3,4th quarter,1:08.0,Jalen Johnson,ATL,False,3-pointer,26,128-109,'ORL',leads
+174,174,174,202202260ATL,24.7,3.8,4th quarter,1:27.0,Jalen Johnson,ATL,True,2-pointer,1,125-93,'TOR',leads
+175,175,175,202202260ATL,23.6,3.8,4th quarter,0:53.0,Jalen Johnson,ATL,True,2-pointer,1,127-95,'TOR',leads

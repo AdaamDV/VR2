@@ -1,0 +1,11 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1463,1463,1463,200904080NYK,-0.3,2.3,4th quarter,10:25.0,Joe Crawford,NYK,False,3-pointer,24,66-96,'NYK',trails
+1469,1469,1469,200904080NYK,24.0,5.0,4th quarter,7:06.0,Joe Crawford,NYK,False,2-pointer,0,72-101,'NYK',trails
+1474,1474,1474,200904080NYK,24.0,5.0,4th quarter,3:40.0,Joe Crawford,NYK,True,2-pointer,0,81-105,'NYK',trails
+1478,1478,1478,200904080NYK,44.4,19.2,4th quarter,1:18.0,Joe Crawford,NYK,False,3-pointer,25,83-109,'NYK',trails
+1629,1629,1629,200904150NYK,24.0,5.0,4th quarter,10:13.0,Joe Crawford,NYK,False,2-pointer,0,83-58,'NYK',leads
+1632,1632,1632,200904150NYK,34.8,7.0,4th quarter,8:35.0,Joe Crawford,NYK,False,2-pointer,11,83-60,'NYK',leads
+1640,1640,1640,200904150NYK,20.0,8.6,4th quarter,3:11.0,Joe Crawford,NYK,False,2-pointer,5,94-67,'NYK',leads
+1643,1643,1643,200904150NYK,24.0,5.0,4th quarter,2:44.0,Joe Crawford,NYK,True,2-pointer,0,99-67,'NYK',leads
+1645,1645,1645,200904150NYK,2.7,17.7,4th quarter,0:41.9,Joe Crawford,NYK,False,3-pointer,25,99-71,'NYK',leads
+1646,1646,1646,200904150NYK,7.4,22.8,4th quarter,0:20.7,Joe Crawford,NYK,True,3-pointer,24,102-73,'NYK',leads

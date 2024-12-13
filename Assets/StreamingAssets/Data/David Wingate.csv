@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1650,1650,1650,200104180SEA,19.8,4.4,2nd quarter,0:03.0,David Wingate,SEA,True,2-pointer,4,54-36,'SAS',leads
+1690,1690,1690,200104180SEA,28.9,5.0,4th quarter,1:01.0,David Wingate,SEA,True,2-pointer,5,103-67,'SAS',leads
+1691,1691,1691,200104180SEA,24.0,5.0,4th quarter,0:35.7,David Wingate,SEA,True,2-pointer,0,105-67,'SAS',leads

@@ -1,0 +1,16 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+529,529,529,202110220CLE,23.3,3.7,4th quarter,1:04.0,RJ Nembhard,CLE,True,2-pointer,1,109-123,'CHO',trails
+636,636,636,202112180MIL,26.9,3.9,4th quarter,1:59.0,RJ Nembhard,CLE,True,2-pointer,3,114-90,'MIL',leads
+338,338,338,202112260CLE,18.2,17.3,4th quarter,11:15.0,RJ Nembhard,CLE,False,2-pointer,15,118-80,'TOR',leads
+343,343,343,202112260CLE,22.8,3.4,4th quarter,8:52.0,RJ Nembhard,CLE,True,2-pointer,1,129-84,'TOR',leads
+352,352,352,202112260CLE,24.0,3.2,4th quarter,4:31.0,RJ Nembhard,CLE,True,2-pointer,0,134-92,'TOR',leads
+358,358,358,202112260CLE,22.8,9.0,4th quarter,2:40.0,RJ Nembhard,CLE,False,2-pointer,6,138-93,'TOR',leads
+390,390,390,202112300WAS,25.9,4.7,2nd quarter,6:04.0,RJ Nembhard,CLE,True,2-pointer,2,43-43,'WAS',tied
+393,393,393,202112300WAS,17.9,5.0,2nd quarter,3:25.0,RJ Nembhard,CLE,False,2-pointer,6,46-48,'WAS',trails
+418,418,418,202112300WAS,2.5,18.9,3rd quarter,1:16.0,RJ Nembhard,CLE,False,3-pointer,27,69-89,'WAS',trails
+435,435,435,202112300WAS,24.7,12.1,4th quarter,4:33.0,RJ Nembhard,CLE,False,2-pointer,9,89-107,'WAS',trails
+440,440,440,202112300WAS,27.3,4.1,4th quarter,1:36.0,RJ Nembhard,CLE,False,2-pointer,3,91-109,'WAS',trails
+157,157,157,202203020CLE,14.5,12.1,4th quarter,2:52.0,RJ Nembhard,CLE,False,2-pointer,13,94-114,'CHO',trails
+159,159,159,202203020CLE,3.3,16.8,4th quarter,1:09.0,RJ Nembhard,CLE,False,3-pointer,25,94-117,'CHO',trails
+161,161,161,202203020CLE,22.7,3.7,4th quarter,0:36.0,RJ Nembhard,CLE,False,2-pointer,1,94-119,'CHO',trails
+162,162,162,202203020CLE,24.0,3.3,4th quarter,0:35.0,RJ Nembhard,CLE,True,2-pointer,0,96-119,'CHO',trails

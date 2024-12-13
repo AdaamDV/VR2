@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1898,1898,1898,200611180UTA,15.0,27.5,3rd quarter,0:01.9,Roger Powell,UTA,False,3-pointer,24,73-84,'UTA',trails
+1047,1047,1047,200611200UTA,24.0,5.0,2nd quarter,4:32.0,Roger Powell,UTA,False,2-pointer,0,43-43,'TOR',tied
+1052,1052,1052,200611200UTA,24.0,5.0,2nd quarter,1:55.0,Roger Powell,UTA,False,2-pointer,0,48-50,'TOR',trails

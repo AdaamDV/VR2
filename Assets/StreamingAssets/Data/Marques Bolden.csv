@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+528,528,528,202012270CLE,23.2,3.9,4th quarter,4:22.0,Marques Bolden,CLE,True,2-pointer,1,114-87,'CLE',leads
+1134,1134,1134,202101040ORL,24.1,10.0,4th quarter,3:09.0,Marques Bolden,CLE,False,2-pointer,7,80-100,'ORL',trails
+276,276,276,202101120CLE,20.6,18.0,2nd quarter,8:42.0,Marques Bolden,CLE,False,2-pointer,15,20-27,'UTA',trails

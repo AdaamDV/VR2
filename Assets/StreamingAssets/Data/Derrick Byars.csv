@@ -1,0 +1,12 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1016,1016,1016,201204250PHO,29.3,6.9,2nd quarter,1:40.0,Derrick Byars,SAS,False,2-pointer,6,49-47,'SAS',leads
+1021,1021,1021,201204250PHO,24.0,5.3,2nd quarter,0:01.2,Derrick Byars,SAS,True,2-pointer,0,58-53,'SAS',leads
+842,842,842,201204260GSW,30.2,29.9,1st quarter,2:04.0,Derrick Byars,SAS,False,3-pointer,26,25-26,'SAS',trails
+854,854,854,201204260GSW,6.5,24.2,2nd quarter,8:20.0,Derrick Byars,SAS,False,3-pointer,26,35-39,'SAS',trails
+862,862,862,201204260GSW,38.9,25.6,2nd quarter,4:46.0,Derrick Byars,SAS,False,3-pointer,25,43-44,'SAS',trails
+864,864,864,201204260GSW,25.0,5.3,2nd quarter,4:22.0,Derrick Byars,SAS,True,2-pointer,1,45-46,'SAS',trails
+885,885,885,201204260GSW,21.7,6.9,3rd quarter,5:13.0,Derrick Byars,SAS,False,2-pointer,3,73-67,'SAS',leads
+890,890,890,201204260GSW,45.7,20.9,3rd quarter,2:13.0,Derrick Byars,SAS,False,3-pointer,27,80-75,'SAS',leads
+904,904,904,201204260GSW,25.3,5.1,4th quarter,7:05.0,Derrick Byars,SAS,True,2-pointer,1,93-93,'SAS',tied
+914,914,914,201204260GSW,46.6,11.3,4th quarter,2:08.0,Derrick Byars,SAS,False,3-pointer,23,103-99,'SAS',leads
+917,917,917,201204260GSW,47.1,6.1,4th quarter,0:59.9,Derrick Byars,SAS,False,3-pointer,23,105-101,'SAS',leads

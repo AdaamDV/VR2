@@ -1,0 +1,20 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+290,290,290,201411100CLE,6.9,22.2,2nd quarter,3:15.0,Will Cherry,CLE,False,3-pointer,25,40-49,'NOP',trails
+291,291,291,201411100CLE,24.2,3.1,2nd quarter,2:54.0,Will Cherry,CLE,True,2-pointer,0,42-49,'NOP',trails
+323,323,323,201411150CLE,8.5,24.6,4th quarter,8:52.0,Will Cherry,CLE,False,3-pointer,26,108-75,'CLE',leads
+328,328,328,201411150CLE,1.9,14.8,4th quarter,6:35.0,Will Cherry,CLE,True,3-pointer,25,119-77,'CLE',leads
+332,332,332,201411150CLE,23.3,3.7,4th quarter,3:42.0,Will Cherry,CLE,False,2-pointer,0,120-83,'CLE',leads
+335,335,335,201411150CLE,23.6,3.4,4th quarter,2:12.0,Will Cherry,CLE,False,2-pointer,0,125-87,'CLE',leads
+157,157,157,201411220CLE,24.6,3.3,4th quarter,1:25.0,Will Cherry,CLE,False,2-pointer,0,91-108,'TOR',trails
+256,256,256,201411240CLE,47.6,9.7,1st quarter,0:40.0,Will Cherry,CLE,True,3-pointer,24,26-14,'ORL',leads
+274,274,274,201411240CLE,22.9,11.2,2nd quarter,4:07.0,Will Cherry,CLE,False,2-pointer,8,44-27,'ORL',leads
+301,301,301,201411240CLE,0.5,3.0,3rd quarter,0:02.0,Will Cherry,CLE,False,3-pointer,23,81-58,'ORL',leads
+306,306,306,201411240CLE,24.0,2.8,4th quarter,10:41.0,Will Cherry,CLE,True,2-pointer,0,88-58,'ORL',leads
+316,316,316,201411240CLE,35.8,17.9,4th quarter,3:57.0,Will Cherry,CLE,False,2-pointer,19,97-68,'ORL',leads
+321,321,321,201411240CLE,36.4,27.7,4th quarter,0:58.0,Will Cherry,CLE,False,3-pointer,27,104-74,'ORL',leads
+437,437,437,201411260CLE,47.7,7.2,1st quarter,0:54.0,Will Cherry,CLE,False,3-pointer,24,30-15,'CLE',leads
+489,489,489,201411260CLE,25.5,6.0,4th quarter,1:23.0,Will Cherry,CLE,False,2-pointer,3,109-85,'CLE',leads
+274,274,274,201411290CLE,2.7,16.2,2nd quarter,10:54.0,Will Cherry,CLE,False,3-pointer,25,32-23,'IND',leads
+321,321,321,201411290CLE,24.4,4.9,4th quarter,3:52.0,Will Cherry,CLE,False,2-pointer,1,101-85,'IND',leads
+324,324,324,201411290CLE,0.9,13.1,4th quarter,3:09.0,Will Cherry,CLE,False,3-pointer,25,105-85,'IND',leads
+328,328,328,201411290CLE,28.8,6.4,4th quarter,0:43.0,Will Cherry,CLE,True,2-pointer,5,109-94,'IND',leads

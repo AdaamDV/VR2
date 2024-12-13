@@ -1,0 +1,24 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+96,96,96,200101260ATL,11.6,13.9,1st quarter,0:50.8,Tony Smith,ATL,True,2-pointer,15,28-19,'WAS',leads
+97,97,97,200101260ATL,6.8,33.7,1st quarter,0:00.2,Tony Smith,ATL,False,3-pointer,33,30-21,'WAS',leads
+100,100,100,200101260ATL,16.9,7.1,2nd quarter,9:14.0,Tony Smith,ATL,False,2-pointer,7,36-29,'WAS',leads
+107,107,107,200101260ATL,34.4,18.3,2nd quarter,5:21.0,Tony Smith,ATL,True,2-pointer,17,45-38,'WAS',leads
+109,109,109,200101260ATL,36.5,16.6,2nd quarter,4:07.0,Tony Smith,ATL,True,2-pointer,17,47-40,'WAS',leads
+110,110,110,200101260ATL,39.3,7.1,2nd quarter,3:20.0,Tony Smith,ATL,True,2-pointer,15,49-40,'WAS',leads
+134,134,134,200101260ATL,7.2,8.2,4th quarter,11:23.0,Tony Smith,ATL,False,2-pointer,17,81-74,'WAS',leads
+358,358,358,200101270CLE,9.9,13.9,3rd quarter,2:47.0,Tony Smith,ATL,True,2-pointer,17,76-63,'CLE',leads
+361,361,361,200101270CLE,4.9,2.7,3rd quarter,0:44.9,Tony Smith,ATL,False,2-pointer,19,80-69,'CLE',leads
+371,371,371,200101270CLE,3.4,3.7,4th quarter,7:50.0,Tony Smith,ATL,False,2-pointer,21,86-77,'CLE',leads
+387,387,387,200101270CLE,15.6,14.9,4th quarter,0:56.9,Tony Smith,ATL,False,2-pointer,13,96-88,'CLE',leads
+99,99,99,200101290ATL,35.5,6.9,2nd quarter,9:36.0,Tony Smith,ATL,True,2-pointer,12,24-32,'PHO',trails
+100,100,100,200101290ATL,24.7,19.1,2nd quarter,9:08.0,Tony Smith,ATL,False,2-pointer,14,24-34,'PHO',trails
+103,103,103,200101290ATL,21.3,20.2,2nd quarter,7:43.0,Tony Smith,ATL,False,2-pointer,15,26-38,'PHO',trails
+111,111,111,200101290ATL,24.0,5.0,2nd quarter,3:44.0,Tony Smith,ATL,False,2-pointer,0,33-46,'PHO',trails
+153,153,153,200101290ATL,37.6,5.7,4th quarter,1:40.0,Tony Smith,ATL,False,2-pointer,14,76-91,'PHO',trails
+117,117,117,200101310ATL,24.0,5.0,2nd quarter,10:09.0,Tony Smith,ATL,True,2-pointer,0,36-31,'TOR',leads
+161,161,161,200101310ATL,38.6,13.7,3rd quarter,1:04.0,Tony Smith,ATL,False,2-pointer,17,78-65,'TOR',leads
+164,164,164,200101310ATL,8.3,16.4,4th quarter,11:36.0,Tony Smith,ATL,True,2-pointer,19,80-71,'TOR',leads
+668,668,668,200102030ORL,24.0,5.0,1st quarter,6:13.0,Tony Smith,ATL,False,2-pointer,0,15-13,'ORL',leads
+669,669,669,200102030ORL,19.0,4.6,1st quarter,6:08.0,Tony Smith,ATL,False,2-pointer,5,15-13,'ORL',leads
+673,673,673,200102030ORL,8.3,4.6,1st quarter,4:08.0,Tony Smith,ATL,False,2-pointer,16,17-13,'ORL',leads
+722,722,722,200102030ORL,13.1,42.1,3rd quarter,0:00.0,Tony Smith,ATL,False,3-pointer,39,68-70,'ORL',trails

@@ -1,0 +1,10 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+974,974,974,200102200SAC,8.7,4.8,2nd quarter,5:15.0,Ira Bowman,ATL,False,2-pointer,15,21-39,'SAC',trails
+1021,1021,1021,200102200SAC,30.2,6.9,4th quarter,0:41.9,Ira Bowman,ATL,False,2-pointer,6,78-92,'SAC',trails
+983,983,983,200111010PHI,24.0,5.0,4th quarter,0:35.3,Ira Bowman,PHI,True,2-pointer,0,90-97,'DAL',trails
+1666,1666,1666,200111030WAS,24.3,5.0,2nd quarter,5:52.0,Ira Bowman,PHI,True,2-pointer,0,35-27,'WAS',leads
+1670,1670,1670,200111030WAS,23.9,5.0,2nd quarter,4:07.0,Ira Bowman,PHI,True,2-pointer,0,37-29,'WAS',leads
+1671,1671,1671,200111030WAS,23.9,5.4,2nd quarter,3:41.0,Ira Bowman,PHI,True,2-pointer,0,39-29,'WAS',leads
+1672,1672,1672,200111030WAS,37.4,3.7,2nd quarter,3:06.0,Ira Bowman,PHI,False,2-pointer,13,39-29,'WAS',leads
+1694,1694,1694,200111030WAS,31.0,13.7,3rd quarter,0:23.3,Ira Bowman,PHI,True,2-pointer,11,56-64,'WAS',trails
+1703,1703,1703,200111030WAS,11.6,29.5,4th quarter,7:39.0,Ira Bowman,PHI,False,3-pointer,27,58-73,'WAS',trails

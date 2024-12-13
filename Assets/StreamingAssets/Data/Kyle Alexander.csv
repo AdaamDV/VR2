@@ -1,0 +1,3 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+594,594,594,202008060MIL,22.1,4.3,4th quarter,0:58.0,Kyle Alexander,MIA,False,2-pointer,2,111-128,'MIA',trails
+253,253,253,202008140IND,23.2,3.1,4th quarter,0:22.0,Kyle Alexander,MIA,True,2-pointer,1,92-109,'MIA',trails

@@ -1,0 +1,24 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+664,664,664,201804100LAL,12.9,27.1,2nd quarter,10:46.0,Andre Ingram,LAL,True,3-pointer,26,19-26,'HOU',trails
+665,665,665,201804100LAL,34.5,26.6,2nd quarter,9:47.0,Andre Ingram,LAL,True,3-pointer,25,24-26,'HOU',trails
+669,669,669,201804100LAL,14.7,12.5,2nd quarter,7:22.0,Andre Ingram,LAL,True,2-pointer,13,31-32,'HOU',trails
+704,704,704,201804100LAL,39.8,25.7,3rd quarter,2:14.0,Andre Ingram,LAL,True,3-pointer,27,75-73,'HOU',leads
+718,718,718,201804100LAL,24.2,7.1,4th quarter,5:02.0,Andre Ingram,LAL,False,2-pointer,4,88-96,'HOU',trails
+720,720,720,201804100LAL,19.4,13.5,4th quarter,3:57.0,Andre Ingram,LAL,True,2-pointer,11,90-100,'HOU',trails
+723,723,723,201804100LAL,3.7,19.8,4th quarter,2:31.0,Andre Ingram,LAL,False,3-pointer,26,96-100,'HOU',trails
+728,728,728,201804100LAL,41.7,22.0,4th quarter,0:51.0,Andre Ingram,LAL,True,3-pointer,25,99-102,'HOU',trails
+551,551,551,201804110LAC,20.4,16.1,1st quarter,8:52.0,Andre Ingram,LAL,True,2-pointer,13,12-11,'LAL',leads
+552,552,552,201804110LAC,27.5,28.2,1st quarter,8:28.0,Andre Ingram,LAL,False,3-pointer,25,12-13,'LAL',trails
+554,554,554,201804110LAC,0.9,6.6,1st quarter,7:30.0,Andre Ingram,LAL,True,3-pointer,23,18-15,'LAL',leads
+556,556,556,201804110LAC,6.9,22.6,1st quarter,5:55.0,Andre Ingram,LAL,False,3-pointer,26,20-20,'LAL',tied
+565,565,565,201804110LAC,21.1,12.1,1st quarter,1:40.0,Andre Ingram,LAL,False,2-pointer,9,34-28,'LAL',leads
+581,581,581,201804110LAC,37.1,10.4,2nd quarter,5:03.0,Andre Ingram,LAL,False,2-pointer,15,51-46,'LAL',leads
+591,591,591,201804110LAC,15.5,15.6,3rd quarter,11:47.0,Andre Ingram,LAL,False,2-pointer,15,64-53,'LAL',leads
+596,596,596,201804110LAC,11.2,25.0,3rd quarter,7:22.0,Andre Ingram,LAL,False,3-pointer,25,69-62,'LAL',leads
+597,597,597,201804110LAC,22.9,17.1,3rd quarter,7:14.0,Andre Ingram,LAL,False,2-pointer,14,69-62,'LAL',leads
+82,82,82,201903120CHI,24.8,20.0,4th quarter,1:15.0,Andre Ingram,LAL,False,2-pointer,17,121-107,'LAL',leads
+777,777,777,201903140TOR,19.7,5.8,4th quarter,7:18.0,Andre Ingram,LAL,False,2-pointer,5,88-103,'LAL',trails
+779,779,779,201903140TOR,1.5,1.8,4th quarter,6:15.0,Andre Ingram,LAL,False,3-pointer,23,90-103,'LAL',trails
+780,780,780,201903140TOR,6.6,21.3,4th quarter,5:58.0,Andre Ingram,LAL,False,3-pointer,25,90-103,'LAL',trails
+789,789,789,201903140TOR,10.8,24.7,4th quarter,0:30.0,Andre Ingram,LAL,False,3-pointer,25,98-111,'LAL',trails
+65,65,65,201903150DET,14.7,12.3,4th quarter,11:43.0,Andre Ingram,LAL,False,2-pointer,13,62-77,'LAL',trails

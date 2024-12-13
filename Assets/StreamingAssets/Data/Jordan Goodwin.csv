@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+347,347,347,202112280MIA,32.2,22.6,1st quarter,1:10.0,Jordan Goodwin,WAS,False,2-pointer,21,24-33,'MIA',trails
+348,348,348,202112280MIA,25.2,4.8,1st quarter,0:16.0,Jordan Goodwin,WAS,False,2-pointer,2,24-35,'MIA',trails
+530,530,530,202112300WAS,35.8,27.4,4th quarter,0:31.0,Jordan Goodwin,WAS,False,3-pointer,27,110-91,'WAS',leads

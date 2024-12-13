@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+824,824,824,202110200NOP,2.0,14.9,4th quarter,0:20.0,Aaron Henry,PHI,False,3-pointer,25,115-97,'NOP',leads
+21,21,21,202112200BOS,29.0,14.8,2nd quarter,11:06.0,Aaron Henry,PHI,False,2-pointer,13,28-22,'BOS',leads
+1269,1269,1269,202201070PHI,32.8,3.6,4th quarter,0:44.0,Aaron Henry,PHI,False,2-pointer,9,117-99,'SAS',leads
+1271,1271,1271,202201070PHI,23.3,3.9,4th quarter,0:21.0,Aaron Henry,PHI,True,2-pointer,1,119-99,'SAS',leads
+633,633,633,202201100HOU,12.7,8.4,4th quarter,0:22.0,Aaron Henry,PHI,False,2-pointer,12,111-91,'HOU',leads

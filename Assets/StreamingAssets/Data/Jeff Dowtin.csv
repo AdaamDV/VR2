@@ -1,0 +1,8 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+694,694,694,202111080GSW,18.3,7.8,4th quarter,0:53.0,Jeff Dowtin,GSW,False,2-pointer,7,127-111,'GSW',leads
+720,720,720,202112060GSW,14.7,19.2,4th quarter,2:00.0,Jeff Dowtin,GSW,False,2-pointer,18,118-91,'ORL',leads
+721,721,721,202112060GSW,21.3,4.7,4th quarter,1:09.0,Jeff Dowtin,GSW,True,2-pointer,3,122-91,'ORL',leads
+722,722,722,202112060GSW,15.0,20.5,4th quarter,0:44.0,Jeff Dowtin,GSW,True,2-pointer,19,124-92,'ORL',leads
+918,918,918,202112180TOR,47.5,8.8,1st quarter,2:15.0,Jeff Dowtin,GSW,False,3-pointer,24,12-27,'TOR',trails
+919,919,919,202112180TOR,34.2,6.5,1st quarter,2:10.0,Jeff Dowtin,GSW,True,2-pointer,11,14-27,'TOR',trails
+92,92,92,202201070BRK,47.3,5.5,4th quarter,1:21.0,Jeff Dowtin,MIL,False,3-pointer,23,119-105,'MIL',leads

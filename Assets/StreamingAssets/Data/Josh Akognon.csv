@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+432,432,432,201304100DAL,41.3,19.5,2nd quarter,9:15.0,Josh Akognon,DAL,True,2-pointer,23,32-35,'DAL',trails
+752,752,752,201304140NOH,10.7,29.1,4th quarter,1:16.0,Josh Akognon,DAL,False,3-pointer,28,104-84,'DAL',leads
+753,753,753,201304140NOH,42.5,20.9,4th quarter,0:46.0,Josh Akognon,DAL,True,3-pointer,24,107-87,'DAL',leads
+754,754,754,201304140NOH,33.9,23.7,4th quarter,0:14.8,Josh Akognon,DAL,False,2-pointer,21,107-89,'DAL',leads

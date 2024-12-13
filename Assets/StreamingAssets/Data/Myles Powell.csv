@@ -1,0 +1,18 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+22,22,22,202112200BOS,6.8,21.6,2nd quarter,10:39.0,Myles Powell,PHI,False,3-pointer,25,28-24,'BOS',leads
+26,26,26,202112200BOS,25.7,12.9,2nd quarter,8:07.0,Myles Powell,PHI,False,2-pointer,10,34-31,'BOS',leads
+1335,1335,1335,202112260WAS,5.1,19.6,4th quarter,3:00.0,Myles Powell,PHI,True,3-pointer,25,113-87,'WAS',leads
+1337,1337,1337,202112260WAS,41.2,15.8,4th quarter,1:29.0,Myles Powell,PHI,False,2-pointer,21,113-91,'WAS',leads
+559,559,559,202201100HOU,24.6,4.2,1st quarter,0:40.0,Myles Powell,PHI,True,2-pointer,1,36-26,'HOU',leads
+561,561,561,202201100HOU,32.7,18.8,2nd quarter,11:29.0,Myles Powell,PHI,False,2-pointer,18,36-27,'HOU',leads
+599,599,599,202201100HOU,3.3,19.3,3rd quarter,3:45.0,Myles Powell,PHI,False,3-pointer,26,78-66,'HOU',leads
+626,626,626,202201100HOU,20.2,12.3,4th quarter,3:17.0,Myles Powell,PHI,False,2-pointer,10,105-80,'HOU',leads
+628,628,628,202201100HOU,24.0,4.6,4th quarter,1:47.0,Myles Powell,PHI,False,2-pointer,1,107-82,'HOU',leads
+630,630,630,202201100HOU,23.9,4.1,4th quarter,1:40.0,Myles Powell,PHI,True,2-pointer,1,109-82,'HOU',leads
+631,631,631,202201100HOU,23.3,4.6,4th quarter,1:21.0,Myles Powell,PHI,True,2-pointer,1,111-84,'HOU',leads
+632,632,632,202201100HOU,20.1,32.8,4th quarter,0:42.0,Myles Powell,PHI,False,3-pointer,30,111-88,'HOU',leads
+830,830,830,202201120PHI,24.3,3.7,4th quarter,0:13.0,Myles Powell,PHI,True,2-pointer,0,98-109,'CHO',trails
+1991,1991,1991,202201170WAS,20.0,3.4,4th quarter,2:44.0,Myles Powell,PHI,False,2-pointer,4,90-113,'WAS',trails
+1994,1994,1994,202201170WAS,12.4,28.3,4th quarter,1:05.0,Myles Powell,PHI,False,3-pointer,28,96-117,'WAS',trails
+1591,1591,1591,202201190PHI,24.3,5.8,4th quarter,1:35.0,Myles Powell,PHI,False,2-pointer,3,123-102,'ORL',leads
+1189,1189,1189,202202020PHI,16.3,28.2,2nd quarter,8:34.0,Myles Powell,PHI,False,3-pointer,26,34-41,'WAS',trails

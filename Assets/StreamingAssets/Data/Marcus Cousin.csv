@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+517,517,517,201103110MIN,36.9,19.3,2nd quarter,6:37.0,Marcus Cousin,UTA,True,2-pointer,19,39-54,'UTA',trails
+521,521,521,201103110MIN,33.7,17.1,2nd quarter,3:52.0,Marcus Cousin,UTA,True,2-pointer,16,46-59,'UTA',trails
+524,524,524,201103110MIN,27.7,6.1,2nd quarter,1:50.0,Marcus Cousin,UTA,False,2-pointer,4,52-66,'UTA',trails

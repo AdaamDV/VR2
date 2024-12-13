@@ -1,0 +1,9 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+85,85,85,201812310CHO,22.6,15.6,4th quarter,3:10.0,Troy Caupain,ORL,True,2-pointer,12,89-120,'CHO',trails
+88,88,88,201812310CHO,24.9,4.4,4th quarter,1:49.0,Troy Caupain,ORL,False,2-pointer,1,93-122,'CHO',trails
+91,91,91,201812310CHO,30.9,28.5,4th quarter,0:12.0,Troy Caupain,ORL,True,3-pointer,26,100-125,'CHO',trails
+412,412,412,201901020CHI,9.2,22.0,4th quarter,2:01.0,Troy Caupain,ORL,False,3-pointer,24,110-82,'ORL',leads
+701,701,701,201903140ORL,10.4,5.5,4th quarter,1:40.0,Troy Caupain,ORL,False,2-pointer,14,116-87,'ORL',leads
+703,703,703,201903140ORL,2.6,17.2,4th quarter,1:31.0,Troy Caupain,ORL,True,3-pointer,26,119-87,'ORL',leads
+338,338,338,201903250ORL,15.6,21.6,4th quarter,1:44.0,Troy Caupain,ORL,True,2-pointer,20,117-90,'ORL',leads
+340,340,340,201903250ORL,16.3,20.8,4th quarter,0:30.0,Troy Caupain,ORL,False,2-pointer,19,119-96,'ORL',leads

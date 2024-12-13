@@ -1,0 +1,12 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+373,373,373,202110190MIL,25.8,10.0,4th quarter,0:56.0,Georgios Kalaitzakis,MIL,False,2-pointer,7,125-104,'MIL',leads
+374,374,374,202110190MIL,24.0,3.3,4th quarter,0:55.0,Georgios Kalaitzakis,MIL,False,2-pointer,0,125-104,'MIL',leads
+422,422,422,202110210MIA,25.8,3.8,3rd quarter,4:09.0,Georgios Kalaitzakis,MIL,True,2-pointer,2,62-95,'MIA',trails
+429,429,429,202110210MIA,26.3,29.2,4th quarter,11:08.0,Georgios Kalaitzakis,MIL,False,3-pointer,26,71-105,'MIA',trails
+430,430,430,202110210MIA,19.8,3.9,4th quarter,10:34.0,Georgios Kalaitzakis,MIL,True,2-pointer,4,73-107,'MIA',trails
+439,439,439,202110210MIA,40.5,21.5,4th quarter,6:20.0,Georgios Kalaitzakis,MIL,True,3-pointer,25,87-122,'MIA',trails
+447,447,447,202110210MIA,14.5,16.0,4th quarter,0:34.0,Georgios Kalaitzakis,MIL,False,2-pointer,16,95-135,'MIA',trails
+245,245,245,202111020DET,46.9,12.3,4th quarter,3:59.0,Georgios Kalaitzakis,MIL,False,3-pointer,25,110-79,'DET',leads
+246,246,246,202111020DET,26.3,16.9,4th quarter,3:45.0,Georgios Kalaitzakis,MIL,False,2-pointer,14,110-79,'DET',leads
+889,889,889,202111220MIL,5.8,21.1,4th quarter,10:20.0,Georgios Kalaitzakis,MIL,True,3-pointer,25,108-60,'ORL',leads
+259,259,259,202111260DEN,21.9,6.0,4th quarter,0:51.0,Georgios Kalaitzakis,MIL,True,2-pointer,3,119-105,'DEN',leads

@@ -1,0 +1,19 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+517,517,517,201203210NJN,36.9,26.3,2nd quarter,11:12.0,Edwin Ubiles,WAS,False,3-pointer,25,33-29,'NJN',leads
+549,549,549,201203210NJN,24.0,17.1,3rd quarter,1:28.0,Edwin Ubiles,WAS,False,2-pointer,12,80-72,'NJN',leads
+553,553,553,201203210NJN,28.3,12.4,4th quarter,11:42.0,Edwin Ubiles,WAS,False,2-pointer,9,84-72,'NJN',leads
+568,568,568,201203210NJN,26.6,5.9,4th quarter,1:17.0,Edwin Ubiles,WAS,True,2-pointer,3,105-87,'NJN',leads
+938,938,938,201203220WAS,36.4,25.6,2nd quarter,10:47.0,Edwin Ubiles,WAS,False,3-pointer,24,34-18,'IND',leads
+943,943,943,201203220WAS,21.7,11.1,2nd quarter,7:58.0,Edwin Ubiles,WAS,False,2-pointer,7,36-18,'IND',leads
+945,945,945,201203220WAS,42.5,6.7,2nd quarter,6:47.0,Edwin Ubiles,WAS,False,2-pointer,19,38-19,'IND',leads
+979,979,979,201203220WAS,42.4,0.9,4th quarter,9:43.0,Edwin Ubiles,WAS,False,2-pointer,19,68-62,'IND',leads
+1462,1462,1462,201203240WAS,24.4,19.3,2nd quarter,10:33.0,Edwin Ubiles,WAS,True,2-pointer,14,29-23,'WAS',leads
+1463,1463,1463,201203240WAS,34.8,23.4,2nd quarter,9:43.0,Edwin Ubiles,WAS,True,2-pointer,21,31-23,'WAS',leads
+1464,1464,1464,201203240WAS,31.5,28.3,2nd quarter,8:59.0,Edwin Ubiles,WAS,False,3-pointer,24,31-23,'WAS',leads
+1466,1466,1466,201203240WAS,-0.3,3.1,2nd quarter,7:52.0,Edwin Ubiles,WAS,False,3-pointer,24,33-26,'WAS',leads
+1497,1497,1497,201203240WAS,17.5,14.4,3rd quarter,1:32.0,Edwin Ubiles,WAS,False,2-pointer,11,75-61,'WAS',leads
+1503,1503,1503,201203240WAS,25.0,4.8,4th quarter,10:10.0,Edwin Ubiles,WAS,True,2-pointer,1,80-74,'WAS',leads
+1504,1504,1504,201203240WAS,26.9,30.8,4th quarter,9:29.0,Edwin Ubiles,WAS,True,3-pointer,26,84-76,'WAS',leads
+1509,1509,1509,201203240WAS,13.7,5.9,4th quarter,5:59.0,Edwin Ubiles,WAS,False,2-pointer,10,87-81,'WAS',leads
+255,255,255,201203250BOS,15.3,22.9,2nd quarter,11:01.0,Edwin Ubiles,WAS,False,2-pointer,20,12-29,'BOS',trails
+276,276,276,201203250BOS,26.0,5.4,2nd quarter,0:27.9,Edwin Ubiles,WAS,False,2-pointer,2,32-53,'BOS',trails

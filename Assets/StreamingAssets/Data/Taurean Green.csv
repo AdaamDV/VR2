@@ -1,0 +1,26 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1564,1564,1564,200711020NOH,23.4,29.5,4th quarter,0:37.4,Taurean Green,POR,True,3-pointer,25,91-113,'POR',trails
+160,160,160,200711030HOU,41.7,18.8,2nd quarter,10:27.0,Taurean Green,POR,False,2-pointer,22,12-30,'POR',trails
+563,563,563,200711140DEN,3.1,21.3,4th quarter,3:27.0,Taurean Green,POR,False,3-pointer,27,82-102,'POR',trails
+566,566,566,200711140DEN,41.4,23.7,4th quarter,0:30.8,Taurean Green,POR,False,3-pointer,26,89-108,'POR',trails
+1480,1480,1480,200711170WAS,25.1,31.3,2nd quarter,10:28.0,Taurean Green,POR,False,3-pointer,26,18-25,'POR',trails
+1522,1522,1522,200711170WAS,27.6,29.3,4th quarter,4:29.0,Taurean Green,POR,False,3-pointer,25,79-98,'POR',trails
+1530,1530,1530,200711170WAS,43.4,3.6,4th quarter,0:06.8,Taurean Green,POR,False,2-pointer,19,89-109,'POR',trails
+1641,1641,1641,200801090POR,14.5,27.2,4th quarter,3:53.0,Taurean Green,POR,False,3-pointer,24,103-84,'POR',leads
+1643,1643,1643,200801090POR,8.7,21.1,4th quarter,2:37.0,Taurean Green,POR,False,2-pointer,22,105-87,'POR',leads
+1648,1648,1648,200801090POR,25.1,8.1,4th quarter,0:56.9,Taurean Green,POR,False,2-pointer,3,109-91,'POR',leads
+1649,1649,1649,200801090POR,26.3,29.7,4th quarter,0:10.9,Taurean Green,POR,False,3-pointer,25,109-91,'POR',leads
+720,720,720,200802080DET,42.7,16.4,4th quarter,7:56.0,Taurean Green,POR,False,2-pointer,22,61-83,'POR',trails
+723,723,723,200802080DET,11.5,22.4,4th quarter,6:25.0,Taurean Green,POR,True,2-pointer,21,67-87,'POR',trails
+729,729,729,200802080DET,20.9,31.0,4th quarter,1:55.0,Taurean Green,POR,False,3-pointer,26,77-91,'POR',trails
+732,732,732,200802080DET,24.0,5.0,4th quarter,0:54.0,Taurean Green,POR,True,2-pointer,0,82-91,'POR',trails
+546,546,546,200802130DAL,16.3,22.8,4th quarter,1:30.0,Taurean Green,POR,True,2-pointer,19,76-94,'POR',trails
+1201,1201,1201,200802270SEA,24.8,21.4,4th quarter,4:41.0,Taurean Green,DEN,False,2-pointer,16,124-88,'SEA',leads
+1208,1208,1208,200802270SEA,24.0,5.0,4th quarter,0:40.0,Taurean Green,DEN,True,2-pointer,0,136-94,'SEA',leads
+1397,1397,1397,200803080UTA,38.4,24.4,4th quarter,3:09.0,Taurean Green,DEN,False,3-pointer,24,99-126,'UTA',trails
+676,676,676,200803120DEN,41.6,13.2,4th quarter,2:14.0,Taurean Green,DEN,False,2-pointer,19,105-79,'DEN',leads
+678,678,678,200803120DEN,24.0,5.0,4th quarter,1:12.0,Taurean Green,DEN,False,2-pointer,0,105-81,'DEN',leads
+680,680,680,200803120DEN,47.8,6.2,4th quarter,0:16.9,Taurean Green,DEN,False,3-pointer,24,108-83,'DEN',leads
+808,808,808,200803140DEN,8.1,9.8,4th quarter,2:39.0,Taurean Green,DEN,False,2-pointer,17,127-98,'TOR',leads
+366,366,366,200803160DEN,43.0,22.8,4th quarter,4:41.0,Taurean Green,DEN,True,3-pointer,26,152-103,'SEA',leads
+376,376,376,200803160DEN,21.7,26.4,4th quarter,0:09.1,Taurean Green,DEN,True,2-pointer,22,168-114,'SEA',leads

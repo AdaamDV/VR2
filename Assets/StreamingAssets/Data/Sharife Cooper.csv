@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+181,181,181,202110210ATL,16.3,26.2,4th quarter,1:56.0,Sharife Cooper,ATL,False,3-pointer,24,107-79,'DAL',leads
+184,184,184,202110210ATL,12.4,24.6,4th quarter,0:40.0,Sharife Cooper,ATL,False,3-pointer,24,113-84,'DAL',leads
+185,185,185,202110210ATL,24.0,4.8,4th quarter,0:18.0,Sharife Cooper,ATL,False,2-pointer,2,113-84,'DAL',leads
+178,178,178,202111140ATL,24.4,3.9,4th quarter,1:33.0,Sharife Cooper,ATL,True,2-pointer,1,120-99,'MIL',leads
+940,940,940,202112150ORL,22.8,6.3,4th quarter,1:24.0,Sharife Cooper,ATL,True,2-pointer,3,111-95,'ORL',leads
+942,942,942,202112150ORL,25.6,4.7,4th quarter,0:29.0,Sharife Cooper,ATL,False,2-pointer,2,111-97,'ORL',leads
+169,169,169,202112170ATL,24.8,3.7,4th quarter,1:10.0,Sharife Cooper,ATL,False,2-pointer,1,112-133,'DEN',trails
+170,170,170,202112170ATL,26.1,4.8,4th quarter,0:55.0,Sharife Cooper,ATL,False,2-pointer,3,112-133,'DEN',trails
+98,98,98,202112220ATL,21.5,4.1,1st quarter,1:28.0,Sharife Cooper,ATL,False,2-pointer,3,15-21,'ORL',trails
+103,103,103,202112220ATL,47.5,7.9,2nd quarter,10:42.0,Sharife Cooper,ATL,False,3-pointer,24,20-25,'ORL',trails
+107,107,107,202112220ATL,23.3,3.6,2nd quarter,8:58.0,Sharife Cooper,ATL,False,2-pointer,1,25-30,'ORL',trails
+124,124,124,202112220ATL,47.8,6.0,3rd quarter,11:09.0,Sharife Cooper,ATL,False,3-pointer,24,37-49,'ORL',trails
+814,814,814,202201070LAL,35.1,26.9,4th quarter,0:12.0,Sharife Cooper,ATL,True,3-pointer,26,118-134,'LAL',trails
+170,170,170,202201120ATL,32.4,27.4,4th quarter,0:05.0,Sharife Cooper,ATL,False,3-pointer,26,91-115,'MIA',trails

@@ -1,0 +1,10 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+710,710,710,201104080IND,26.9,7.3,4th quarter,2:27.0,Pape Sy,ATL,False,2-pointer,4,92-108,'IND',trails
+724,724,724,201104090WAS,24.7,4.0,4th quarter,7:31.0,Pape Sy,ATL,True,2-pointer,1,74-96,'WAS',trails
+727,727,727,201104090WAS,27.1,9.4,4th quarter,5:02.0,Pape Sy,ATL,False,2-pointer,5,77-104,'WAS',trails
+728,728,728,201104090WAS,26.1,4.8,4th quarter,4:59.0,Pape Sy,ATL,False,2-pointer,2,77-104,'WAS',trails
+731,731,731,201104090WAS,24.9,9.1,4th quarter,3:52.0,Pape Sy,ATL,True,2-pointer,4,79-109,'WAS',trails
+245,245,245,201104130CHA,1.1,10.5,4th quarter,2:15.0,Pape Sy,ATL,False,3-pointer,24,78-91,'CHA',trails
+141,141,141,201105120ATL,27.2,13.2,4th quarter,4:34.0,Pape Sy,ATL,True,2-pointer,9,63-85,'CHI',trails
+144,144,144,201105120ATL,14.2,20.6,4th quarter,3:02.0,Pape Sy,ATL,False,2-pointer,18,65-87,'CHI',trails
+149,149,149,201105120ATL,24.1,5.4,4th quarter,0:37.8,Pape Sy,ATL,True,2-pointer,0,72-91,'CHI',trails

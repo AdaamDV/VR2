@@ -1,0 +1,11 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+503,503,503,200701170LAC,24.0,5.0,1st quarter,3:48.0,Renaldo Major,GSW,False,2-pointer,0,19-24,'GSW',trails
+507,507,507,200701170LAC,36.0,19.8,1st quarter,2:06.0,Renaldo Major,GSW,False,2-pointer,19,23-29,'GSW',trails
+510,510,510,200701170LAC,33.0,20.5,1st quarter,0:38.9,Renaldo Major,GSW,False,2-pointer,18,27-33,'GSW',trails
+513,513,513,200701170LAC,37.0,20.5,2nd quarter,10:56.0,Renaldo Major,GSW,False,2-pointer,20,27-38,'GSW',trails
+521,521,521,200701170LAC,24.0,5.0,2nd quarter,6:29.0,Renaldo Major,GSW,True,2-pointer,0,43-44,'GSW',trails
+523,523,523,200701170LAC,38.3,10.1,2nd quarter,5:20.0,Renaldo Major,GSW,True,2-pointer,15,47-46,'GSW',leads
+524,524,524,200701170LAC,24.0,5.0,2nd quarter,4:33.0,Renaldo Major,GSW,False,2-pointer,0,47-48,'GSW',trails
+525,525,525,200701170LAC,24.0,5.0,2nd quarter,4:09.0,Renaldo Major,GSW,False,2-pointer,0,47-48,'GSW',trails
+528,528,528,200701170LAC,24.0,5.0,2nd quarter,1:52.0,Renaldo Major,GSW,False,2-pointer,0,51-55,'GSW',trails
+530,530,530,200701170LAC,37.8,14.5,2nd quarter,0:36.9,Renaldo Major,GSW,False,2-pointer,17,52-61,'GSW',trails

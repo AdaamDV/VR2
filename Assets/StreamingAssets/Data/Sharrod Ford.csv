@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1313,1313,1313,200511300PHO,39.1,10.8,4th quarter,0:20.5,Sharrod Ford,PHO,True,2-pointer,16,109-91,'IND',leads
+477,477,477,200512040PHO,24.0,5.0,4th quarter,5:20.0,Sharrod Ford,PHO,True,2-pointer,0,105-74,'PHO',leads
+940,940,940,200512060PHO,24.0,5.0,4th quarter,0:01.9,Sharrod Ford,PHO,False,2-pointer,0,128-85,'POR',leads

@@ -1,0 +1,16 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+868,868,868,202104090LAC,46.8,10.3,4th quarter,0:29.0,Malik Fitts,LAC,False,3-pointer,24,126-106,'HOU',leads
+701,701,701,202104180LAC,25.7,4.8,4th quarter,6:47.0,Malik Fitts,LAC,False,2-pointer,2,110-89,'MIN',leads
+707,707,707,202104180LAC,20.8,29.8,4th quarter,2:15.0,Malik Fitts,LAC,True,3-pointer,27,123-99,'MIN',leads
+1573,1573,1573,202112080MIN,28.0,5.2,4th quarter,1:03.0,Malik Fitts,UTA,False,2-pointer,4,133-104,'UTA',leads
+1466,1466,1466,202201070TOR,23.6,6.3,1st quarter,1:49.0,Malik Fitts,UTA,False,2-pointer,3,32-20,'TOR',leads
+1476,1476,1476,202201070TOR,35.3,25.1,2nd quarter,7:47.0,Malik Fitts,UTA,False,3-pointer,25,51-34,'TOR',leads
+1477,1477,1477,202201070TOR,12.2,19.2,2nd quarter,7:02.0,Malik Fitts,UTA,False,2-pointer,20,51-34,'TOR',leads
+1481,1481,1481,202201070TOR,1.5,4.8,2nd quarter,4:24.0,Malik Fitts,UTA,True,3-pointer,23,56-41,'TOR',leads
+1500,1500,1500,202201070TOR,26.2,13.6,3rd quarter,3:09.0,Malik Fitts,UTA,False,2-pointer,11,84-77,'TOR',leads
+1513,1513,1513,202201070TOR,17.5,28.7,4th quarter,6:27.0,Malik Fitts,UTA,False,3-pointer,26,101-111,'TOR',trails
+1515,1515,1515,202201070TOR,26.2,5.3,4th quarter,5:43.0,Malik Fitts,UTA,False,2-pointer,3,101-111,'TOR',trails
+626,626,626,202202270IND,0.7,4.3,4th quarter,0:44.0,Malik Fitts,BOS,False,3-pointer,23,107-126,'IND',trails
+341,341,341,202203110BOS,7.2,24.9,4th quarter,1:21.0,Malik Fitts,BOS,False,3-pointer,27,113-97,'DET',leads
+1468,1468,1468,202203180SAC,1.3,4.7,4th quarter,1:45.0,Malik Fitts,BOS,True,3-pointer,23,121-97,'SAC',leads
+262,262,262,202203200DEN,1.7,3.8,4th quarter,1:22.0,Malik Fitts,BOS,False,3-pointer,22,124-98,'BOS',leads

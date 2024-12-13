@@ -1,0 +1,22 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+658,658,658,201903310LAC,30.0,28.1,4th quarter,8:02.0,Dusty Hannahs,MEM,False,3-pointer,26,78-96,'MEM',trails
+659,659,659,201903310LAC,25.6,4.6,4th quarter,7:49.0,Dusty Hannahs,MEM,True,2-pointer,2,80-96,'MEM',trails
+662,662,662,201903310LAC,9.2,22.8,4th quarter,6:16.0,Dusty Hannahs,MEM,False,3-pointer,25,85-98,'MEM',trails
+664,664,664,201903310LAC,22.4,3.1,4th quarter,5:15.0,Dusty Hannahs,MEM,True,2-pointer,2,89-100,'MEM',trails
+666,666,666,201903310LAC,22.5,13.8,4th quarter,4:28.0,Dusty Hannahs,MEM,False,2-pointer,11,89-105,'MEM',trails
+670,670,670,201903310LAC,39.4,25.9,4th quarter,2:28.0,Dusty Hannahs,MEM,False,3-pointer,27,95-107,'MEM',trails
+672,672,672,201903310LAC,22.7,3.5,4th quarter,1:14.0,Dusty Hannahs,MEM,False,2-pointer,1,95-109,'MEM',trails
+1822,1822,1822,201904030POR,25.8,3.8,3rd quarter,2:12.0,Dusty Hannahs,MEM,False,2-pointer,2,66-82,'POR',trails
+1829,1829,1829,201904030POR,8.2,27.4,4th quarter,9:38.0,Dusty Hannahs,MEM,False,3-pointer,29,73-93,'POR',trails
+1831,1831,1831,201904030POR,25.9,3.9,4th quarter,8:44.0,Dusty Hannahs,MEM,True,2-pointer,2,75-95,'POR',trails
+1839,1839,1839,201904030POR,24.4,11.0,4th quarter,3:31.0,Dusty Hannahs,MEM,False,2-pointer,8,80-105,'POR',trails
+1843,1843,1843,201904030POR,47.0,6.4,4th quarter,1:54.0,Dusty Hannahs,MEM,False,3-pointer,23,82-111,'POR',trails
+825,825,825,202002240LAC,26.2,8.8,4th quarter,6:04.0,Dusty Hannahs,MEM,False,2-pointer,6,72-108,'MEM',trails
+831,831,831,202002240LAC,22.7,4.2,4th quarter,4:05.0,Dusty Hannahs,MEM,True,2-pointer,2,82-114,'MEM',trails
+836,836,836,202002240LAC,24.5,9.2,4th quarter,1:29.0,Dusty Hannahs,MEM,False,2-pointer,6,89-119,'MEM',trails
+622,622,622,202002260HOU,25.9,31.8,4th quarter,4:55.0,Dusty Hannahs,MEM,True,3-pointer,29,100-127,'HOU',trails
+625,625,625,202002260HOU,18.5,4.2,4th quarter,4:07.0,Dusty Hannahs,MEM,False,2-pointer,6,100-127,'HOU',trails
+627,627,627,202002260HOU,25.7,32.7,4th quarter,2:50.0,Dusty Hannahs,MEM,True,3-pointer,29,105-135,'HOU',trails
+629,629,629,202002260HOU,25.4,19.8,4th quarter,2:06.0,Dusty Hannahs,MEM,False,2-pointer,17,105-138,'HOU',trails
+632,632,632,202002260HOU,27.8,7.3,4th quarter,1:06.0,Dusty Hannahs,MEM,True,2-pointer,5,110-140,'HOU',trails
+634,634,634,202002260HOU,20.2,33.1,4th quarter,0:11.0,Dusty Hannahs,MEM,False,3-pointer,30,112-140,'HOU',trails

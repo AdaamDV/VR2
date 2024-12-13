@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1400,1400,1400,201311230SAS,10.2,24.1,4th quarter,2:15.0,Carrick Felix,CLE,False,3-pointer,25,88-120,'SAS',trails
+229,229,229,201311290BOS,33.7,9.4,4th quarter,2:51.0,Carrick Felix,CLE,False,2-pointer,12,77-98,'BOS',trails
+232,232,232,201311290BOS,23.5,3.0,4th quarter,0:44.0,Carrick Felix,CLE,True,2-pointer,1,86-103,'BOS',trails
+233,233,233,201311290BOS,35.6,13.2,4th quarter,0:08.0,Carrick Felix,CLE,False,2-pointer,15,86-103,'BOS',trails
+426,426,426,201312210CHI,11.8,24.6,4th quarter,0:14.0,Carrick Felix,CLE,False,3-pointer,25,84-100,'CHI',trails
+532,532,532,201312230CLE,24.4,3.7,4th quarter,1:49.0,Carrick Felix,CLE,False,2-pointer,1,86-108,'DET',trails
+536,536,536,201312230CLE,24.0,3.3,4th quarter,0:10.0,Carrick Felix,CLE,True,2-pointer,0,92-115,'DET',trails
+491,491,491,201401070CLE,24.9,2.5,4th quarter,1:25.0,Carrick Felix,CLE,True,2-pointer,1,109-88,'CLE',leads
+487,487,487,201404160CLE,8.3,14.8,4th quarter,11:22.0,Carrick Felix,CLE,False,2-pointer,20,81-66,'CLE',leads
+490,490,490,201404160CLE,24.7,5.5,4th quarter,10:20.0,Carrick Felix,CLE,True,2-pointer,3,85-67,'CLE',leads
+492,492,492,201404160CLE,46.6,13.2,4th quarter,9:15.0,Carrick Felix,CLE,True,3-pointer,25,90-70,'CLE',leads
+497,497,497,201404160CLE,46.8,11.5,4th quarter,6:09.0,Carrick Felix,CLE,True,3-pointer,24,102-77,'CLE',leads
+500,500,500,201404160CLE,24.4,3.0,4th quarter,3:16.0,Carrick Felix,CLE,True,2-pointer,0,108-80,'CLE',leads
+505,505,505,201404160CLE,14.8,28.0,4th quarter,0:55.0,Carrick Felix,CLE,False,3-pointer,27,112-85,'CLE',leads

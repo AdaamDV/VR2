@@ -1,0 +1,14 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+527,527,527,201810200DEN,22.7,27.9,4th quarter,2:30.0,Thomas Welsh,DEN,False,3-pointer,25,115-89,'PHO',leads
+685,685,685,201811230DEN,19.9,29.3,4th quarter,2:59.0,Thomas Welsh,DEN,True,3-pointer,26,108-79,'ORL',leads
+686,686,686,201811230DEN,23.4,3.8,4th quarter,2:22.0,Thomas Welsh,DEN,True,2-pointer,1,110-81,'ORL',leads
+447,447,447,201812220LAC,12.3,27.9,4th quarter,9:07.0,Thomas Welsh,DEN,True,3-pointer,27,89-110,'DEN',trails
+453,453,453,201812220LAC,28.4,20.9,4th quarter,7:04.0,Thomas Welsh,DEN,False,2-pointer,18,95-117,'DEN',trails
+457,457,457,201812220LAC,32.9,27.4,4th quarter,5:22.0,Thomas Welsh,DEN,False,3-pointer,26,97-121,'DEN',trails
+463,463,463,201812220LAC,17.4,29.9,4th quarter,2:54.0,Thomas Welsh,DEN,False,3-pointer,27,103-126,'DEN',trails
+464,464,464,201812220LAC,32.1,16.1,4th quarter,2:23.0,Thomas Welsh,DEN,True,2-pointer,15,105-128,'DEN',trails
+465,465,465,201812220LAC,25.6,29.0,4th quarter,1:51.0,Thomas Welsh,DEN,True,3-pointer,26,108-128,'DEN',trails
+467,467,467,201812220LAC,30.5,27.3,4th quarter,0:47.0,Thomas Welsh,DEN,False,3-pointer,25,108-132,'DEN',trails
+983,983,983,201903060LAL,39.4,0.9,4th quarter,0:19.0,Thomas Welsh,DEN,False,2-pointer,16,115-97,'LAL',leads
+511,511,511,201903120DEN,34.4,20.3,4th quarter,1:14.0,Thomas Welsh,DEN,True,2-pointer,20,128-105,'DEN',leads
+512,512,512,201903120DEN,21.7,13.8,4th quarter,0:42.0,Thomas Welsh,DEN,True,2-pointer,11,131-105,'DEN',leads

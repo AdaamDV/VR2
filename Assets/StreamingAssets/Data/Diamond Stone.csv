@@ -1,0 +1,14 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+499,499,499,201610310LAC,15.4,5.3,4th quarter,2:34.0,Diamond Stone,LAC,False,2-pointer,9,113-91,'PHO',leads
+691,691,691,201611140LAC,23.9,4.6,4th quarter,7:17.0,Diamond Stone,LAC,False,2-pointer,1,113-76,'LAC',leads
+695,695,695,201611140LAC,16.1,4.1,4th quarter,4:35.0,Diamond Stone,LAC,False,2-pointer,7,115-84,'LAC',leads
+696,696,696,201611140LAC,8.9,7.6,4th quarter,4:03.0,Diamond Stone,LAC,False,2-pointer,15,115-84,'LAC',leads
+698,698,698,201611140LAC,22.8,3.2,4th quarter,3:07.0,Diamond Stone,LAC,False,2-pointer,1,118-86,'LAC',leads
+699,699,699,201611140LAC,25.0,4.3,4th quarter,2:39.0,Diamond Stone,LAC,True,2-pointer,1,120-89,'LAC',leads
+700,700,700,201611140LAC,7.4,7.1,4th quarter,1:33.0,Diamond Stone,LAC,True,2-pointer,17,122-92,'LAC',leads
+693,693,693,201612200LAC,25.9,3.7,4th quarter,1:02.0,Diamond Stone,LAC,False,2-pointer,2,119-100,'DEN',leads
+694,694,694,201612200LAC,13.0,17.4,4th quarter,0:35.0,Diamond Stone,LAC,False,2-pointer,18,119-102,'DEN',leads
+226,226,226,201701280GSW,35.0,18.4,4th quarter,4:19.0,Diamond Stone,LAC,True,2-pointer,19,91-134,'GSW',trails
+232,232,232,201701280GSW,37.5,4.1,4th quarter,1:03.0,Diamond Stone,LAC,False,2-pointer,14,96-142,'GSW',trails
+1589,1589,1589,201702130UTA,15.2,4.8,4th quarter,0:40.0,Diamond Stone,LAC,False,2-pointer,8,88-72,'UTA',leads
+1590,1590,1590,201702130UTA,6.1,8.1,4th quarter,0:13.0,Diamond Stone,LAC,False,2-pointer,18,88-72,'UTA',leads

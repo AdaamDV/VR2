@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+165,165,165,201805160HOU,23.4,4.3,4th quarter,2:46.0,Aaron Jackson,HOU,True,2-pointer,1,123-94,'HOU',leads
+168,168,168,201805160HOU,22.9,4.9,4th quarter,1:28.0,Aaron Jackson,HOU,True,2-pointer,2,125-97,'HOU',leads
+171,171,171,201805160HOU,9.0,23.9,4th quarter,0:14.0,Aaron Jackson,HOU,False,3-pointer,25,127-101,'HOU',leads

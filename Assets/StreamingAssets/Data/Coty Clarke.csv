@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+212,212,212,201603150IND,47.6,4.1,2nd quarter,6:35.0,Coty Clarke,BOS,True,3-pointer,23,30-33,'IND',trails
+213,213,213,201603150IND,14.3,17.9,2nd quarter,5:28.0,Coty Clarke,BOS,False,2-pointer,17,30-37,'IND',trails
+214,214,214,201603150IND,21.1,4.6,2nd quarter,5:02.0,Coty Clarke,BOS,False,2-pointer,3,30-37,'IND',trails
+1274,1274,1274,201603180TOR,19.3,28.2,4th quarter,1:48.0,Coty Clarke,BOS,True,3-pointer,25,85-101,'TOR',trails

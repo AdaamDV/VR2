@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+414,414,414,202102270OKC,25.7,29.6,4th quarter,5:41.0,Greg Whittington,DEN,False,3-pointer,26,116-83,'OKC',leads
+419,419,419,202102270OKC,46.8,2.8,4th quarter,3:03.0,Greg Whittington,DEN,False,3-pointer,23,120-86,'OKC',leads
+696,696,696,202103130DEN,23.8,18.3,4th quarter,2:09.0,Greg Whittington,DEN,False,2-pointer,15,97-114,'DAL',trails

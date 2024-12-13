@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+142,142,142,200010310ATL,24.0,5.0,4th quarter,0:10.7,Anthony Miller,ATL,False,2-pointer,0,82-106,'CHH',trails
+707,707,707,200011020NYK,12.1,6.5,4th quarter,1:29.0,Anthony Miller,ATL,True,2-pointer,12,69-91,NYK,trails
+1528,1528,1528,200411030PHO,24.0,5.0,3rd quarter,2:00.0,Anthony Miller,ATL,False,2-pointer,0,50-84,'PHO',trails
+1554,1554,1554,200411030PHO,24.0,5.0,4th quarter,1:40.0,Anthony Miller,ATL,True,2-pointer,0,76-106,'PHO',trails
+1557,1557,1557,200411030PHO,24.0,5.0,4th quarter,0:53.5,Anthony Miller,ATL,True,2-pointer,0,80-110,'PHO',trails

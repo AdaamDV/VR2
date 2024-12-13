@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1029,1029,1029,202112310MEM,0.8,4.6,2nd quarter,10:28.0,Xavier Sneed,MEM,False,3-pointer,23,37-34,'SAS',leads
+101,101,101,202201030BRK,25.8,28.5,4th quarter,0:15.0,Xavier Sneed,MEM,False,3-pointer,25,118-104,'MEM',leads
+2109,2109,2109,202203180UTA,6.5,23.3,4th quarter,0:33.0,Xavier Sneed,UTA,True,3-pointer,27,121-90,'UTA',leads

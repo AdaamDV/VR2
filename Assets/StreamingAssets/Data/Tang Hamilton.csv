@@ -1,0 +1,19 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+11,11,11,200111030ATL,42.2,5.4,1st quarter,3:29.0,Tang Hamilton,MIA,False,2-pointer,18,11-13,'MIA',trails
+13,13,13,200111030ATL,24.0,5.0,1st quarter,2:57.0,Tang Hamilton,MIA,True,2-pointer,0,15-13,'MIA',leads
+24,24,24,200111030ATL,22.2,22.7,2nd quarter,7:45.0,Tang Hamilton,MIA,False,2-pointer,18,23-28,'MIA',trails
+26,26,26,200111030ATL,24.0,5.0,2nd quarter,7:18.0,Tang Hamilton,MIA,True,2-pointer,0,25-30,'MIA',trails
+28,28,28,200111030ATL,24.0,5.0,2nd quarter,5:51.0,Tang Hamilton,MIA,True,2-pointer,0,31-34,'MIA',trails
+47,47,47,200111030ATL,32.7,7.1,3rd quarter,8:13.0,Tang Hamilton,MIA,False,2-pointer,9,48-55,'MIA',trails
+50,50,50,200111030ATL,24.0,5.0,3rd quarter,5:42.0,Tang Hamilton,MIA,True,2-pointer,0,53-56,'MIA',trails
+53,53,53,200111030ATL,37.2,9.9,3rd quarter,3:31.0,Tang Hamilton,MIA,False,2-pointer,14,54-58,'MIA',trails
+517,517,517,200111080MIL,24.0,5.0,3rd quarter,1:51.0,Tang Hamilton,MIA,True,2-pointer,0,57-67,'MIA',trails
+519,519,519,200111080MIL,24.0,5.0,3rd quarter,0:59.8,Tang Hamilton,MIA,True,2-pointer,0,61-67,'MIA',trails
+520,520,520,200111080MIL,41.4,7.3,3rd quarter,0:29.5,Tang Hamilton,MIA,True,2-pointer,18,63-67,'MIA',trails
+531,531,531,200111080MIL,25.6,14.1,4th quarter,7:51.0,Tang Hamilton,MIA,False,2-pointer,9,70-73,'MIA',trails
+718,718,718,200111100MIA,44.5,5.0,1st quarter,10:22.0,Tang Hamilton,MIA,False,2-pointer,21,0-3,'MIA',trails
+754,754,754,200111100MIA,24.0,5.0,3rd quarter,10:09.0,Tang Hamilton,MIA,True,2-pointer,0,33-51,'MIA',trails
+759,759,759,200111100MIA,10.8,19.1,3rd quarter,6:47.0,Tang Hamilton,MIA,True,2-pointer,19,40-56,'MIA',trails
+765,765,765,200111100MIA,3.6,11.6,3rd quarter,3:51.0,Tang Hamilton,MIA,False,2-pointer,21,44-59,'MIA',trails
+404,404,404,200111130MIA,34.6,22.7,1st quarter,5:56.0,Tang Hamilton,MIA,False,2-pointer,21,6-13,'MIA',trails
+788,788,788,200111200MIA,5.5,5.7,2nd quarter,7:54.0,Tang Hamilton,MIA,True,2-pointer,19,24-23,'MIA',leads

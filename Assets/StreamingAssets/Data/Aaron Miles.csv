@@ -1,0 +1,19 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+973,973,973,200511020GSW,25.3,7.2,3rd quarter,0:01.0,Aaron Miles,GSW,False,2-pointer,3,86-73,'GSW',leads
+465,465,465,200511040GSW,24.6,6.8,4th quarter,10:54.0,Aaron Miles,GSW,True,2-pointer,2,60-72,'UTA',trails
+939,939,939,200511120PHO,24.0,5.0,2nd quarter,9:47.0,Aaron Miles,GSW,True,2-pointer,0,22-40,'PHO',trails
+168,168,168,200511140GSW,35.3,20.0,4th quarter,0:53.9,Aaron Miles,GSW,False,2-pointer,19,96-80,'GSW',leads
+599,599,599,200511230GSW,26.6,6.8,3rd quarter,0:01.9,Aaron Miles,GSW,False,2-pointer,3,60-95,'SAS',trails
+602,602,602,200511230GSW,11.2,16.0,4th quarter,10:46.0,Aaron Miles,GSW,False,2-pointer,17,66-98,'SAS',trails
+607,607,607,200511230GSW,39.8,4.5,4th quarter,8:06.0,Aaron Miles,GSW,False,2-pointer,16,73-105,'SAS',trails
+612,612,612,200511230GSW,20.9,7.8,4th quarter,5:24.0,Aaron Miles,GSW,False,2-pointer,4,79-111,'SAS',trails
+1816,1816,1816,200511250UTA,24.0,5.0,2nd quarter,5:14.0,Aaron Miles,GSW,False,2-pointer,0,28-42,'UTA',trails
+578,578,578,200511260GSW,38.0,5.5,2nd quarter,6:47.0,Aaron Miles,GSW,True,2-pointer,14,47-34,'TOR',leads
+609,609,609,200511260GSW,21.9,7.3,3rd quarter,0:30.9,Aaron Miles,GSW,False,2-pointer,3,90-63,'TOR',leads
+625,625,625,200511260GSW,15.0,8.1,4th quarter,0:52.6,Aaron Miles,GSW,False,2-pointer,10,112-89,'TOR',leads
+393,393,393,200511280GSW,19.6,25.1,2nd quarter,11:07.0,Aaron Miles,GSW,False,2-pointer,21,20-22,'NOK',trails
+452,452,452,200511280GSW,33.0,21.9,4th quarter,3:08.0,Aaron Miles,GSW,False,2-pointer,19,90-71,'NOK',leads
+1653,1653,1653,200512160TOR,33.4,19.8,4th quarter,7:48.0,Aaron Miles,GSW,True,2-pointer,18,85-75,TOR,leads
+508,508,508,200512180NJN,36.5,20.3,2nd quarter,10:16.0,Aaron Miles,GSW,True,2-pointer,20,27-42,'NJN',trails
+559,559,559,200512180NJN,24.0,5.0,4th quarter,0:41.9,Aaron Miles,GSW,False,2-pointer,0,87-116,'NJN',trails
+88,88,88,200512190BOS,32.9,20.5,4th quarter,0:11.0,Aaron Miles,GSW,True,2-pointer,18,98-109,'BOS',trails

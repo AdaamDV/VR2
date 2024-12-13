@@ -1,0 +1,17 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1389,1389,1389,201903200POR,23.2,8.8,4th quarter,4:58.0,Kostas Antetokounmpo,DAL,False,2-pointer,6,104-120,'POR',trails
+1397,1397,1397,201903200POR,23.1,4.6,4th quarter,0:48.0,Kostas Antetokounmpo,DAL,False,2-pointer,2,115-124,'POR',trails
+649,649,649,201903230GSW,20.2,6.3,4th quarter,0:32.0,Kostas Antetokounmpo,DAL,False,2-pointer,5,126-89,'DAL',leads
+532,532,532,202008130LAL,25.4,4.3,3rd quarter,2:08.0,Kostas Antetokounmpo,LAL,True,2-pointer,2,75-101,'LAL',trails
+537,537,537,202008130LAL,23.8,5.5,3rd quarter,0:04.0,Kostas Antetokounmpo,LAL,True,2-pointer,2,84-107,'LAL',trails
+553,553,553,202008130LAL,24.0,2.7,4th quarter,4:31.0,Kostas Antetokounmpo,LAL,True,2-pointer,1,107-126,'LAL',trails
+1046,1046,1046,202012270LAL,24.5,5.4,4th quarter,4:26.0,Kostas Antetokounmpo,LAL,False,2-pointer,2,115-75,'LAL',leads
+1049,1049,1049,202012270LAL,29.1,9.3,4th quarter,3:32.0,Kostas Antetokounmpo,LAL,False,2-pointer,8,117-78,'LAL',leads
+673,673,673,202102280LAL,24.0,3.3,4th quarter,2:55.0,Kostas Antetokounmpo,LAL,True,2-pointer,0,115-82,'LAL',leads
+427,427,427,202103230NOP,26.0,4.4,4th quarter,0:38.0,Kostas Antetokounmpo,LAL,True,2-pointer,2,108-128,'NOP',trails
+831,831,831,202103310LAL,28.6,4.7,4th quarter,2:01.0,Kostas Antetokounmpo,LAL,False,2-pointer,5,91-109,'LAL',trails
+87,87,87,202104100BRK,20.2,5.4,4th quarter,2:25.0,Kostas Antetokounmpo,LAL,False,2-pointer,4,117-94,'LAL',leads
+88,88,88,202104100BRK,24.1,4.6,4th quarter,2:25.0,Kostas Antetokounmpo,LAL,True,2-pointer,1,119-94,'LAL',leads
+536,536,536,202104150LAL,20.2,10.3,4th quarter,0:08.0,Kostas Antetokounmpo,LAL,False,2-pointer,8,113-121,'LAL',trails
+878,878,878,202104190LAL,23.7,7.3,4th quarter,4:39.0,Kostas Antetokounmpo,LAL,False,2-pointer,4,83-105,'LAL',trails
+885,885,885,202104190LAL,24.9,8.8,4th quarter,0:43.0,Kostas Antetokounmpo,LAL,False,2-pointer,6,95-111,'LAL',trails

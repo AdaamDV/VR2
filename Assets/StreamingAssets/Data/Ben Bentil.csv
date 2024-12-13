@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+169,169,169,201703070DAL,17.5,6.1,4th quarter,2:31.0,Ben Bentil,DAL,False,2-pointer,7,120-99,'DAL',leads
+171,171,171,201703070DAL,40.6,4.6,4th quarter,1:37.0,Ben Bentil,DAL,False,2-pointer,16,120-101,'DAL',leads
+172,172,172,201703070DAL,1.2,3.8,4th quarter,0:07.0,Ben Bentil,DAL,False,3-pointer,23,122-109,'DAL',leads

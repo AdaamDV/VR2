@@ -1,0 +1,12 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+518,518,518,200101110NJN,35.5,26.9,2nd quarter,9:17.0,James Robinson,ORL,False,3-pointer,25,36-32,'NJN',leads
+547,547,547,200101110NJN,12.7,22.1,3rd quarter,3:41.0,James Robinson,ORL,False,2-pointer,21,73-68,'NJN',leads
+550,550,550,200101110NJN,39.9,7.8,3rd quarter,1:11.0,James Robinson,ORL,False,2-pointer,16,77-70,'NJN',leads
+551,551,551,200101110NJN,37.8,26.5,3rd quarter,0:21.5,James Robinson,ORL,False,3-pointer,26,77-70,'NJN',leads
+1065,1065,1065,200101130ORL,38.0,26.3,2nd quarter,7:31.0,James Robinson,ORL,False,3-pointer,25,38-40,'ORL',trails
+1106,1106,1106,200101130ORL,15.4,20.8,4th quarter,9:08.0,James Robinson,ORL,True,2-pointer,18,95-71,'ORL',leads
+1114,1114,1114,200101130ORL,28.7,20.8,4th quarter,2:39.0,James Robinson,ORL,False,2-pointer,16,98-84,'ORL',leads
+1118,1118,1118,200101130ORL,24.3,30.7,4th quarter,1:02.0,James Robinson,ORL,True,3-pointer,26,105-89,'ORL',leads
+1119,1119,1119,200101130ORL,41.6,22.3,4th quarter,0:31.5,James Robinson,ORL,True,3-pointer,25,108-92,'ORL',leads
+180,180,180,200101180DAL,24.0,5.0,2nd quarter,10:37.0,James Robinson,ORL,True,2-pointer,0,39-19,'DAL',leads
+344,344,344,200101250MIN,14.2,14.7,2nd quarter,11:10.0,James Robinson,ORL,False,2-pointer,14,30-34,'ORL',trails

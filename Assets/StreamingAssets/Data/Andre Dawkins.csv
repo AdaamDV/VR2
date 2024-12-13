@@ -1,0 +1,7 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+643,643,643,201411040MIA,3.3,16.5,4th quarter,0:35.0,Andre Dawkins,MIA,False,3-pointer,24,89-108,'HOU',trails
+204,204,204,201411170BRK,36.2,24.7,2nd quarter,7:12.0,Andre Dawkins,MIA,True,3-pointer,24,27-29,'MIA',trails
+211,211,211,201411170BRK,1.4,1.9,2nd quarter,2:51.0,Andre Dawkins,MIA,False,3-pointer,22,34-37,'MIA',trails
+419,419,419,201501030HOU,37.9,26.0,4th quarter,8:18.0,Andre Dawkins,MIA,False,3-pointer,26,66-101,'MIA',trails
+421,421,421,201501030HOU,37.0,24.4,4th quarter,7:37.0,Andre Dawkins,MIA,False,3-pointer,25,69-101,'MIA',trails
+423,423,423,201501030HOU,29.8,27.9,4th quarter,6:47.0,Andre Dawkins,MIA,False,3-pointer,25,69-101,'MIA',trails

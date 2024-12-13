@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+121,121,121,202112230DAL,0.9,10.6,2nd quarter,2:23.0,George King,DAL,False,3-pointer,24,37-39,'DAL',trails
+720,720,720,202112250UTA,47.6,2.6,1st quarter,1:12.0,George King,DAL,False,3-pointer,24,30-21,'DAL',leads
+736,736,736,202112250UTA,30.3,27.0,2nd quarter,5:22.0,George King,DAL,False,3-pointer,25,46-48,'DAL',trails
+737,737,737,202112250UTA,27.0,4.3,2nd quarter,4:26.0,George King,DAL,False,2-pointer,3,46-52,'DAL',trails
+982,982,982,202112270POR,46.5,5.9,4th quarter,1:46.0,George King,DAL,False,3-pointer,23,130-110,'POR',leads

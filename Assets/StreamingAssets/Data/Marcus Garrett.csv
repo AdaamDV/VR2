@@ -1,0 +1,22 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+541,541,541,202110210MIA,27.3,5.2,4th quarter,1:41.0,Marcus Garrett,MIA,False,2-pointer,4,132-91,'MIA',leads
+1094,1094,1094,202112150PHI,25.8,15.9,4th quarter,10:28.0,Marcus Garrett,MIA,False,2-pointer,13,81-73,'MIA',leads
+737,737,737,202112170ORL,25.0,5.8,2nd quarter,10:18.0,Marcus Garrett,MIA,False,2-pointer,3,36-27,'MIA',leads
+777,777,777,202112170ORL,26.3,4.3,4th quarter,11:18.0,Marcus Garrett,MIA,False,2-pointer,3,93-83,'MIA',leads
+192,192,192,202112190DET,27.5,8.3,1st quarter,2:21.0,Marcus Garrett,MIA,True,2-pointer,6,19-18,'MIA',leads
+233,233,233,202112190DET,7.2,23.3,4th quarter,10:50.0,Marcus Garrett,MIA,True,3-pointer,26,72-79,'MIA',trails
+464,464,464,202112210MIA,27.3,14.3,2nd quarter,5:16.0,Marcus Garrett,MIA,False,2-pointer,12,50-32,'MIA',leads
+473,473,473,202112210MIA,26.1,4.8,2nd quarter,1:00.0,Marcus Garrett,MIA,False,2-pointer,3,64-41,'MIA',leads
+522,522,522,202112210MIA,15.2,20.8,4th quarter,0:48.0,Marcus Garrett,MIA,True,2-pointer,20,125-93,'MIA',leads
+978,978,978,202112230MIA,25.8,4.3,1st quarter,3:22.0,Marcus Garrett,MIA,True,2-pointer,2,17-24,'MIA',trails
+983,983,983,202112230MIA,16.1,22.8,1st quarter,0:02.0,Marcus Garrett,MIA,False,2-pointer,21,27-29,'MIA',trails
+989,989,989,202112230MIA,23.8,6.9,2nd quarter,9:11.0,Marcus Garrett,MIA,False,2-pointer,4,36-39,'MIA',trails
+637,637,637,202112260MIA,0.9,2.3,2nd quarter,11:39.0,Marcus Garrett,MIA,False,3-pointer,23,22-24,'MIA',trails
+689,689,689,202112260MIA,1.9,6.0,4th quarter,9:28.0,Marcus Garrett,MIA,False,3-pointer,22,75-65,'MIA',leads
+438,438,438,202112280MIA,24.8,4.2,1st quarter,0:53.0,Marcus Garrett,MIA,False,2-pointer,1,33-24,'MIA',leads
+442,442,442,202112280MIA,23.5,4.9,2nd quarter,11:36.0,Marcus Garrett,MIA,False,2-pointer,2,38-26,'MIA',leads
+443,443,443,202112280MIA,24.0,3.3,2nd quarter,11:32.0,Marcus Garrett,MIA,False,2-pointer,0,38-26,'MIA',leads
+451,451,451,202112280MIA,26.1,4.4,2nd quarter,7:22.0,Marcus Garrett,MIA,True,2-pointer,2,49-33,'MIA',leads
+484,484,484,202112280MIA,22.6,4.3,4th quarter,11:19.0,Marcus Garrett,MIA,False,2-pointer,2,94-73,'MIA',leads
+486,486,486,202112280MIA,12.2,28.8,4th quarter,10:13.0,Marcus Garrett,MIA,False,3-pointer,28,94-79,'MIA',leads
+492,492,492,202112280MIA,24.0,3.3,4th quarter,6:43.0,Marcus Garrett,MIA,False,2-pointer,0,102-85,'MIA',leads

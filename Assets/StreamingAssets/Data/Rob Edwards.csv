@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+951,951,951,202112290PHO,13.8,26.5,4th quarter,1:38.0,Rob Edwards,OKC,False,3-pointer,25,97-113,'PHO',trails
+804,804,804,202201020OKC,1.0,0.8,1st quarter,3:17.0,Rob Edwards,OKC,False,3-pointer,23,18-17,'DAL',leads
+822,822,822,202201020OKC,6.2,21.5,2nd quarter,5:18.0,Rob Edwards,OKC,True,3-pointer,26,34-43,'DAL',trails
+823,823,823,202201020OKC,1.0,0.1,2nd quarter,4:37.0,Rob Edwards,OKC,False,3-pointer,23,34-43,'DAL',trails

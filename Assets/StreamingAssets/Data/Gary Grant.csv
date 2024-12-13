@@ -1,0 +1,8 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1717,1717,1717,200012230POR,43.1,2.3,4th quarter,1:30.0,Gary Grant,POR,True,2-pointer,19,85-67,'POR',leads
+753,753,753,200012290POR,16.1,23.6,4th quarter,4:05.0,Gary Grant,POR,True,2-pointer,20,94-74,'POR',leads
+759,759,759,200012290POR,10.4,16.8,4th quarter,0:54.8,Gary Grant,POR,True,2-pointer,18,102-78,'POR',leads
+299,299,299,200101010POR,24.0,5.0,4th quarter,4:55.0,Gary Grant,POR,False,2-pointer,0,82-61,'POR',leads
+303,303,303,200101010POR,13.9,23.6,4th quarter,3:41.0,Gary Grant,POR,False,2-pointer,21,84-61,'POR',leads
+1259,1259,1259,200101030POR,36.3,20.8,4th quarter,2:14.0,Gary Grant,POR,True,2-pointer,20,98-80,POR,leads
+1261,1261,1261,200101030POR,11.8,20.2,4th quarter,1:20.0,Gary Grant,POR,True,2-pointer,19,100-82,POR,leads

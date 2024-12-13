@@ -1,0 +1,8 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+84,84,84,201704040CLE,6.9,14.1,4th quarter,0:55.0,Patricio Garino,ORL,False,2-pointer,20,100-122,'ORL',trails
+612,612,612,201704060ORL,1.2,7.6,2nd quarter,8:17.0,Patricio Garino,ORL,False,3-pointer,23,31-30,'ORL',leads
+622,622,622,201704060ORL,0.5,8.7,2nd quarter,4:21.0,Patricio Garino,ORL,False,3-pointer,24,35-38,'ORL',trails
+659,659,659,201704060ORL,41.1,15.0,4th quarter,9:46.0,Patricio Garino,ORL,False,2-pointer,20,86-76,'ORL',leads
+668,668,668,201704060ORL,1.2,5.8,4th quarter,3:56.0,Patricio Garino,ORL,False,3-pointer,22,100-91,'ORL',leads
+251,251,251,201704100CHI,8.5,22.8,4th quarter,4:47.0,Patricio Garino,ORL,False,3-pointer,25,69-107,'ORL',trails
+2030,2030,2030,201704120ORL,0.7,3.7,2nd quarter,7:11.0,Patricio Garino,ORL,False,3-pointer,23,45-29,'DET',leads

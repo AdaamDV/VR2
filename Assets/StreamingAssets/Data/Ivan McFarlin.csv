@@ -1,0 +1,14 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+243,243,243,200611070IND,13.7,6.5,4th quarter,3:00.0,Ivan McFarlin,PHI,True,2-pointer,10,76-92,'IND',trails
+248,248,248,200611070IND,25.5,5.8,4th quarter,1:01.0,Ivan McFarlin,PHI,False,2-pointer,2,81-92,'IND',trails
+249,249,249,200611070IND,22.9,6.7,4th quarter,0:36.9,Ivan McFarlin,PHI,True,2-pointer,2,83-95,'IND',trails
+875,875,875,200611180LAC,24.0,5.0,3rd quarter,3:13.0,Ivan McFarlin,PHI,False,2-pointer,0,61-56,'PHI',leads
+1103,1103,1103,200611210PHI,24.0,5.0,2nd quarter,11:20.0,Ivan McFarlin,PHI,False,2-pointer,0,21-26,'DET',trails
+1111,1111,1111,200611210PHI,24.0,5.0,2nd quarter,7:22.0,Ivan McFarlin,PHI,False,2-pointer,0,28-34,'DET',trails
+1113,1113,1113,200611210PHI,24.0,5.0,2nd quarter,6:49.0,Ivan McFarlin,PHI,False,2-pointer,0,28-34,'DET',trails
+831,831,831,200611220MIL,24.0,5.0,2nd quarter,11:38.0,Ivan McFarlin,PHI,True,2-pointer,0,33-25,'MIL',leads
+366,366,366,200611270MIA,24.0,5.0,2nd quarter,0:25.4,Ivan McFarlin,PHI,True,2-pointer,0,51-49,'MIA',leads
+367,367,367,200611270MIA,16.9,35.3,2nd quarter,0:00.2,Ivan McFarlin,PHI,False,3-pointer,31,51-51,'MIA',tied
+357,357,357,200612060CHI,24.0,5.0,4th quarter,0:19.0,Ivan McFarlin,PHI,True,2-pointer,0,94-121,'CHI',trails
+1641,1641,1641,200612130PHI,24.0,5.0,4th quarter,9:49.0,Ivan McFarlin,PHI,False,2-pointer,0,61-78,'BOS',trails
+1642,1642,1642,200612130PHI,24.0,5.0,4th quarter,9:48.0,Ivan McFarlin,PHI,False,2-pointer,0,61-78,'BOS',trails

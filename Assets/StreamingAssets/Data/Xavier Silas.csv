@@ -1,0 +1,20 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+352,352,352,201204250MIL,10.4,14.9,2nd quarter,10:05.0,Xavier Silas,PHI,False,2-pointer,17,26-34,'MIL',trails
+354,354,354,201204250MIL,0.6,16.3,2nd quarter,8:45.0,Xavier Silas,PHI,False,3-pointer,26,26-36,'MIL',trails
+357,357,357,201204250MIL,41.0,8.1,2nd quarter,7:06.0,Xavier Silas,PHI,False,2-pointer,17,29-39,'MIL',trails
+398,398,398,201204250MIL,47.7,5.0,3rd quarter,1:48.0,Xavier Silas,PHI,True,3-pointer,24,69-61,'MIL',leads
+407,407,407,201204250MIL,23.6,6.5,4th quarter,9:19.0,Xavier Silas,PHI,True,2-pointer,2,73-67,'MIL',leads
+669,669,669,201204260DET,6.5,25.3,1st quarter,2:49.0,Xavier Silas,PHI,False,3-pointer,27,13-18,'DET',trails
+676,676,676,201204260DET,24.1,5.1,2nd quarter,11:40.0,Xavier Silas,PHI,False,2-pointer,0,15-26,'DET',trails
+723,723,723,201204260DET,19.9,12.5,3rd quarter,0:44.9,Xavier Silas,PHI,False,2-pointer,9,64-84,'DET',trails
+726,726,726,201204260DET,10.6,27.0,4th quarter,9:34.0,Xavier Silas,PHI,False,3-pointer,26,69-92,'DET',trails
+727,727,727,201204260DET,24.1,5.0,4th quarter,8:54.0,Xavier Silas,PHI,False,2-pointer,0,69-92,'DET',trails
+730,730,730,201204260DET,24.0,10.5,4th quarter,6:58.0,Xavier Silas,PHI,True,2-pointer,6,76-95,'DET',trails
+732,732,732,201204260DET,24.7,31.6,4th quarter,6:00.0,Xavier Silas,PHI,False,3-pointer,27,76-97,'DET',trails
+735,735,735,201204260DET,24.2,5.6,4th quarter,4:00.0,Xavier Silas,PHI,True,2-pointer,1,78-100,'DET',trails
+737,737,737,201204260DET,40.8,26.1,4th quarter,2:42.0,Xavier Silas,PHI,False,3-pointer,27,80-103,'DET',trails
+738,738,738,201204260DET,24.1,5.0,4th quarter,2:14.0,Xavier Silas,PHI,False,2-pointer,0,80-103,'DET',trails
+302,302,302,201205160PHI,24.0,5.7,4th quarter,0:48.7,Xavier Silas,PHI,True,2-pointer,1,91-107,'BOS',trails
+945,945,945,201804040TOR,38.1,25.5,3rd quarter,0:52.0,Xavier Silas,BOS,False,3-pointer,26,48-67,'TOR',trails
+961,961,961,201804040TOR,4.4,18.2,4th quarter,1:49.0,Xavier Silas,BOS,False,3-pointer,24,77-94,'TOR',trails
+963,963,963,201804040TOR,24.5,18.1,4th quarter,1:38.0,Xavier Silas,BOS,False,2-pointer,15,77-94,'TOR',trails

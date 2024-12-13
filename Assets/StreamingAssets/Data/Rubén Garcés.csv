@@ -1,0 +1,23 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+488,488,488,200010310GSW,24.0,5.0,2nd quarter,5:30.0,Rubén Garcés,PHO,False,2-pointer,0,43-41,'PHO',leads
+506,506,506,200011040DEN,24.0,5.0,4th quarter,5:12.0,Rubén Garcés,PHO,True,2-pointer,0,76-88,'PHO',trails
+518,518,518,200011040DEN,24.0,5.0,4th quarter,0:17.1,Rubén Garcés,PHO,True,2-pointer,0,100-99,'PHO',leads
+272,272,272,200011050PHO,24.0,5.0,2nd quarter,7:53.0,Rubén Garcés,PHO,True,2-pointer,0,32-34,'HOU',trails
+316,316,316,200011050PHO,24.0,5.0,4th quarter,9:10.0,Rubén Garcés,PHO,True,2-pointer,0,82-72,'HOU',leads
+324,324,324,200011050PHO,24.0,5.0,4th quarter,2:04.0,Rubén Garcés,PHO,True,2-pointer,0,98-88,'HOU',leads
+1250,1250,1250,200011150PHO,19.2,25.9,4th quarter,1:09.0,Rubén Garcés,PHO,False,2-pointer,21,91-77,'DAL',leads
+1267,1267,1267,200012280PHO,24.0,5.0,4th quarter,10:42.0,Rubén Garcés,PHO,False,2-pointer,0,61-90,'LAL',trails
+1268,1268,1268,200012280PHO,24.0,5.0,4th quarter,10:27.0,Rubén Garcés,PHO,True,2-pointer,0,63-90,'LAL',trails
+1270,1270,1270,200012280PHO,24.0,5.0,4th quarter,9:49.0,Rubén Garcés,PHO,False,2-pointer,0,63-90,'LAL',trails
+1273,1273,1273,200012280PHO,16.9,6.1,4th quarter,8:19.0,Rubén Garcés,PHO,False,2-pointer,7,63-94,'LAL',trails
+1277,1277,1277,200012280PHO,24.0,5.0,4th quarter,7:05.0,Rubén Garcés,PHO,False,2-pointer,0,65-97,'LAL',trails
+1286,1286,1286,200012280PHO,24.0,5.0,4th quarter,2:42.0,Rubén Garcés,PHO,False,2-pointer,0,74-106,'LAL',trails
+1287,1287,1287,200012280PHO,24.0,5.0,4th quarter,2:39.0,Rubén Garcés,PHO,True,2-pointer,0,76-106,'LAL',trails
+1293,1293,1293,200012280PHO,29.1,10.7,4th quarter,1:08.0,Rubén Garcés,PHO,False,2-pointer,8,78-110,'LAL',trails
+725,725,725,200101300SAC,20.3,11.3,4th quarter,6:57.0,Rubén Garcés,GSW,False,2-pointer,7,63-98,'SAC',trails
+731,731,731,200101300SAC,24.0,5.0,4th quarter,4:56.0,Rubén Garcés,GSW,False,2-pointer,0,66-100,'SAC',trails
+740,740,740,200101300SAC,27.2,10.3,4th quarter,2:27.0,Rubén Garcés,GSW,False,2-pointer,6,74-100,'SAC',trails
+741,741,741,200101300SAC,32.5,5.0,4th quarter,2:13.0,Rubén Garcés,GSW,False,2-pointer,9,74-100,'SAC',trails
+747,747,747,200101300SAC,24.0,5.0,4th quarter,0:23.4,Rubén Garcés,GSW,False,2-pointer,0,79-105,'SAC',trails
+942,942,942,200102230MIN,13.5,9.9,4th quarter,0:34.7,Rubén Garcés,GSW,False,2-pointer,12,79-120,'MIN',trails
+945,945,945,200102230MIN,5.7,10.7,4th quarter,0:05.9,Rubén Garcés,GSW,False,2-pointer,19,81-122,'MIN',trails

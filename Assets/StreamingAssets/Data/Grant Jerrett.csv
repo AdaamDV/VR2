@@ -1,0 +1,27 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1505,1505,1505,201411280OKC,46.5,10.7,4th quarter,7:20.0,Grant Jerrett,OKC,False,3-pointer,23,89-56,'NYK',leads
+1511,1511,1511,201411280OKC,31.7,26.3,4th quarter,2:43.0,Grant Jerrett,OKC,True,3-pointer,24,103-69,'NYK',leads
+1515,1515,1515,201411280OKC,33.1,26.0,4th quarter,1:55.0,Grant Jerrett,OKC,False,3-pointer,24,105-72,'NYK',leads
+1516,1516,1516,201411280OKC,46.6,5.3,4th quarter,1:28.0,Grant Jerrett,OKC,False,3-pointer,22,105-72,'NYK',leads
+1517,1517,1517,201411280OKC,1.6,3.6,4th quarter,0:50.0,Grant Jerrett,OKC,False,3-pointer,22,105-76,'NYK',leads
+1388,1388,1388,201412260OKC,24.4,27.2,4th quarter,7:34.0,Grant Jerrett,OKC,False,3-pointer,24,90-63,'OKC',leads
+1397,1397,1397,201412260OKC,8.3,22.2,4th quarter,2:15.0,Grant Jerrett,OKC,False,3-pointer,24,98-72,'OKC',leads
+1398,1398,1398,201412260OKC,22.9,27.6,4th quarter,1:32.0,Grant Jerrett,OKC,False,3-pointer,24,98-73,'OKC',leads
+1399,1399,1399,201412260OKC,46.2,3.7,4th quarter,1:04.0,Grant Jerrett,OKC,False,3-pointer,22,98-73,'OKC',leads
+1400,1400,1400,201412260OKC,8.3,21.9,4th quarter,0:37.0,Grant Jerrett,OKC,False,3-pointer,24,98-75,'OKC',leads
+611,611,611,201501050GSW,6.5,4.5,4th quarter,6:04.0,Grant Jerrett,OKC,False,2-pointer,17,77-99,'OKC',trails
+612,612,612,201501050GSW,30.1,5.5,4th quarter,5:39.0,Grant Jerrett,OKC,True,2-pointer,6,79-101,'OKC',trails
+619,619,619,201501050GSW,12.3,27.1,4th quarter,3:39.0,Grant Jerrett,OKC,False,3-pointer,26,81-106,'OKC',trails
+620,620,620,201501050GSW,27.7,24.4,4th quarter,3:02.0,Grant Jerrett,OKC,False,2-pointer,21,83-107,'OKC',trails
+623,623,623,201501050GSW,10.2,24.3,4th quarter,1:43.0,Grant Jerrett,OKC,False,3-pointer,25,85-113,'OKC',trails
+627,627,627,201501050GSW,23.6,3.4,4th quarter,0:19.0,Grant Jerrett,OKC,True,2-pointer,0,91-117,'OKC',trails
+650,650,650,201501260OKC,13.7,25.8,4th quarter,0:40.0,Grant Jerrett,OKC,False,3-pointer,25,92-82,'OKC',leads
+1973,1973,1973,201504130UTA,21.0,2.8,2nd quarter,6:47.0,Grant Jerrett,UTA,True,2-pointer,3,45-37,'DAL',leads
+2023,2023,2023,201504130UTA,20.8,3.7,4th quarter,3:25.0,Grant Jerrett,UTA,False,2-pointer,3,101-85,'DAL',leads
+2024,2024,2024,201504130UTA,19.2,27.6,4th quarter,2:04.0,Grant Jerrett,UTA,False,3-pointer,25,105-89,'DAL',leads
+946,946,946,201504150HOU,29.9,19.8,4th quarter,8:31.0,Grant Jerrett,UTA,False,2-pointer,17,68-98,'HOU',trails
+949,949,949,201504150HOU,34.5,5.5,4th quarter,6:50.0,Grant Jerrett,UTA,True,2-pointer,10,74-103,'HOU',trails
+952,952,952,201504150HOU,24.2,7.1,4th quarter,5:19.0,Grant Jerrett,UTA,True,2-pointer,4,78-106,'HOU',trails
+954,954,954,201504150HOU,17.6,8.8,4th quarter,4:13.0,Grant Jerrett,UTA,True,2-pointer,8,82-108,'HOU',trails
+957,957,957,201504150HOU,38.1,23.8,4th quarter,2:52.0,Grant Jerrett,UTA,False,3-pointer,25,84-108,'HOU',trails
+962,962,962,201504150HOU,19.5,8.6,4th quarter,0:51.0,Grant Jerrett,UTA,False,2-pointer,7,89-114,'HOU',trails

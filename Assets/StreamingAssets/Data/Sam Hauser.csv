@@ -1,0 +1,27 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+367,367,367,202111200BOS,44.7,21.0,4th quarter,0:43.0,Sam Hauser,BOS,False,3-pointer,27,109-100,'OKC',leads
+357,357,357,202111220BOS,31.4,28.5,4th quarter,0:54.0,Sam Hauser,BOS,False,3-pointer,26,108-84,'HOU',leads
+355,355,355,202112130BOS,29.4,28.7,4th quarter,0:41.0,Sam Hauser,BOS,True,3-pointer,26,117-100,'BOS',leads
+578,578,578,202112270MIN,45.9,14.7,2nd quarter,5:51.0,Sam Hauser,BOS,True,3-pointer,25,41-38,'BOS',leads
+584,584,584,202112270MIN,9.2,24.4,2nd quarter,3:28.0,Sam Hauser,BOS,False,3-pointer,26,43-45,'BOS',trails
+609,609,609,202112270MIN,6.2,22.3,4th quarter,11:41.0,Sam Hauser,BOS,False,3-pointer,26,79-74,'BOS',leads
+612,612,612,202112270MIN,46.8,2.8,4th quarter,9:01.0,Sam Hauser,BOS,False,3-pointer,23,81-84,'BOS',trails
+154,154,154,202112290BOS,36.9,26.7,4th quarter,10:37.0,Sam Hauser,BOS,True,3-pointer,27,68-69,'BOS',trails
+155,155,155,202112290BOS,46.8,13.7,4th quarter,9:37.0,Sam Hauser,BOS,False,3-pointer,25,70-71,'BOS',trails
+163,163,163,202112290BOS,42.7,21.6,4th quarter,6:09.0,Sam Hauser,BOS,False,3-pointer,26,74-78,'BOS',trails
+115,115,115,202201020BOS,1.2,1.2,2nd quarter,9:01.0,Sam Hauser,BOS,False,3-pointer,23,34-23,'ORL',leads
+861,861,861,202201290NOP,29.1,29.5,4th quarter,1:08.0,Sam Hauser,BOS,False,3-pointer,27,107-93,'NOP',leads
+333,333,333,202201310BOS,46.5,4.4,4th quarter,3:41.0,Sam Hauser,BOS,True,3-pointer,23,113-83,'MIA',leads
+961,961,961,202202150PHI,12.1,32.2,3rd quarter,0:04.0,Sam Hauser,BOS,False,3-pointer,31,101-58,'BOS',leads
+963,963,963,202202150PHI,17.5,29.1,4th quarter,9:44.0,Sam Hauser,BOS,True,3-pointer,27,106-63,'BOS',leads
+965,965,965,202202150PHI,12.7,27.5,4th quarter,8:20.0,Sam Hauser,BOS,True,3-pointer,27,112-67,'BOS',leads
+973,973,973,202202150PHI,30.1,30.8,4th quarter,4:26.0,Sam Hauser,BOS,True,3-pointer,28,122-75,'BOS',leads
+977,977,977,202202150PHI,-0.7,3.4,4th quarter,2:37.0,Sam Hauser,BOS,False,3-pointer,25,130-81,'BOS',leads
+80,80,80,202202240BRK,1.2,0.7,4th quarter,3:01.0,Sam Hauser,BOS,False,3-pointer,23,122-95,'BOS',leads
+625,625,625,202202270IND,14.7,27.0,4th quarter,1:05.0,Sam Hauser,BOS,True,3-pointer,26,107-126,'IND',trails
+590,590,590,202203160GSW,18.2,28.5,4th quarter,1:51.0,Sam Hauser,BOS,True,3-pointer,26,105-86,'BOS',leads
+1469,1469,1469,202203180SAC,0.9,5.2,4th quarter,1:11.0,Sam Hauser,BOS,True,3-pointer,23,124-97,'SAC',leads
+1230,1230,1230,202203210OKC,39.7,24.8,2nd quarter,11:37.0,Sam Hauser,BOS,False,3-pointer,27,38-26,'OKC',leads
+1239,1239,1239,202203210OKC,0.3,1.9,2nd quarter,7:25.0,Sam Hauser,BOS,False,3-pointer,24,46-26,'OKC',leads
+1269,1269,1269,202203210OKC,0.7,10.5,3rd quarter,4:49.0,Sam Hauser,BOS,True,3-pointer,24,89-70,'OKC',leads
+1273,1273,1273,202203210OKC,17.9,7.5,3rd quarter,2:11.0,Sam Hauser,BOS,False,2-pointer,7,94-76,'OKC',leads

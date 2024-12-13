@@ -1,0 +1,21 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1332,1332,1332,200312230POR,24.0,5.0,1st quarter,3:53.0,Kaniel Dickens,POR,True,2-pointer,0,15-12,'POR',leads
+977,977,977,200312290NJN,24.0,5.0,1st quarter,1:27.0,Kaniel Dickens,POR,True,2-pointer,0,22-21,'POR',leads
+994,994,994,200312290NJN,45.5,3.6,2nd quarter,0:23.2,Kaniel Dickens,POR,True,2-pointer,22,42-50,'POR',trails
+1040,1040,1040,200412100NJN,-0.1,6.0,2nd quarter,9:24.0,Kaniel Dickens,NJN,True,3-pointer,24,29-28,'NJN',leads
+54,54,54,200412110ATL,0.0,8.0,3rd quarter,1:06.0,Kaniel Dickens,NJN,False,3-pointer,24,61-58,'NJN',leads
+55,55,55,200412110ATL,24.0,5.0,3rd quarter,0:38.7,Kaniel Dickens,NJN,True,2-pointer,0,63-60,'NJN',leads
+56,56,56,200412110ATL,24.0,5.0,3rd quarter,0:09.9,Kaniel Dickens,NJN,False,2-pointer,0,64-60,'NJN',leads
+978,978,978,200412140NJN,47.8,6.0,4th quarter,11:45.0,Kaniel Dickens,NJN,False,3-pointer,24,64-71,'NYK',trails
+842,842,842,200412170MEM,6.3,16.4,1st quarter,0:57.9,Kaniel Dickens,NJN,False,2-pointer,21,20-13,'NJN',leads
+862,862,862,200412170MEM,46.7,4.9,2nd quarter,0:05.4,Kaniel Dickens,NJN,False,3-pointer,23,33-35,'NJN',trails
+608,608,608,200412190TOR,2.6,17.5,1st quarter,3:34.0,Kaniel Dickens,NJN,True,3-pointer,25,18-14,'TOR',leads
+613,613,613,200412190TOR,1.0,4.7,1st quarter,1:18.0,Kaniel Dickens,NJN,False,3-pointer,23,22-19,'TOR',leads
+630,630,630,200412190TOR,43.9,21.6,2nd quarter,2:21.0,Kaniel Dickens,NJN,False,3-pointer,26,42-39,'TOR',leads
+648,648,648,200412190TOR,14.0,12.4,3rd quarter,1:10.0,Kaniel Dickens,NJN,False,2-pointer,12,71-73,'TOR',trails
+49,49,49,200412210CHA,48.1,5.5,3rd quarter,0:05.7,Kaniel Dickens,NJN,True,3-pointer,24,71-65,'NJN',leads
+50,50,50,200412210CHA,24.0,5.0,4th quarter,11:37.0,Kaniel Dickens,NJN,False,2-pointer,0,71-65,'NJN',leads
+17,17,17,200501130HOU,46.5,5.0,1st quarter,0:00.0,Kaniel Dickens,NJN,False,3-pointer,23,19-12,'HOU',leads
+449,449,449,200802220CLE,35.7,8.8,2nd quarter,6:45.0,Kaniel Dickens,CLE,False,2-pointer,12,30-30,'CLE',tied
+80,80,80,200803060CHI,32.9,19.1,4th quarter,1:17.0,Kaniel Dickens,CLE,True,2-pointer,17,92-107,'CHI',trails
+82,82,82,200803060CHI,24.0,5.0,4th quarter,0:31.8,Kaniel Dickens,CLE,False,2-pointer,0,94-107,'CHI',trails

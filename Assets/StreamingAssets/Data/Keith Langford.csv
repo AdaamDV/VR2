@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1968,1968,1968,200712280SAS,8.2,8.5,2nd quarter,7:40.0,Keith Langford,SAS,False,2-pointer,16,20-30,'SAS',trails
+970,970,970,200712300SAS,20.2,25.6,4th quarter,3:15.0,Keith Langford,SAS,True,2-pointer,21,105-80,'SAS',leads
+975,975,975,200712300SAS,22.5,4.5,4th quarter,0:42.1,Keith Langford,SAS,False,2-pointer,2,111-85,'SAS',leads
+976,976,976,200712300SAS,24.0,4.5,4th quarter,0:19.7,Keith Langford,SAS,False,2-pointer,1,111-87,'SAS',leads

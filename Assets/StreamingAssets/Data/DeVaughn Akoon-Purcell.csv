@@ -1,0 +1,11 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+181,181,181,201810230DEN,21.2,22.6,4th quarter,1:45.0,DeVaughn Akoon-Purcell,DEN,False,2-pointer,20,123-100,'SAC',leads
+183,183,183,201810230DEN,46.3,13.9,4th quarter,1:14.0,DeVaughn Akoon-Purcell,DEN,False,3-pointer,25,123-104,'SAC',leads
+661,661,661,201811030DEN,23.5,4.6,4th quarter,0:07.0,DeVaughn Akoon-Purcell,DEN,True,2-pointer,1,103-88,'UTA',leads
+179,179,179,201811150DEN,24.9,4.2,4th quarter,2:32.0,DeVaughn Akoon-Purcell,DEN,True,2-pointer,1,132-89,'DEN',leads
+183,183,183,201811150DEN,42.7,20.3,4th quarter,1:10.0,DeVaughn Akoon-Purcell,DEN,False,3-pointer,25,138-93,'DEN',leads
+185,185,185,201811150DEN,15.1,29.0,4th quarter,0:30.0,DeVaughn Akoon-Purcell,DEN,False,3-pointer,27,138-93,'DEN',leads
+689,689,689,201811230DEN,25.7,4.2,4th quarter,1:28.0,DeVaughn Akoon-Purcell,DEN,False,2-pointer,2,110-83,'ORL',leads
+691,691,691,201811230DEN,46.3,8.5,4th quarter,1:01.0,DeVaughn Akoon-Purcell,DEN,False,3-pointer,23,112-85,'ORL',leads
+180,180,180,201811270DEN,21.8,4.6,4th quarter,1:46.0,DeVaughn Akoon-Purcell,DEN,False,2-pointer,3,113-83,'LAL',leads
+181,181,181,201811270DEN,25.9,4.9,4th quarter,1:19.0,DeVaughn Akoon-Purcell,DEN,True,2-pointer,3,115-83,'LAL',leads

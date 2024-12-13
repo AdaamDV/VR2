@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+528,528,528,201911120IND,36.3,10.3,4th quarter,1:48.0,Brian Bowen,IND,False,2-pointer,14,107-81,'IND',leads
+530,530,530,201911120IND,29.7,6.9,4th quarter,0:49.0,Brian Bowen,IND,True,2-pointer,7,111-82,'IND',leads
+550,550,550,201911160IND,22.6,5.5,4th quarter,0:33.0,Brian Bowen,IND,False,2-pointer,3,83-102,'IND',trails
+97,97,97,201911180BRK,47.3,6.8,4th quarter,1:40.0,Brian Bowen,IND,False,3-pointer,24,111-83,'IND',leads
+662,662,662,202002250IND,23.7,6.4,4th quarter,1:12.0,Brian Bowen,IND,True,2-pointer,3,119-80,'IND',leads
+367,367,367,202003060CHI,8.7,19.2,1st quarter,8:04.0,Brian Bowen,IND,False,2-pointer,22,7-10,'IND',trails
+405,405,405,202003060CHI,46.8,2.3,3rd quarter,9:44.0,Brian Bowen,IND,False,3-pointer,23,68-48,'IND',leads
+406,406,406,202003060CHI,24.2,5.5,3rd quarter,9:26.0,Brian Bowen,IND,False,2-pointer,2,70-50,'IND',leads
+407,407,407,202003060CHI,24.0,2.7,3rd quarter,9:22.0,Brian Bowen,IND,False,2-pointer,1,70-50,'IND',leads
+342,342,342,202008140IND,23.2,4.1,4th quarter,0:35.0,Brian Bowen,IND,True,2-pointer,1,109-89,'MIA',leads
+600,600,600,202101170LAC,27.5,5.7,4th quarter,2:40.0,Brian Bowen,IND,True,2-pointer,4,92-121,'IND',trails
+602,602,602,202101170LAC,24.9,22.6,4th quarter,1:53.0,Brian Bowen,IND,False,2-pointer,19,93-123,'IND',trails
+853,853,853,202104060IND,19.7,18.8,4th quarter,2:30.0,Brian Bowen,IND,False,2-pointer,16,93-111,'IND',trails
+725,725,725,202104190IND,6.3,23.3,4th quarter,2:29.0,Brian Bowen,IND,False,3-pointer,27,85-105,'SAS',trails

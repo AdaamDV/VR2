@@ -1,0 +1,26 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+642,642,642,202110200MIN,22.8,4.1,4th quarter,4:47.0,Usman Garuba,HOU,False,2-pointer,1,86-115,'HOU',trails
+644,644,644,202110200MIN,23.7,3.7,4th quarter,4:26.0,Usman Garuba,HOU,True,2-pointer,0,89-115,'HOU',trails
+648,648,648,202110200MIN,23.5,4.3,4th quarter,2:03.0,Usman Garuba,HOU,True,2-pointer,1,101-117,'HOU',trails
+878,878,878,202110220HOU,10.0,25.3,4th quarter,3:25.0,Usman Garuba,HOU,False,3-pointer,26,114-89,'HOU',leads
+698,698,698,202110280HOU,36.2,27.3,4th quarter,6:39.0,Usman Garuba,HOU,False,3-pointer,27,78-108,'HOU',trails
+702,702,702,202110280HOU,10.1,25.6,4th quarter,4:57.0,Usman Garuba,HOU,False,3-pointer,26,80-113,'HOU',trails
+71,71,71,202111070GSW,1.1,6.3,4th quarter,3:53.0,Usman Garuba,HOU,False,3-pointer,23,98-112,'HOU',trails
+73,73,73,202111070GSW,22.7,27.8,4th quarter,2:36.0,Usman Garuba,HOU,True,3-pointer,25,101-114,'HOU',trails
+701,701,701,202111140HOU,23.9,3.4,4th quarter,3:26.0,Usman Garuba,HOU,False,2-pointer,0,85-110,'HOU',trails
+703,703,703,202111140HOU,25.9,29.3,4th quarter,2:59.0,Usman Garuba,HOU,False,3-pointer,26,87-110,'HOU',trails
+708,708,708,202111140HOU,24.0,29.4,4th quarter,0:30.0,Usman Garuba,HOU,False,3-pointer,26,89-113,'HOU',trails
+960,960,960,202111150MEM,23.2,4.2,4th quarter,3:43.0,Usman Garuba,HOU,False,2-pointer,1,93-126,'HOU',trails
+963,963,963,202111150MEM,16.1,26.8,4th quarter,2:46.0,Usman Garuba,HOU,True,3-pointer,25,98-128,'HOU',trails
+968,968,968,202111150MEM,23.7,2.9,4th quarter,0:43.0,Usman Garuba,HOU,True,2-pointer,0,102-133,'HOU',trails
+29,29,29,202112150CLE,24.7,4.1,2nd quarter,7:17.0,Usman Garuba,HOU,True,2-pointer,1,27-51,'HOU',trails
+70,70,70,202112150CLE,32.0,29.8,4th quarter,5:32.0,Usman Garuba,HOU,False,3-pointer,28,77-110,'HOU',trails
+432,432,432,202112220MIL,47.5,6.2,4th quarter,1:10.0,Usman Garuba,HOU,False,3-pointer,24,106-124,'HOU',trails
+199,199,199,202112270CHO,47.3,4.1,1st quarter,1:11.0,Usman Garuba,HOU,False,3-pointer,23,27-29,'HOU',trails
+205,205,205,202112270CHO,24.0,5.4,2nd quarter,10:23.0,Usman Garuba,HOU,True,2-pointer,2,33-35,'HOU',trails
+257,257,257,202112270CHO,21.7,4.9,4th quarter,5:29.0,Usman Garuba,HOU,False,2-pointer,3,86-108,'HOU',trails
+267,267,267,202112270CHO,15.2,29.2,4th quarter,0:40.0,Usman Garuba,HOU,False,3-pointer,27,99-121,'HOU',trails
+527,527,527,202201010HOU,23.2,4.6,3rd quarter,2:10.0,Usman Garuba,HOU,True,2-pointer,2,74-93,'HOU',trails
+549,549,549,202201010HOU,26.1,4.4,4th quarter,2:22.0,Usman Garuba,HOU,False,2-pointer,2,95-117,'HOU',trails
+701,701,701,202201100HOU,47.3,5.0,4th quarter,4:06.0,Usman Garuba,HOU,False,3-pointer,23,80-105,'HOU',trails
+747,747,747,202203130NOP,32.2,26.4,4th quarter,2:16.0,Usman Garuba,HOU,True,3-pointer,25,98-121,'NOP',trails

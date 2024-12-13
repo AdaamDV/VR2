@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+478,478,478,200501250LAL,44.9,6.2,4th quarter,1:51.0,Tony Bobbitt,LAL,False,2-pointer,21,86-100,'LAL',trails
+644,644,644,200501260LAC,0.7,7.3,2nd quarter,8:21.0,Tony Bobbitt,LAL,False,3-pointer,23,25-36,'LAL',trails
+690,690,690,200501260LAC,31.1,21.8,4th quarter,1:57.0,Tony Bobbitt,LAL,True,2-pointer,18,84-97,'LAL',trails
+691,691,691,200501260LAC,24.8,25.2,4th quarter,1:25.0,Tony Bobbitt,LAL,False,2-pointer,20,84-99,'LAL',trails
+693,693,693,200501260LAC,8.6,27.5,4th quarter,0:32.4,Tony Bobbitt,LAL,True,3-pointer,27,89-102,'LAL',trails

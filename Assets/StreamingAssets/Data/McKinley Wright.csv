@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+740,740,740,202110200MIN,42.7,21.8,4th quarter,0:49.0,McKinley Wright,MIN,True,3-pointer,26,122-103,'HOU',leads
+517,517,517,202201160MIN,24.0,10.3,4th quarter,1:24.0,McKinley Wright,MIN,True,2-pointer,7,118-96,'MIN',leads
+518,518,518,202201160MIN,32.8,26.2,4th quarter,1:09.0,McKinley Wright,MIN,False,3-pointer,25,118-96,'MIN',leads

@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+425,425,425,202002020MIL,39.0,11.9,2nd quarter,8:21.0,Tariq Owens,PHO,False,2-pointer,17,34-41,'PHO',trails
+427,427,427,202002020MIL,23.2,6.7,2nd quarter,7:52.0,Tariq Owens,PHO,False,2-pointer,4,34-41,'PHO',trails
+429,429,429,202002020MIL,22.2,4.7,2nd quarter,7:25.0,Tariq Owens,PHO,True,2-pointer,2,36-41,'PHO',trails
+488,488,488,202002020MIL,47.0,7.5,4th quarter,1:51.0,Tariq Owens,PHO,False,3-pointer,23,106-121,'PHO',trails
+908,908,908,202002100LAL,17.4,28.6,4th quarter,3:19.0,Tariq Owens,PHO,False,3-pointer,26,96-121,'LAL',trails

@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+749,749,749,201403010MIA,19.9,8.8,4th quarter,2:00.0,Adonis Thomas,ORL,True,2-pointer,7,95-110,'MIA',trails
+750,750,750,201403010MIA,43.6,19.7,4th quarter,1:25.0,Adonis Thomas,ORL,False,3-pointer,26,95-110,'MIA',trails
+579,579,579,201403020ORL,24.2,4.4,1st quarter,0:24.0,Adonis Thomas,ORL,False,2-pointer,1,26-27,'ORL',trails
+583,583,583,201403020ORL,43.6,9.0,2nd quarter,10:49.0,Adonis Thomas,ORL,False,2-pointer,21,28-28,'ORL',tied
+585,585,585,201403020ORL,23.6,6.1,2nd quarter,10:03.0,Adonis Thomas,ORL,True,2-pointer,3,30-28,'ORL',leads
+586,586,586,201403020ORL,42.2,7.7,2nd quarter,9:09.0,Adonis Thomas,ORL,False,2-pointer,19,31-28,'ORL',leads
+588,588,588,201403020ORL,0.6,4.5,2nd quarter,7:01.0,Adonis Thomas,ORL,False,3-pointer,23,31-35,'ORL',trails
+1312,1312,1312,201403050ORL,36.9,20.9,4th quarter,9:41.0,Adonis Thomas,ORL,True,2-pointer,22,72-79,'HOU',trails
+1325,1325,1325,201403050ORL,46.8,4.1,4th quarter,0:44.0,Adonis Thomas,ORL,False,3-pointer,23,87-99,'HOU',trails
+744,744,744,201404110MEM,43.0,3.3,4th quarter,7:25.0,Adonis Thomas,PHI,False,2-pointer,19,74-97,'MEM',trails
+752,752,752,201404110MEM,31.2,9.6,4th quarter,2:44.0,Adonis Thomas,PHI,True,2-pointer,10,87-108,'MEM',trails
+753,753,753,201404110MEM,20.2,24.7,4th quarter,2:15.0,Adonis Thomas,PHI,True,2-pointer,22,89-110,'MEM',trails
+864,864,864,201404160MIA,5.0,18.3,1st quarter,8:56.0,Adonis Thomas,PHI,True,3-pointer,24,12-5,'MIA',leads
+866,866,866,201404160MIA,2.2,17.6,1st quarter,7:51.0,Adonis Thomas,PHI,False,3-pointer,26,12-8,'MIA',leads

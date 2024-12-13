@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+268,268,268,201902080DAL,24.7,3.6,4th quarter,0:40.0,Trevon Duval,MIL,True,2-pointer,1,120-105,'DAL',leads
+1235,1235,1235,201902090MIL,-0.2,4.4,4th quarter,3:14.0,Trevon Duval,MIL,True,3-pointer,24,76-95,'ORL',trails
+1240,1240,1240,201902090MIL,30.4,17.4,4th quarter,0:16.0,Trevon Duval,MIL,False,2-pointer,16,83-103,'ORL',trails

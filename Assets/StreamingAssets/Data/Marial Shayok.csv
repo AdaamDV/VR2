@@ -1,0 +1,13 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+386,386,386,202002060MIL,1.7,18.3,2nd quarter,7:58.0,Marial Shayok,PHI,True,3-pointer,27,34-28,'MIL',leads
+391,391,391,202002060MIL,0.7,4.6,2nd quarter,4:47.0,Marial Shayok,PHI,False,3-pointer,23,37-39,'MIL',trails
+394,394,394,202002060MIL,47.0,1.2,2nd quarter,3:58.0,Marial Shayok,PHI,False,3-pointer,23,39-41,'MIL',trails
+686,686,686,202002070PHI,24.0,4.5,4th quarter,1:24.0,Marial Shayok,PHI,False,2-pointer,1,114-101,'MEM',leads
+687,687,687,202002070PHI,31.6,21.8,4th quarter,0:45.0,Marial Shayok,PHI,False,2-pointer,20,115-101,'MEM',leads
+697,697,697,202008120PHI,38.4,15.0,4th quarter,3:30.0,Marial Shayok,PHI,False,2-pointer,19,113-108,'TOR',leads
+699,699,699,202008120PHI,25.8,5.8,4th quarter,2:59.0,Marial Shayok,PHI,True,2-pointer,3,115-108,'TOR',leads
+700,700,700,202008120PHI,36.1,18.4,4th quarter,2:21.0,Marial Shayok,PHI,False,2-pointer,19,115-111,'TOR',leads
+78,78,78,202008140HOU,31.4,13.7,4th quarter,4:59.0,Marial Shayok,PHI,False,2-pointer,13,124-91,'HOU',leads
+79,79,79,202008140HOU,22.8,32.0,4th quarter,4:28.0,Marial Shayok,PHI,True,3-pointer,29,129-91,'HOU',leads
+82,82,82,202008140HOU,13.7,28.3,4th quarter,2:07.0,Marial Shayok,PHI,False,3-pointer,27,130-94,'HOU',leads
+86,86,86,202008140HOU,31.2,30.3,4th quarter,0:26.0,Marial Shayok,PHI,False,3-pointer,28,134-94,'HOU',leads

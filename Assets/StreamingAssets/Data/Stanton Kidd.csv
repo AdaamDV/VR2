@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+765,765,765,201910250LAL,28.8,6.3,4th quarter,0:49.0,Stanton Kidd,UTA,False,2-pointer,6,84-95,'LAL',trails
+1778,1778,1778,201910260UTA,2.0,4.8,4th quarter,3:34.0,Stanton Kidd,UTA,False,3-pointer,22,105-74,'SAC',leads
+1782,1782,1782,201910260UTA,22.8,10.3,4th quarter,1:58.0,Stanton Kidd,UTA,False,2-pointer,7,107-76,'SAC',leads

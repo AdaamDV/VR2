@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+554,554,554,201902270BRK,46.3,7.4,4th quarter,7:19.0,Tahjere McCall,BRK,False,3-pointer,23,88-110,'WAS',trails
+558,558,558,201902270BRK,23.4,4.1,4th quarter,5:16.0,Tahjere McCall,BRK,True,2-pointer,1,92-112,'WAS',trails
+561,561,561,201902270BRK,26.0,4.4,4th quarter,3:05.0,Tahjere McCall,BRK,True,2-pointer,2,100-117,'WAS',trails

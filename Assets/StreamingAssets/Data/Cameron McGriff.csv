@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1010,1010,1010,202112270POR,25.0,3.4,2nd quarter,8:19.0,Cameron McGriff,POR,False,2-pointer,1,39-41,'POR',trails
+1012,1012,1012,202112270POR,46.3,4.6,2nd quarter,7:38.0,Cameron McGriff,POR,False,3-pointer,22,41-44,'POR',trails
+1054,1054,1054,202112270POR,46.3,12.9,4th quarter,5:35.0,Cameron McGriff,POR,True,3-pointer,24,100-125,'POR',trails
+1058,1058,1058,202112270POR,9.0,18.8,4th quarter,1:55.0,Cameron McGriff,POR,False,2-pointer,22,110-130,'POR',trails
+1062,1062,1062,202112270POR,22.0,3.7,4th quarter,0:26.0,Cameron McGriff,POR,False,2-pointer,2,113-132,'POR',trails
+1199,1199,1199,202112290POR,2.1,5.3,4th quarter,8:51.0,Cameron McGriff,POR,False,3-pointer,22,84-103,'POR',trails
+1215,1215,1215,202112290POR,24.0,3.3,4th quarter,2:06.0,Cameron McGriff,POR,False,2-pointer,0,102-116,'POR',trails
+1218,1218,1218,202112290POR,24.5,3.7,4th quarter,1:06.0,Cameron McGriff,POR,True,2-pointer,1,104-117,'POR',trails
+792,792,792,202112310LAL,46.3,9.8,3rd quarter,0:29.0,Cameron McGriff,POR,False,3-pointer,23,75-101,'POR',trails
+798,798,798,202112310LAL,37.8,26.4,4th quarter,10:43.0,Cameron McGriff,POR,False,3-pointer,27,77-101,'POR',trails
+814,814,814,202112310LAL,21.9,5.7,4th quarter,2:47.0,Cameron McGriff,POR,True,2-pointer,3,99-127,'POR',trails
+817,817,817,202112310LAL,38.8,25.6,4th quarter,1:45.0,Cameron McGriff,POR,True,3-pointer,27,102-133,'POR',trails
+818,818,818,202112310LAL,21.6,11.5,4th quarter,0:35.0,Cameron McGriff,POR,False,2-pointer,9,104-136,'POR',trails
+820,820,820,202112310LAL,24.0,3.3,4th quarter,0:00.0,Cameron McGriff,POR,True,2-pointer,0,106-139,'POR',trails

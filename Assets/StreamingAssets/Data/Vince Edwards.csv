@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+347,347,347,201811150HOU,0.5,7.2,4th quarter,0:36.0,Vince Edwards,HOU,False,3-pointer,24,104-86,'HOU',leads
+348,348,348,201811150HOU,1.0,10.0,4th quarter,0:22.0,Vince Edwards,HOU,True,3-pointer,24,107-86,'HOU',leads
+1474,1474,1474,201901210PHI,47.2,5.3,4th quarter,5:07.0,Vince Edwards,HOU,False,3-pointer,23,81-107,'HOU',trails
+1479,1479,1479,201901210PHI,37.4,26.0,4th quarter,3:07.0,Vince Edwards,HOU,False,3-pointer,26,85-111,'HOU',trails

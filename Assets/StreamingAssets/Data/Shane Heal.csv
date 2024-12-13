@@ -1,0 +1,25 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1834,1834,1834,200311010SAS,2.5,17.3,1st quarter,2:18.0,Shane Heal,SAS,False,3-pointer,25,13-17,'SAS',trails
+1862,1862,1862,200311010SAS,18.9,26.5,3rd quarter,2:16.0,Shane Heal,SAS,True,2-pointer,22,62-51,'SAS',leads
+1866,1866,1866,200311010SAS,30.7,28.7,3rd quarter,0:23.9,Shane Heal,SAS,True,3-pointer,25,67-53,'SAS',leads
+1867,1867,1867,200311010SAS,21.4,29.2,4th quarter,11:20.0,Shane Heal,SAS,False,3-pointer,24,67-58,'SAS',leads
+1875,1875,1875,200311010SAS,47.2,15.4,4th quarter,7:08.0,Shane Heal,SAS,True,3-pointer,25,78-62,'SAS',leads
+1876,1876,1876,200311010SAS,44.0,23.7,4th quarter,6:24.0,Shane Heal,SAS,False,3-pointer,27,80-64,'SAS',leads
+493,493,493,200311030MEM,40.6,23.9,2nd quarter,9:35.0,Shane Heal,SAS,False,3-pointer,25,30-26,'SAS',leads
+498,498,498,200311030MEM,37.5,25.9,2nd quarter,6:08.0,Shane Heal,SAS,False,3-pointer,25,38-35,'SAS',leads
+527,527,527,200311030MEM,11.2,20.5,3rd quarter,0:31.9,Shane Heal,SAS,False,2-pointer,20,60-64,'SAS',trails
+563,563,563,200311040SAS,23.9,32.5,1st quarter,0:01.9,Shane Heal,SAS,False,3-pointer,28,18-12,'SAS',leads
+571,571,571,200311040SAS,3.0,18.7,2nd quarter,8:24.0,Shane Heal,SAS,False,3-pointer,25,26-17,'SAS',leads
+601,601,601,200311040SAS,37.6,26.2,4th quarter,11:05.0,Shane Heal,SAS,False,3-pointer,25,61-59,'SAS',leads
+271,271,271,200311060SAS,37.5,13.2,2nd quarter,11:20.0,Shane Heal,SAS,True,2-pointer,16,24-24,'SAS',tied
+273,273,273,200311060SAS,4.0,21.0,2nd quarter,10:11.0,Shane Heal,SAS,True,3-pointer,26,29-24,'SAS',leads
+274,274,274,200311060SAS,20.4,27.0,2nd quarter,9:24.0,Shane Heal,SAS,False,2-pointer,22,29-26,'SAS',leads
+281,281,281,200311060SAS,34.7,28.1,2nd quarter,6:08.0,Shane Heal,SAS,False,3-pointer,25,35-33,'SAS',leads
+309,309,309,200311060SAS,6.4,6.2,4th quarter,9:33.0,Shane Heal,SAS,False,2-pointer,18,86-81,'SAS',leads
+313,313,313,200311060SAS,2.5,18.2,4th quarter,7:25.0,Shane Heal,SAS,False,3-pointer,25,89-83,'SAS',leads
+1066,1066,1066,200311080SAS,34.7,28.8,1st quarter,0:28.9,Shane Heal,SAS,False,3-pointer,26,21-27,'SAS',trails
+1074,1074,1074,200311080SAS,36.1,26.5,2nd quarter,8:44.0,Shane Heal,SAS,True,3-pointer,25,27-33,'SAS',trails
+1076,1076,1076,200311080SAS,37.5,27.4,2nd quarter,6:42.0,Shane Heal,SAS,False,3-pointer,26,29-40,'SAS',trails
+1112,1112,1112,200311080SAS,47.8,9.6,4th quarter,9:43.0,Shane Heal,SAS,False,3-pointer,24,68-65,'SAS',leads
+1529,1529,1529,200311150WAS,0.8,2.2,4th quarter,2:11.0,Shane Heal,SAS,False,3-pointer,23,91-69,'SAS',leads
+1530,1530,1530,200311150WAS,36.6,21.8,4th quarter,1:47.0,Shane Heal,SAS,True,2-pointer,21,93-71,'SAS',leads

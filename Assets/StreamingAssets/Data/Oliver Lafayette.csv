@@ -1,0 +1,7 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+255,255,255,201004140BOS,23.6,26.1,2nd quarter,8:02.0,Oliver Lafayette,BOS,True,2-pointer,21,30-35,'BOS',trails
+258,258,258,201004140BOS,29.9,5.9,2nd quarter,6:01.0,Oliver Lafayette,BOS,True,2-pointer,6,32-41,'BOS',trails
+263,263,263,201004140BOS,16.7,28.6,2nd quarter,2:47.0,Oliver Lafayette,BOS,True,3-pointer,25,42-49,'BOS',trails
+287,287,287,201004140BOS,44.3,5.1,4th quarter,10:48.0,Oliver Lafayette,BOS,False,2-pointer,20,78-90,'BOS',trails
+290,290,290,201004140BOS,46.8,5.7,4th quarter,9:47.0,Oliver Lafayette,BOS,False,3-pointer,23,78-90,'BOS',trails
+301,301,301,201004140BOS,37.0,18.5,4th quarter,3:18.0,Oliver Lafayette,BOS,False,2-pointer,19,88-104,'BOS',trails

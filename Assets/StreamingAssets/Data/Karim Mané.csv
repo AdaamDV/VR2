@@ -1,0 +1,14 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+657,657,657,202012310ORL,20.8,3.1,2nd quarter,1:12.0,Karim Mané,ORL,False,2-pointer,3,35-70,'ORL',trails
+691,691,691,202012310ORL,21.9,7.3,4th quarter,8:37.0,Karim Mané,ORL,False,2-pointer,5,76-102,'ORL',trails
+695,695,695,202012310ORL,21.6,7.0,4th quarter,6:05.0,Karim Mané,ORL,False,2-pointer,4,78-112,'ORL',trails
+1399,1399,1399,202101060ORL,24.9,5.9,4th quarter,1:32.0,Karim Mané,ORL,False,2-pointer,3,103-88,'ORL',leads
+547,547,547,202101080HOU,23.2,5.3,2nd quarter,6:34.0,Karim Mané,ORL,False,2-pointer,2,21-46,'HOU',trails
+604,604,604,202101080HOU,25.7,5.2,4th quarter,1:35.0,Karim Mané,ORL,False,2-pointer,3,88-125,'HOU',trails
+606,606,606,202101080HOU,26.3,30.8,4th quarter,0:30.0,Karim Mané,ORL,False,3-pointer,28,90-130,'HOU',trails
+82,82,82,202101150BOS,9.8,23.8,4th quarter,5:14.0,Karim Mané,ORL,True,3-pointer,25,91-113,'ORL',trails
+86,86,86,202101150BOS,19.7,3.6,4th quarter,3:07.0,Karim Mané,ORL,False,2-pointer,4,91-115,'ORL',trails
+1470,1470,1470,202103260ORL,23.7,14.8,1st quarter,2:57.0,Karim Mané,ORL,False,2-pointer,12,28-23,'POR',leads
+1486,1486,1486,202103260ORL,24.3,2.3,2nd quarter,6:04.0,Karim Mané,ORL,True,2-pointer,1,42-49,'POR',trails
+1488,1488,1488,202103260ORL,22.7,6.0,2nd quarter,5:09.0,Karim Mané,ORL,False,2-pointer,3,42-52,'POR',trails
+999,999,999,202104120ORL,26.3,3.4,4th quarter,2:57.0,Karim Mané,ORL,True,2-pointer,2,84-112,'SAS',trails

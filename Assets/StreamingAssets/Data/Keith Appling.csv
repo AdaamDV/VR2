@@ -1,0 +1,9 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+70,70,70,201601180ATL,47.5,5.1,4th quarter,8:34.0,Keith Appling,ORL,False,3-pointer,23,61-81,'ORL',trails
+72,72,72,201601180ATL,24.9,3.7,4th quarter,7:41.0,Keith Appling,ORL,True,2-pointer,1,63-83,'ORL',trails
+79,79,79,201601180ATL,14.4,19.0,4th quarter,2:15.0,Keith Appling,ORL,False,2-pointer,18,75-92,'ORL',trails
+1335,1335,1335,201601200ORL,36.3,15.6,2nd quarter,9:50.0,Keith Appling,ORL,False,2-pointer,17,25-24,'ORL',leads
+1336,1336,1336,201601200ORL,24.4,3.7,2nd quarter,8:39.0,Keith Appling,ORL,True,2-pointer,0,29-25,'ORL',leads
+1362,1362,1362,201601200ORL,19.5,14.1,3rd quarter,7:18.0,Keith Appling,ORL,False,2-pointer,11,55-65,'ORL',trails
+69,69,69,201601290BOS,6.1,22.0,4th quarter,5:30.0,Keith Appling,ORL,False,3-pointer,26,83-109,'ORL',trails
+1333,1333,1333,201602050ORL,1.0,3.7,4th quarter,0:43.0,Keith Appling,ORL,False,3-pointer,23,91-105,'ORL',trails

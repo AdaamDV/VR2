@@ -1,0 +1,26 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+406,406,406,201610300LAC,25.5,5.3,4th quarter,1:29.0,Joel Bolomboy,UTA,True,2-pointer,2,72-88,'UTA',trails
+2225,2225,2225,201611230UTA,20.5,26.9,4th quarter,0:29.0,Joel Bolomboy,UTA,False,3-pointer,24,106-83,'UTA',leads
+2226,2226,2226,201611230UTA,24.0,3.1,4th quarter,0:09.0,Joel Bolomboy,UTA,True,2-pointer,0,108-83,'UTA',leads
+1479,1479,1479,201612140UTA,26.4,7.1,4th quarter,0:19.0,Joel Bolomboy,UTA,True,2-pointer,5,109-87,'UTA',leads
+253,253,253,201612200GSW,5.7,2.5,4th quarter,3:25.0,Joel Bolomboy,UTA,False,2-pointer,18,65-102,'UTA',trails
+1232,1232,1232,201703110OKC,22.1,6.6,3rd quarter,1:06.0,Joel Bolomboy,UTA,True,2-pointer,4,73-89,'UTA',trails
+1235,1235,1235,201703110OKC,24.0,3.1,4th quarter,10:48.0,Joel Bolomboy,UTA,False,2-pointer,0,76-93,'UTA',trails
+1237,1237,1237,201703110OKC,24.0,3.1,4th quarter,9:29.0,Joel Bolomboy,UTA,True,2-pointer,0,78-95,'UTA',trails
+1238,1238,1238,201703110OKC,24.9,3.2,4th quarter,8:59.0,Joel Bolomboy,UTA,True,2-pointer,0,80-95,'UTA',trails
+1248,1248,1248,201703110OKC,24.1,5.6,4th quarter,4:04.0,Joel Bolomboy,UTA,False,2-pointer,2,94-103,'UTA',trails
+1251,1251,1251,201703110OKC,25.4,3.2,4th quarter,1:59.0,Joel Bolomboy,UTA,True,2-pointer,1,98-108,'UTA',trails
+1253,1253,1253,201703110OKC,1.8,5.1,4th quarter,0:50.0,Joel Bolomboy,UTA,False,3-pointer,22,102-110,'UTA',trails
+1702,1702,1702,201704040UTA,29.3,26.9,4th quarter,1:14.0,Joel Bolomboy,UTA,True,3-pointer,24,104-84,'POR',leads
+555,555,555,201704100GSW,4.1,20.8,2nd quarter,8:50.0,Joel Bolomboy,UTA,False,3-pointer,26,41-35,'UTA',leads
+558,558,558,201704100GSW,24.0,3.1,2nd quarter,7:46.0,Joel Bolomboy,UTA,True,2-pointer,0,45-35,'UTA',leads
+601,601,601,201704100GSW,26.7,6.1,4th quarter,8:15.0,Joel Bolomboy,UTA,False,2-pointer,4,81-78,'UTA',leads
+257,257,257,201705020GSW,25.0,5.6,4th quarter,4:49.0,Joel Bolomboy,UTA,True,2-pointer,3,81-99,'UTA',trails
+265,265,265,201705020GSW,24.0,3.1,4th quarter,1:15.0,Joel Bolomboy,UTA,True,2-pointer,0,92-106,'UTA',trails
+171,171,171,201705080UTA,24.0,3.1,4th quarter,0:15.0,Joel Bolomboy,UTA,False,2-pointer,0,95-121,'UTA',trails
+402,402,402,201711180DAL,23.7,3.5,4th quarter,0:40.0,Joel Bolomboy,MIL,True,2-pointer,0,79-109,'DAL',trails
+1916,1916,1916,201711220PHO,27.0,28.2,2nd quarter,11:12.0,Joel Bolomboy,MIL,False,3-pointer,25,33-23,'PHO',leads
+1919,1919,1919,201711220PHO,24.2,5.0,2nd quarter,10:02.0,Joel Bolomboy,MIL,False,2-pointer,2,33-25,'PHO',leads
+1956,1956,1956,201711220PHO,23.9,3.4,3rd quarter,2:04.0,Joel Bolomboy,MIL,False,2-pointer,0,75-73,'PHO',leads
+871,871,871,201712130NOP,24.1,3.0,1st quarter,1:13.0,Joel Bolomboy,MIL,True,2-pointer,0,33-27,'NOP',leads
+876,876,876,201712130NOP,14.9,11.8,2nd quarter,10:21.0,Joel Bolomboy,MIL,True,2-pointer,12,41-37,'NOP',leads

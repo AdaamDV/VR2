@@ -1,0 +1,13 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+747,747,747,201901270LAL,23.2,4.8,2nd quarter,1:56.0,Emanuel Terry,PHO,True,2-pointer,2,44-59,'LAL',trails
+750,750,750,201901270LAL,24.0,2.7,2nd quarter,0:06.0,Emanuel Terry,PHO,True,2-pointer,1,53-65,'LAL',trails
+769,769,769,201901270LAL,25.3,4.3,3rd quarter,2:06.0,Emanuel Terry,PHO,False,2-pointer,2,78-88,'LAL',trails
+771,771,771,201901270LAL,22.7,4.6,3rd quarter,0:44.0,Emanuel Terry,PHO,False,2-pointer,2,79-90,'LAL',trails
+1124,1124,1124,201901290SAS,24.9,4.4,2nd quarter,11:02.0,Emanuel Terry,PHO,True,2-pointer,1,35-36,'SAS',trails
+1162,1162,1162,201901290SAS,22.2,3.4,4th quarter,11:26.0,Emanuel Terry,PHO,True,2-pointer,2,95-96,'SAS',trails
+1054,1054,1054,201902230MIA,21.7,3.9,4th quarter,1:48.0,Emanuel Terry,MIA,False,2-pointer,2,91-116,'MIA',trails
+1041,1041,1041,202112290PHO,26.8,6.7,4th quarter,0:48.0,Emanuel Terry,PHO,False,2-pointer,4,115-97,'PHO',leads
+1042,1042,1042,202112290PHO,27.4,6.5,4th quarter,0:46.0,Emanuel Terry,PHO,False,2-pointer,5,115-97,'PHO',leads
+1043,1043,1043,202112290PHO,23.7,5.0,4th quarter,0:44.0,Emanuel Terry,PHO,False,2-pointer,2,115-97,'PHO',leads
+62,62,62,202112310BOS,24.0,3.3,3rd quarter,5:19.0,Emanuel Terry,PHO,False,2-pointer,0,64-81,'PHO',trails
+279,279,279,202201020CHO,24.0,3.3,4th quarter,2:14.0,Emanuel Terry,PHO,False,2-pointer,0,131-91,'CHO',leads

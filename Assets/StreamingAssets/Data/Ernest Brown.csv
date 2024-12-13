@@ -1,0 +1,7 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+710,710,710,200111150NYK,30.0,13.5,1st quarter,1:31.0,Ernest Brown,MIA,False,2-pointer,10,13-21,'MIA',trails
+292,292,292,200204140MIA,15.8,6.5,3rd quarter,4:01.0,Ernest Brown,MIA,False,2-pointer,8,54-61,'NYK',trails
+295,295,295,200204140MIA,20.3,6.5,3rd quarter,1:33.0,Ernest Brown,MIA,True,2-pointer,4,59-66,'NYK',trails
+299,299,299,200204140MIA,11.6,5.4,4th quarter,11:11.0,Ernest Brown,MIA,False,2-pointer,12,59-73,'NYK',trails
+310,310,310,200204140MIA,27.9,7.6,4th quarter,5:22.0,Ernest Brown,MIA,False,2-pointer,5,64-86,'NYK',trails
+313,313,313,200204140MIA,31.0,20.2,4th quarter,4:53.0,Ernest Brown,MIA,False,2-pointer,17,64-86,'NYK',trails

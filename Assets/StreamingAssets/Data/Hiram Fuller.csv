@@ -1,0 +1,9 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+198,198,198,200402270DET,24.0,5.0,3rd quarter,1:41.0,Hiram Fuller,ATL,False,2-pointer,0,57-85,'DET',trails
+206,206,206,200402270DET,24.0,5.0,4th quarter,9:16.0,Hiram Fuller,ATL,True,2-pointer,0,70-93,'DET',trails
+207,207,207,200402270DET,11.7,11.6,4th quarter,8:35.0,Hiram Fuller,ATL,False,2-pointer,14,70-93,'DET',trails
+209,209,209,200402270DET,24.0,5.0,4th quarter,8:09.0,Hiram Fuller,ATL,True,2-pointer,0,72-93,'DET',trails
+46,46,46,200403030CLE,26.1,7.5,3rd quarter,9:08.0,Hiram Fuller,ATL,False,2-pointer,3,45-65,'CLE',trails
+71,71,71,200403030CLE,26.6,5.0,4th quarter,6:10.0,Hiram Fuller,ATL,False,2-pointer,3,68-106,'CLE',trails
+78,78,78,200403030CLE,32.0,11.4,4th quarter,2:57.0,Hiram Fuller,ATL,True,2-pointer,10,73-110,'CLE',trails
+80,80,80,200403030CLE,19.4,15.4,4th quarter,0:58.9,Hiram Fuller,ATL,False,2-pointer,11,75-112,'CLE',trails

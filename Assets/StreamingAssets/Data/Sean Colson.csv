@@ -1,0 +1,25 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1304,1304,1304,200101210WAS,4.7,21.9,1st quarter,2:52.0,Sean Colson,ATL,False,3-pointer,26,18-13,'WAS',leads
+1324,1324,1324,200101210WAS,8.9,16.4,2nd quarter,1:32.0,Sean Colson,ATL,False,2-pointer,19,47-38,'WAS',leads
+1325,1325,1325,200101210WAS,39.3,3.3,2nd quarter,0:20.9,Sean Colson,ATL,False,2-pointer,15,47-42,'WAS',leads
+1344,1344,1344,200101210WAS,43.7,3.7,3rd quarter,0:55.9,Sean Colson,ATL,False,2-pointer,20,64-62,'WAS',leads
+23,23,23,200101230BOS,24.3,20.0,2nd quarter,9:52.0,Sean Colson,ATL,False,2-pointer,15,23-27,'BOS',trails
+388,388,388,200102280CHI,7.2,17.7,4th quarter,0:36.9,Sean Colson,HOU,False,2-pointer,21,94-76,'HOU',leads
+987,987,987,200103200SAC,36.7,10.7,4th quarter,5:56.0,Sean Colson,HOU,True,2-pointer,14,97-108,'HOU',trails
+992,992,992,200103200SAC,43.3,20.6,4th quarter,3:31.0,Sean Colson,HOU,False,3-pointer,25,101-114,'HOU',trails
+997,997,997,200103200SAC,7.2,10.7,4th quarter,2:19.0,Sean Colson,HOU,True,2-pointer,18,107-118,'HOU',trails
+998,998,998,200103200SAC,10.2,8.0,4th quarter,1:46.0,Sean Colson,HOU,False,2-pointer,14,107-118,'HOU',trails
+1000,1000,1000,200103200SAC,19.4,19.4,4th quarter,0:41.8,Sean Colson,HOU,True,2-pointer,15,109-120,'HOU',trails
+391,391,391,200103220LAC,24.0,5.0,4th quarter,0:06.0,Sean Colson,HOU,False,2-pointer,0,90-97,'HOU',trails
+720,720,720,200104090UTA,22.0,29.9,4th quarter,4:12.0,Sean Colson,HOU,False,3-pointer,25,72-87,'HOU',trails
+723,723,723,200104090UTA,24.0,5.0,4th quarter,2:24.0,Sean Colson,HOU,True,2-pointer,0,77-93,'HOU',trails
+724,724,724,200104090UTA,10.8,3.9,4th quarter,1:54.0,Sean Colson,HOU,True,2-pointer,13,79-93,'HOU',trails
+725,725,725,200104090UTA,32.3,19.4,4th quarter,1:28.0,Sean Colson,HOU,False,2-pointer,17,79-93,'HOU',trails
+309,309,309,200104100HOU,40.3,17.5,2nd quarter,0:01.6,Sean Colson,HOU,False,2-pointer,21,49-52,'HOU',trails
+750,750,750,200104140VAN,11.0,6.1,2nd quarter,7:21.0,Sean Colson,HOU,False,2-pointer,13,31-34,'HOU',trails
+752,752,752,200104140VAN,9.1,13.2,2nd quarter,5:41.0,Sean Colson,HOU,False,2-pointer,17,33-38,'HOU',trails
+341,341,341,200104170HOU,34.0,8.6,4th quarter,5:36.0,Sean Colson,HOU,False,2-pointer,11,103-75,'HOU',leads
+342,342,342,200104170HOU,39.7,14.7,4th quarter,4:59.0,Sean Colson,HOU,False,2-pointer,18,103-75,'HOU',leads
+344,344,344,200104170HOU,9.3,25.0,4th quarter,4:21.0,Sean Colson,HOU,True,3-pointer,25,106-77,'HOU',leads
+345,345,345,200104170HOU,7.2,24.0,4th quarter,2:48.0,Sean Colson,HOU,False,3-pointer,25,110-81,'HOU',leads
+350,350,350,200104170HOU,31.7,7.6,4th quarter,0:40.9,Sean Colson,HOU,False,2-pointer,8,112-87,'HOU',leads

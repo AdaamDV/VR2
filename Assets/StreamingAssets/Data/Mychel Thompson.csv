@@ -1,0 +1,25 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+58,58,58,201201290BOS,6.1,4.8,4th quarter,10:14.0,Mychel Thompson,CLE,False,2-pointer,18,65-72,'BOS',trails
+59,59,59,201201290BOS,8.3,15.4,4th quarter,10:05.0,Mychel Thompson,CLE,True,2-pointer,19,67-72,'BOS',trails
+60,60,60,201201290BOS,5.2,14.7,4th quarter,9:24.0,Mychel Thompson,CLE,True,2-pointer,21,69-74,'BOS',trails
+82,82,82,201201310CLE,39.1,25.6,1st quarter,5:33.0,Mychel Thompson,CLE,True,3-pointer,26,11-13,'BOS',trails
+97,97,97,201201310CLE,13.9,10.6,2nd quarter,5:19.0,Mychel Thompson,CLE,False,2-pointer,12,33-37,'BOS',trails
+106,106,106,201201310CLE,11.2,27.2,3rd quarter,11:40.0,Mychel Thompson,CLE,False,3-pointer,26,39-51,'BOS',trails
+111,111,111,201201310CLE,38.1,19.8,3rd quarter,8:04.0,Mychel Thompson,CLE,False,2-pointer,20,44-63,'BOS',trails
+115,115,115,201201310CLE,47.0,5.1,3rd quarter,6:09.0,Mychel Thompson,CLE,True,3-pointer,23,49-65,'BOS',trails
+117,117,117,201201310CLE,10.1,8.6,3rd quarter,5:28.0,Mychel Thompson,CLE,False,2-pointer,14,49-67,'BOS',trails
+120,120,120,201201310CLE,3.5,9.8,3rd quarter,4:54.0,Mychel Thompson,CLE,True,2-pointer,21,53-67,'BOS',trails
+122,122,122,201201310CLE,0.8,8.1,3rd quarter,3:45.0,Mychel Thompson,CLE,False,3-pointer,23,53-70,'BOS',trails
+125,125,125,201201310CLE,14.8,12.2,3rd quarter,1:50.0,Mychel Thompson,CLE,False,2-pointer,12,55-75,'BOS',trails
+1133,1133,1133,201202030ORL,47.3,16.5,1st quarter,10:27.0,Mychel Thompson,CLE,False,3-pointer,26,2-0,'ORL',leads
+1137,1137,1137,201202030ORL,24.1,6.7,1st quarter,7:55.0,Mychel Thompson,CLE,False,2-pointer,2,5-8,'ORL',trails
+1147,1147,1147,201202030ORL,9.0,9.5,1st quarter,3:43.0,Mychel Thompson,CLE,False,2-pointer,16,9-18,'ORL',trails
+1170,1170,1170,201202030ORL,23.1,6.2,2nd quarter,3:49.0,Mychel Thompson,CLE,False,2-pointer,2,28-41,'ORL',trails
+1189,1189,1189,201202030ORL,19.5,31.0,3rd quarter,6:40.0,Mychel Thompson,CLE,False,3-pointer,26,42-61,'ORL',trails
+1193,1193,1193,201202030ORL,9.8,27.4,3rd quarter,3:23.0,Mychel Thompson,CLE,False,3-pointer,27,51-68,'ORL',trails
+232,232,232,201202040CLE,29.4,19.6,1st quarter,9:24.0,Mychel Thompson,CLE,False,2-pointer,16,8-4,'DAL',leads
+236,236,236,201202040CLE,19.5,10.0,1st quarter,7:43.0,Mychel Thompson,CLE,False,2-pointer,7,8-10,'DAL',trails
+275,275,275,201202040CLE,47.4,4.8,3rd quarter,11:34.0,Mychel Thompson,CLE,True,3-pointer,23,46-51,'DAL',trails
+279,279,279,201202040CLE,0.8,8.1,3rd quarter,9:54.0,Mychel Thompson,CLE,True,3-pointer,23,51-53,'DAL',trails
+281,281,281,201202040CLE,14.5,27.7,3rd quarter,8:57.0,Mychel Thompson,CLE,False,3-pointer,25,53-55,'DAL',trails
+290,290,290,201202040CLE,8.7,24.5,3rd quarter,3:51.0,Mychel Thompson,CLE,False,3-pointer,25,66-59,'DAL',leads

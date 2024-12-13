@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1524,1524,1524,201711110SAS,24.2,3.9,4th quarter,1:59.0,Matt Costello,SAS,True,2-pointer,0,128-92,'SAS',leads
+1265,1265,1265,201801080SAC,26.9,3.9,2nd quarter,11:17.0,Matt Costello,SAS,False,2-pointer,3,21-26,'SAS',trails
+75,75,75,201801110LAL,24.0,2.4,4th quarter,0:17.0,Matt Costello,SAS,False,2-pointer,0,81-93,'SAS',trails
+73,73,73,201803120HOU,23.7,4.7,4th quarter,5:34.0,Matt Costello,SAS,True,2-pointer,1,83-102,'SAS',trails

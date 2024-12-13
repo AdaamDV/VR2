@@ -1,0 +1,19 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+469,469,469,201710200DAL,46.3,7.4,2nd quarter,8:59.0,Gian Clavell,DAL,True,3-pointer,22,32-26,'DAL',leads
+471,471,471,201710200DAL,46.7,9.4,2nd quarter,8:18.0,Gian Clavell,DAL,False,3-pointer,23,32-26,'DAL',leads
+503,503,503,201710200DAL,42.7,22.0,4th quarter,9:53.0,Gian Clavell,DAL,False,3-pointer,26,69-71,'DAL',trails
+543,543,543,201710210HOU,13.9,22.3,2nd quarter,9:08.0,Gian Clavell,DAL,False,2-pointer,21,25-36,'DAL',trails
+544,544,544,201710210HOU,1.5,6.6,2nd quarter,8:46.0,Gian Clavell,DAL,False,3-pointer,22,25-36,'DAL',trails
+580,580,580,201710210HOU,34.3,26.0,4th quarter,11:35.0,Gian Clavell,DAL,True,3-pointer,25,62-92,'DAL',trails
+583,583,583,201710210HOU,46.7,9.4,4th quarter,10:35.0,Gian Clavell,DAL,True,3-pointer,23,67-94,'DAL',trails
+584,584,584,201710210HOU,45.0,16.9,4th quarter,9:58.0,Gian Clavell,DAL,True,3-pointer,25,70-96,'DAL',trails
+585,585,585,201710210HOU,10.9,27.3,4th quarter,9:26.0,Gian Clavell,DAL,False,3-pointer,27,70-98,'DAL',trails
+598,598,598,201710210HOU,34.2,2.6,4th quarter,2:08.0,Gian Clavell,DAL,False,2-pointer,10,86-104,'DAL',trails
+172,172,172,201710230DAL,24.9,27.6,4th quarter,4:39.0,Gian Clavell,DAL,False,3-pointer,24,89-119,'DAL',trails
+178,178,178,201710230DAL,46.6,6.3,4th quarter,1:14.0,Gian Clavell,DAL,False,3-pointer,22,99-125,'DAL',trails
+763,763,763,201711040MIN,36.3,25.2,4th quarter,3:13.0,Gian Clavell,DAL,False,3-pointer,25,89-106,'DAL',trails
+765,765,765,201711040MIN,41.9,20.4,4th quarter,2:50.0,Gian Clavell,DAL,True,3-pointer,24,92-106,'DAL',trails
+771,771,771,201711040MIN,5.3,19.3,4th quarter,0:01.0,Gian Clavell,DAL,False,3-pointer,24,99-112,'DAL',trails
+527,527,527,201711120OKC,29.1,4.2,2nd quarter,11:46.0,Gian Clavell,DAL,False,2-pointer,5,20-18,'DAL',leads
+586,586,586,201711120OKC,36.1,25.7,4th quarter,1:12.0,Gian Clavell,DAL,False,3-pointer,25,91-109,'DAL',trails
+587,587,587,201711120OKC,46.9,9.9,4th quarter,0:45.0,Gian Clavell,DAL,True,3-pointer,23,94-111,'DAL',trails

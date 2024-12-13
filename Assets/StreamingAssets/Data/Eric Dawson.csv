@@ -1,0 +1,13 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+689,689,689,201202210POR,4.1,6.7,1st quarter,1:59.0,Eric Dawson,SAS,False,2-pointer,20,20-29,'SAS',trails
+695,695,695,201202210POR,38.1,8.4,2nd quarter,11:01.0,Eric Dawson,SAS,False,2-pointer,15,23-41,'SAS',trails
+697,697,697,201202210POR,25.5,5.4,2nd quarter,10:11.0,Eric Dawson,SAS,False,2-pointer,2,23-43,'SAS',trails
+702,702,702,201202210POR,15.3,19.6,2nd quarter,7:29.0,Eric Dawson,SAS,True,2-pointer,17,30-48,'SAS',trails
+723,723,723,201202210POR,23.6,4.7,3rd quarter,6:43.0,Eric Dawson,SAS,False,2-pointer,1,51-82,'SAS',trails
+733,733,733,201202210POR,23.8,4.8,4th quarter,10:00.0,Eric Dawson,SAS,True,2-pointer,0,69-112,'SAS',trails
+735,735,735,201202210POR,23.8,6.4,4th quarter,9:31.0,Eric Dawson,SAS,True,2-pointer,1,71-112,'SAS',trails
+747,747,747,201202210POR,24.1,5.1,4th quarter,2:55.0,Eric Dawson,SAS,True,2-pointer,0,88-134,'SAS',trails
+1475,1475,1475,201203210SAS,36.2,18.7,4th quarter,1:24.0,Eric Dawson,SAS,False,2-pointer,18,116-96,'SAS',leads
+1516,1516,1516,201203230SAS,41.3,6.7,4th quarter,1:09.0,Eric Dawson,SAS,True,2-pointer,17,100-86,'SAS',leads
+1517,1517,1517,201203230SAS,38.7,6.5,4th quarter,0:46.7,Eric Dawson,SAS,True,2-pointer,15,102-86,'SAS',leads
+1518,1518,1518,201203230SAS,38.6,19.2,4th quarter,0:15.8,Eric Dawson,SAS,True,2-pointer,20,104-87,'SAS',leads

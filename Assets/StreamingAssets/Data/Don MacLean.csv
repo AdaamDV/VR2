@@ -1,0 +1,21 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+711,711,711,200011010MIA,24.0,5.0,1st quarter,0:26.5,Don MacLean,MIA,True,2-pointer,0,37-14,'MIA',leads
+713,713,713,200011010MIA,27.9,7.8,2nd quarter,11:46.0,Don MacLean,MIA,False,2-pointer,5,37-14,'MIA',leads
+714,714,714,200011010MIA,27.9,28.6,2nd quarter,10:55.0,Don MacLean,MIA,True,3-pointer,24,40-17,'MIA',leads
+717,717,717,200011010MIA,39.3,17.7,2nd quarter,8:48.0,Don MacLean,MIA,True,2-pointer,20,44-24,'MIA',leads
+718,718,718,200011010MIA,5.3,8.4,2nd quarter,7:47.0,Don MacLean,MIA,True,2-pointer,19,46-28,'MIA',leads
+758,758,758,200011010MIA,24.0,5.0,4th quarter,9:32.0,Don MacLean,MIA,True,2-pointer,0,86-59,'MIA',leads
+186,186,186,200011030CHH,24.1,10.3,2nd quarter,9:14.0,Don MacLean,MIA,False,2-pointer,5,21-19,'MIA',leads
+187,187,187,200011030CHH,24.0,5.0,2nd quarter,7:46.0,Don MacLean,MIA,True,2-pointer,0,23-23,'MIA',tied
+199,199,199,200011030CHH,24.0,5.0,2nd quarter,1:58.0,Don MacLean,MIA,False,2-pointer,0,31-39,'MIA',trails
+1202,1202,1202,200011040MIA,39.0,24.0,3rd quarter,3:36.0,Don MacLean,MIA,True,3-pointer,24,61-58,'MIA',leads
+1203,1203,1203,200011040MIA,10.8,19.1,3rd quarter,3:03.0,Don MacLean,MIA,False,2-pointer,19,61-60,'MIA',leads
+1205,1205,1205,200011040MIA,24.1,18.1,3rd quarter,2:12.0,Don MacLean,MIA,False,2-pointer,13,61-63,'MIA',trails
+1207,1207,1207,200011040MIA,26.2,19.1,3rd quarter,1:36.0,Don MacLean,MIA,False,2-pointer,14,61-63,'MIA',trails
+1218,1218,1218,200011040MIA,5.9,3.9,4th quarter,5:21.0,Don MacLean,MIA,False,2-pointer,18,76-78,'MIA',trails
+233,233,233,200101300HOU,39.7,12.2,4th quarter,1:31.0,Don MacLean,MIA,True,2-pointer,17,99-82,'MIA',leads
+339,339,339,200103120MIN,24.0,5.0,1st quarter,9:09.0,Don MacLean,MIA,False,2-pointer,0,7-4,'MIA',leads
+340,340,340,200103120MIN,8.7,6.3,1st quarter,8:45.0,Don MacLean,MIA,False,2-pointer,15,7-6,'MIA',leads
+380,380,380,200103120MIN,21.1,13.0,2nd quarter,0:02.9,Don MacLean,MIA,False,2-pointer,9,47-57,'MIA',trails
+421,421,421,200103120MIN,35.5,15.4,4th quarter,2:31.0,Don MacLean,MIA,True,2-pointer,16,73-91,'MIA',trails
+759,759,759,200103210MIA,24.0,5.0,4th quarter,5:16.0,Don MacLean,MIA,True,2-pointer,0,94-75,'MIA',leads

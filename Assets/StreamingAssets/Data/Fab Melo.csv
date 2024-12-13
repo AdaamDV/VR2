@@ -1,0 +1,7 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+168,168,168,201302070BOS,24.1,7.8,4th quarter,1:58.0,Fab Melo,BOS,False,2-pointer,3,109-88,'LAL',leads
+170,170,170,201302070BOS,25.0,5.1,4th quarter,1:22.0,Fab Melo,BOS,True,2-pointer,1,111-90,'LAL',leads
+1236,1236,1236,201302200LAL,22.7,7.3,4th quarter,2:10.0,Fab Melo,BOS,True,2-pointer,3,94-108,'LAL',trails
+1602,1602,1602,201302220PHO,24.6,7.0,4th quarter,3:02.0,Fab Melo,BOS,False,2-pointer,2,108-82,'PHO',leads
+2429,2429,2429,201304170TOR,23.3,5.9,4th quarter,9:57.0,Fab Melo,BOS,True,2-pointer,1,74-98,'TOR',trails
+2431,2431,2431,201304170TOR,22.5,12.8,4th quarter,8:14.0,Fab Melo,BOS,False,2-pointer,8,74-103,'TOR',trails

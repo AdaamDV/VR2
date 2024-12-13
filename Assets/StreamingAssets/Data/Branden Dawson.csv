@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1728,1728,1728,201512280WAS,22.9,2.9,4th quarter,1:45.0,Branden Dawson,LAC,False,2-pointer,1,108-86,'WAS',leads
+1181,1181,1181,201601020LAC,24.1,6.6,4th quarter,6:06.0,Branden Dawson,LAC,True,2-pointer,3,119-81,'PHI',leads
+1186,1186,1186,201601020LAC,22.6,5.3,4th quarter,3:31.0,Branden Dawson,LAC,False,2-pointer,2,123-87,'PHI',leads
+2013,2013,2013,201604130PHO,23.3,10.5,4th quarter,3:23.0,Branden Dawson,LAC,False,2-pointer,7,91-106,'PHO',trails
+2016,2016,2016,201604130PHO,25.0,2.9,4th quarter,2:04.0,Branden Dawson,LAC,True,2-pointer,1,97-108,'PHO',trails

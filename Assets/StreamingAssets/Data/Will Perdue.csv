@@ -1,0 +1,10 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1366,1366,1366,200011110POR,19.4,5.4,4th quarter,2:28.0,Will Perdue,POR,False,2-pointer,5,103-84,'POR',leads
+1370,1370,1370,200011110POR,24.0,5.0,4th quarter,1:27.0,Will Perdue,POR,True,2-pointer,0,109-86,'POR',leads
+901,901,901,200012090POR,36.3,4.6,1st quarter,0:39.0,Will Perdue,POR,False,2-pointer,12,28-12,'POR',leads
+934,934,934,200012090POR,24.0,5.0,3rd quarter,5:13.0,Will Perdue,POR,True,2-pointer,0,75-45,'POR',leads
+937,937,937,200012090POR,24.0,5.0,3rd quarter,4:03.0,Will Perdue,POR,True,2-pointer,0,80-48,'POR',leads
+758,758,758,200012290POR,24.0,5.0,4th quarter,1:19.0,Will Perdue,POR,True,2-pointer,0,100-76,'POR',leads
+300,300,300,200101010POR,24.0,5.0,4th quarter,4:53.0,Will Perdue,POR,True,2-pointer,0,84-61,'POR',leads
+1262,1262,1262,200101030POR,11.0,3.5,4th quarter,0:08.4,Will Perdue,POR,False,2-pointer,13,102-84,POR,leads
+1640,1640,1640,200102130POR,24.0,5.0,4th quarter,0:32.6,Will Perdue,POR,True,2-pointer,0,109-83,'POR',leads

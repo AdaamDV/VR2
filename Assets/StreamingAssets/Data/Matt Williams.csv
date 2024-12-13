@@ -1,0 +1,7 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1353,1353,1353,201712230MIA,0.6,7.2,4th quarter,2:42.0,Matt Williams,MIA,False,3-pointer,23,85-109,'NOP',trails
+852,852,852,201712260MIA,41.1,23.0,4th quarter,0:49.0,Matt Williams,MIA,True,3-pointer,26,107-86,'MIA',leads
+692,692,692,201712290MIA,4.1,19.4,4th quarter,4:15.0,Matt Williams,MIA,False,3-pointer,25,80-107,'MIA',trails
+694,694,694,201712290MIA,4.8,19.3,4th quarter,3:34.0,Matt Williams,MIA,False,3-pointer,25,80-107,'MIA',trails
+699,699,699,201712290MIA,13.2,11.3,4th quarter,0:55.0,Matt Williams,MIA,True,2-pointer,13,87-111,'MIA',trails
+700,700,700,201712290MIA,10.2,24.9,4th quarter,0:30.0,Matt Williams,MIA,False,3-pointer,25,87-111,'MIA',trails

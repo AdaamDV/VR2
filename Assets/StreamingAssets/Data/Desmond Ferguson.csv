@@ -1,0 +1,13 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+805,805,805,200404030POR,36.1,25.7,4th quarter,1:43.0,Desmond Ferguson,POR,True,3-pointer,24,79-94,'POR',trails
+806,806,806,200404030POR,24.0,5.0,4th quarter,1:13.0,Desmond Ferguson,POR,True,2-pointer,0,81-94,'POR',trails
+807,807,807,200404030POR,46.5,6.7,4th quarter,0:25.9,Desmond Ferguson,POR,False,3-pointer,23,81-94,'POR',trails
+1045,1045,1045,200404060LAL,1.8,18.8,4th quarter,0:32.9,Desmond Ferguson,POR,False,3-pointer,26,91-77,'POR',leads
+1617,1617,1617,200404090SAS,45.3,17.2,3rd quarter,0:33.9,Desmond Ferguson,POR,True,3-pointer,25,49-66,'POR',trails
+1621,1621,1621,200404090SAS,21.5,30.0,4th quarter,9:02.0,Desmond Ferguson,POR,False,3-pointer,25,56-69,'POR',trails
+1490,1490,1490,200404120POR,43.5,5.8,2nd quarter,10:25.0,Desmond Ferguson,POR,False,2-pointer,20,15-26,'SAS',trails
+1494,1494,1494,200404120POR,46.7,5.0,2nd quarter,7:25.0,Desmond Ferguson,POR,False,3-pointer,23,19-26,'SAS',trails
+1529,1529,1529,200404120POR,7.7,25.1,4th quarter,11:24.0,Desmond Ferguson,POR,False,3-pointer,26,41-62,'SAS',trails
+1530,1530,1530,200404120POR,24.0,5.0,4th quarter,10:51.0,Desmond Ferguson,POR,True,2-pointer,0,43-62,'SAS',trails
+1745,1745,1745,200404140POR,30.2,20.5,2nd quarter,5:32.0,Desmond Ferguson,POR,False,2-pointer,17,39-35,'POR',leads
+1746,1746,1746,200404140POR,2.3,15.4,2nd quarter,4:49.0,Desmond Ferguson,POR,True,3-pointer,24,42-35,'POR',leads

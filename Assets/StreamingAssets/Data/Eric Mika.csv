@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1320,1320,1320,202002010SAC,19.0,15.0,1st quarter,1:28.0,Eric Mika,SAC,True,2-pointer,13,18-39,'LAL',trails
+1321,1321,1321,202002010SAC,24.9,4.4,1st quarter,0:50.0,Eric Mika,SAC,True,2-pointer,1,20-42,'LAL',trails
+1331,1331,1331,202002010SAC,21.7,4.1,2nd quarter,8:05.0,Eric Mika,SAC,False,2-pointer,2,34-47,'LAL',trails

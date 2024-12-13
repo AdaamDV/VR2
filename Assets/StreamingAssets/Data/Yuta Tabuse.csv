@@ -1,0 +1,7 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1631,1631,1631,200411030PHO,29.9,22.9,4th quarter,9:17.0,Yuta Tabuse,PHO,False,2-pointer,19,95-55,'PHO',leads
+1634,1634,1634,200411030PHO,24.0,5.0,4th quarter,6:13.0,Yuta Tabuse,PHO,False,2-pointer,0,97-62,'PHO',leads
+1637,1637,1637,200411030PHO,35.5,26.7,4th quarter,5:00.0,Yuta Tabuse,PHO,True,3-pointer,25,100-64,'PHO',leads
+1509,1509,1509,200411060NJN,24.0,5.0,4th quarter,1:24.0,Yuta Tabuse,PHO,False,2-pointer,0,106-76,'NJN',leads
+846,846,846,200412130PHO,36.0,14.9,4th quarter,1:26.0,Yuta Tabuse,PHO,False,2-pointer,16,121-98,'PHO',leads
+849,849,849,200412130PHO,12.2,17.7,4th quarter,0:50.9,Yuta Tabuse,PHO,False,2-pointer,17,121-100,'PHO',leads

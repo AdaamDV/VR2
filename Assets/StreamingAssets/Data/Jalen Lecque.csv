@@ -1,0 +1,20 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+850,850,850,202001160NYK,24.4,4.3,4th quarter,0:34.0,Jalen Lecque,PHO,False,2-pointer,1,121-95,'NYK',leads
+472,472,472,202002020MIL,24.7,3.6,4th quarter,11:02.0,Jalen Lecque,PHO,True,2-pointer,1,82-100,'PHO',trails
+489,489,489,202002020MIL,15.0,29.7,4th quarter,1:27.0,Jalen Lecque,PHO,False,3-pointer,28,106-123,'PHO',trails
+491,491,491,202002020MIL,23.6,4.4,4th quarter,0:16.0,Jalen Lecque,PHO,True,2-pointer,1,108-129,'PHO',trails
+197,197,197,202002030BRK,47.8,7.0,1st quarter,1:13.0,Jalen Lecque,PHO,False,3-pointer,24,25-28,'PHO',trails
+201,201,201,202002030BRK,47.0,6.2,2nd quarter,11:42.0,Jalen Lecque,PHO,False,3-pointer,23,31-35,'PHO',trails
+263,263,263,202002030BRK,15.0,11.3,4th quarter,0:15.0,Jalen Lecque,PHO,True,2-pointer,12,97-119,'PHO',trails
+907,907,907,202002100LAL,24.5,4.5,4th quarter,3:48.0,Jalen Lecque,PHO,True,2-pointer,1,96-120,'LAL',trails
+909,909,909,202002100LAL,37.8,25.3,4th quarter,2:53.0,Jalen Lecque,PHO,False,3-pointer,26,96-121,'LAL',trails
+913,913,913,202002100LAL,39.4,9.2,4th quarter,0:17.0,Jalen Lecque,PHO,False,2-pointer,17,100-125,'LAL',trails
+89,89,89,202012260CHI,24.2,4.8,4th quarter,1:15.0,Jalen Lecque,IND,False,2-pointer,2,123-106,'IND',leads
+350,350,350,202012310IND,23.9,3.3,4th quarter,0:20.0,Jalen Lecque,IND,True,2-pointer,0,118-97,'IND',leads
+597,597,597,202101170LAC,35.0,23.6,4th quarter,4:15.0,Jalen Lecque,IND,False,2-pointer,23,90-118,'IND',trails
+603,603,603,202101170LAC,23.8,29.4,4th quarter,0:03.0,Jalen Lecque,IND,False,3-pointer,26,96-129,'IND',trails
+1027,1027,1027,202103220MIL,30.4,14.7,4th quarter,2:22.0,Jalen Lecque,IND,False,2-pointer,13,110-134,'IND',trails
+1028,1028,1028,202103220MIL,25.4,4.9,4th quarter,2:10.0,Jalen Lecque,IND,False,2-pointer,2,110-134,'IND',trails
+1030,1030,1030,202103220MIL,17.1,18.1,4th quarter,1:39.0,Jalen Lecque,IND,False,2-pointer,16,113-134,'IND',trails
+1033,1033,1033,202103220MIL,23.8,6.0,4th quarter,1:22.0,Jalen Lecque,IND,False,2-pointer,3,113-134,'IND',trails
+1038,1038,1038,202103220MIL,20.6,7.1,4th quarter,0:00.0,Jalen Lecque,IND,False,2-pointer,5,113-140,'IND',trails

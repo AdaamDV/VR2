@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+697,697,697,201212220HOU,25.2,5.9,4th quarter,1:51.0,Scott Machado,HOU,True,2-pointer,2,117-94,'HOU',leads
+220,220,220,201212250CHI,25.3,23.1,4th quarter,1:06.0,Scott Machado,HOU,False,2-pointer,18,120-94,'HOU',leads
+221,221,221,201212250CHI,32.4,28.5,4th quarter,0:04.7,Scott Machado,HOU,False,3-pointer,25,120-97,'HOU',leads
+974,974,974,201212290HOU,26.4,5.0,4th quarter,5:56.0,Scott Machado,HOU,False,2-pointer,2,83-112,'HOU',trails
+977,977,977,201212290HOU,25.8,6.5,4th quarter,3:36.0,Scott Machado,HOU,True,2-pointer,2,88-119,'HOU',trails
+1039,1039,1039,201301040MIL,24.0,5.1,4th quarter,0:38.9,Scott Machado,HOU,True,2-pointer,0,115-101,'HOU',leads
+309,309,309,201304280GSW,14.0,20.7,4th quarter,2:08.0,Scott Machado,GSW,True,2-pointer,19,115-97,'DEN',leads
+235,235,235,201305140SAS,26.4,5.4,4th quarter,0:02.9,Scott Machado,GSW,False,2-pointer,2,91-109,'SAS',trails
+905,905,905,201903260LAL,23.5,20.2,4th quarter,0:45.0,Scott Machado,LAL,False,2-pointer,17,119-106,'LAL',leads
+907,907,907,201903260LAL,24.6,4.2,4th quarter,0:20.0,Scott Machado,LAL,True,2-pointer,1,123-106,'LAL',leads
+793,793,793,201903270UTA,22.2,3.3,4th quarter,9:50.0,Scott Machado,LAL,True,2-pointer,2,79-93,'LAL',trails
+798,798,798,201903270UTA,21.4,4.1,4th quarter,7:15.0,Scott Machado,LAL,False,2-pointer,3,82-99,'LAL',trails
+809,809,809,201903270UTA,25.8,5.4,4th quarter,1:48.0,Scott Machado,LAL,True,2-pointer,3,94-112,'LAL',trails
+810,810,810,201903270UTA,35.8,25.4,4th quarter,1:28.0,Scott Machado,LAL,True,3-pointer,25,97-113,'LAL',trails

@@ -1,0 +1,11 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1680,1680,1680,201610260TOR,47.2,15.1,4th quarter,1:19.0,Michael Gbinije,DET,False,3-pointer,26,89-109,'TOR',trails
+522,522,522,201610280DET,1.8,16.9,4th quarter,0:47.0,Michael Gbinije,DET,False,3-pointer,26,108-79,'DET',leads
+342,342,342,201611050DET,6.9,6.3,4th quarter,2:04.0,Michael Gbinije,DET,False,2-pointer,17,98-79,'DET',leads
+303,303,303,201611290CHO,25.5,3.2,4th quarter,0:15.0,Michael Gbinije,DET,False,2-pointer,2,110-89,'CHO',leads
+304,304,304,201611290CHO,25.5,3.2,4th quarter,0:15.0,Michael Gbinije,DET,True,2-pointer,2,112-89,'CHO',leads
+83,83,83,201612020ATL,37.2,24.8,4th quarter,2:17.0,Michael Gbinije,DET,False,3-pointer,25,117-83,'DET',leads
+85,85,85,201612020ATL,24.9,4.1,4th quarter,1:26.0,Michael Gbinije,DET,False,2-pointer,1,121-85,'DET',leads
+88,88,88,201612020ATL,42.6,19.9,4th quarter,0:36.0,Michael Gbinije,DET,False,3-pointer,25,121-85,'DET',leads
+678,678,678,201612170DET,37.5,12.5,4th quarter,3:39.0,Michael Gbinije,DET,False,2-pointer,17,80-99,'IND',trails
+502,502,502,201612260DET,23.3,3.8,4th quarter,0:59.0,Michael Gbinije,DET,False,2-pointer,1,105-88,'DET',leads

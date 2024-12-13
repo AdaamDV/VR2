@@ -1,0 +1,12 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+83,83,83,200811030CHA,24.0,5.0,4th quarter,0:25.0,Walter Sharpe,DET,True,2-pointer,0,101-81,'DET',leads
+644,644,644,200811260DET,10.4,10.2,4th quarter,0:56.9,Walter Sharpe,DET,False,2-pointer,15,110-91,'NYK',leads
+645,645,645,200811260DET,33.2,22.6,4th quarter,0:28.9,Walter Sharpe,DET,False,2-pointer,20,110-93,'NYK',leads
+484,484,484,200811280DET,15.6,19.5,4th quarter,1:50.0,Walter Sharpe,DET,False,2-pointer,17,107-94,'DET',leads
+485,485,485,200811280DET,24.0,5.0,4th quarter,1:20.0,Walter Sharpe,DET,False,2-pointer,0,107-94,'DET',leads
+650,650,650,200903060DET,24.0,5.0,4th quarter,1:44.0,Walter Sharpe,DET,True,2-pointer,0,104-85,'DET',leads
+313,313,313,200903200DET,24.0,5.0,4th quarter,0:22.5,Walter Sharpe,DET,True,2-pointer,0,108-90,'DET',leads
+82,82,82,200903240CHI,30.5,9.5,4th quarter,0:09.9,Walter Sharpe,DET,True,2-pointer,8,91-99,'DET',trails
+304,304,304,200903260DET,3.5,18.7,4th quarter,0:22.9,Walter Sharpe,DET,False,3-pointer,25,77-92,'LAL',trails
+1388,1388,1388,200904080NYK,1.7,6.5,4th quarter,4:13.0,Walter Sharpe,DET,False,3-pointer,22,105-77,'NYK',leads
+1393,1393,1393,200904080NYK,40.0,8.7,4th quarter,0:33.9,Walter Sharpe,DET,False,2-pointer,16,111-86,'NYK',leads

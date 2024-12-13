@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1662,1662,1662,202103110SAC,8.7,23.7,2nd quarter,7:17.0, missed,HOU,False,3-pointer,25,39-50,'HOU',trails
+1707,1707,1707,202103110SAC,38.4,24.3,4th quarter,8:42.0, missed,HOU,False,3-pointer,26,91-106,'HOU',trails
+1722,1722,1722,202103110SAC,28.0,6.2,4th quarter,0:52.0, missed,HOU,False,2-pointer,5,103-123,'HOU',trails

@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+509,509,509,200012220MIA,24.0,5.0,2nd quarter,0:02.6,J.R. Reid,CLE,True,2-pointer,0,52-56,'MIA',trails
+1264,1264,1264,200012230ORL,8.0,15.6,2nd quarter,10:39.0,J.R. Reid,CLE,True,2-pointer,19,23-35,'ORL',trails
+1305,1305,1305,200012230ORL,36.3,17.7,4th quarter,9:12.0,J.R. Reid,CLE,False,2-pointer,18,71-90,'ORL',trails
+253,253,253,200012280CLE,35.5,16.2,2nd quarter,10:52.0,J.R. Reid,CLE,False,2-pointer,16,20-27,'CLE',trails
+289,289,289,200012280CLE,36.9,11.1,4th quarter,11:43.0,J.R. Reid,CLE,False,2-pointer,14,62-79,'CLE',trails

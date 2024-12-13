@@ -1,0 +1,23 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+755,755,755,200011010MIA,3.8,5.0,4th quarter,10:27.0,Jamal Robinson,MIA,False,2-pointer,20,84-57,'MIA',leads
+759,759,759,200011010MIA,24.0,5.0,4th quarter,8:48.0,Jamal Robinson,MIA,False,2-pointer,0,87-60,'MIA',leads
+760,760,760,200011010MIA,6.2,5.0,4th quarter,7:07.0,Jamal Robinson,MIA,False,2-pointer,18,89-64,'MIA',leads
+762,762,762,200011010MIA,24.0,5.0,4th quarter,6:40.0,Jamal Robinson,MIA,False,2-pointer,0,89-64,'MIA',leads
+767,767,767,200011010MIA,38.0,14.3,4th quarter,2:54.0,Jamal Robinson,MIA,False,2-pointer,17,95-73,'MIA',leads
+808,808,808,200011150NJN,10.6,27.6,1st quarter,1:26.0,Jamal Robinson,MIA,False,3-pointer,26,15-27,'MIA',trails
+816,816,816,200011150NJN,14.2,18.5,2nd quarter,8:17.0,Jamal Robinson,MIA,True,2-pointer,17,25-28,'MIA',trails
+822,822,822,200011150NJN,24.0,5.0,2nd quarter,5:11.0,Jamal Robinson,MIA,False,2-pointer,0,27-33,'MIA',trails
+824,824,824,200011150NJN,24.0,5.0,2nd quarter,3:51.0,Jamal Robinson,MIA,False,2-pointer,0,27-37,'MIA',trails
+858,858,858,200011170PHI,27.0,5.2,4th quarter,8:13.0,Jamal Robinson,MIA,False,2-pointer,3,65-80,'MIA',trails
+860,860,860,200011170PHI,8.7,17.5,4th quarter,7:11.0,Jamal Robinson,MIA,False,2-pointer,20,67-82,'MIA',trails
+863,863,863,200011170PHI,14.4,17.5,4th quarter,5:37.0,Jamal Robinson,MIA,True,2-pointer,16,71-86,'MIA',trails
+869,869,869,200011170PHI,18.0,6.7,4th quarter,2:13.0,Jamal Robinson,MIA,False,2-pointer,6,71-92,'MIA',trails
+695,695,695,200011180MIA,26.4,19.4,1st quarter,1:52.0,Jamal Robinson,MIA,False,2-pointer,15,19-22,'POR',trails
+703,703,703,200011180MIA,42.2,5.0,2nd quarter,10:01.0,Jamal Robinson,MIA,False,2-pointer,18,23-27,'POR',trails
+704,704,704,200011180MIA,28.7,4.2,2nd quarter,9:45.0,Jamal Robinson,MIA,False,2-pointer,5,23-27,'POR',trails
+713,713,713,200011180MIA,24.0,5.0,2nd quarter,5:42.0,Jamal Robinson,MIA,True,2-pointer,0,33-28,'POR',leads
+741,741,741,200011180MIA,41.6,14.3,4th quarter,10:23.0,Jamal Robinson,MIA,False,2-pointer,20,58-64,'POR',trails
+747,747,747,200011180MIA,30.8,10.5,4th quarter,7:22.0,Jamal Robinson,MIA,False,2-pointer,9,63-64,'POR',trails
+749,749,749,200011180MIA,9.5,24.8,4th quarter,6:32.0,Jamal Robinson,MIA,False,3-pointer,25,66-66,'POR',tied
+751,751,751,200011180MIA,4.7,10.1,4th quarter,5:58.0,Jamal Robinson,MIA,False,2-pointer,20,68-68,'POR',tied
+766,766,766,200011220MIA,35.0,16.2,4th quarter,10:04.0,Jamal Robinson,MIA,False,2-pointer,16,48-69,'MIA',trails

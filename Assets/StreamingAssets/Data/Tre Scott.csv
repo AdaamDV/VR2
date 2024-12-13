@@ -1,0 +1,7 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+344,344,344,202112260CLE,47.6,11.6,4th quarter,7:39.0,Tre Scott,CLE,False,3-pointer,25,129-86,'TOR',leads
+347,347,347,202112260CLE,23.8,5.8,4th quarter,6:43.0,Tre Scott,CLE,False,2-pointer,3,129-88,'TOR',leads
+351,351,351,202112260CLE,30.3,14.3,4th quarter,4:49.0,Tre Scott,CLE,False,2-pointer,13,132-92,'TOR',leads
+354,354,354,202112260CLE,24.6,3.9,4th quarter,3:46.0,Tre Scott,CLE,True,2-pointer,1,136-92,'TOR',leads
+362,362,362,202112260CLE,24.1,3.8,4th quarter,1:18.0,Tre Scott,CLE,True,2-pointer,1,142-95,'TOR',leads
+363,363,363,202112260CLE,27.0,9.8,4th quarter,0:38.0,Tre Scott,CLE,True,2-pointer,7,144-97,'TOR',leads

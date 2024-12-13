@@ -1,0 +1,18 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+234,234,234,201311120GSW,18.0,23.8,4th quarter,5:33.0,Tony Mitchell,DET,False,2-pointer,22,83-99,'DET',trails
+242,242,242,201311120GSW,22.5,5.0,4th quarter,2:45.0,Tony Mitchell,DET,True,2-pointer,3,90-107,'DET',trails
+461,461,461,201311250DET,24.1,3.1,4th quarter,0:55.0,Tony Mitchell,DET,True,2-pointer,0,111-90,'DET',leads
+152,152,152,201312080DET,23.6,3.4,4th quarter,2:08.0,Tony Mitchell,DET,False,2-pointer,1,92-110,'MIA',trails
+807,807,807,201312100DET,6.5,20.6,4th quarter,0:00.0,Tony Mitchell,DET,True,3-pointer,25,94-121,'DET',trails
+250,250,250,201402190CHA,24.0,4.1,4th quarter,0:23.0,Tony Mitchell,DET,False,2-pointer,1,98-116,'DET',trails
+977,977,977,201403050MIL,24.0,-5.0,4th quarter,1:44.0,Tony Mitchell,MIL,False,2-pointer,8,96-112,'SAC',trails
+979,979,979,201403050MIL,24.0,-5.0,4th quarter,0:34.0,Tony Mitchell,MIL,True,2-pointer,8,100-116,'SAC',trails
+609,609,609,201403080MIL,27.7,28.0,2nd quarter,8:23.0,Tony Mitchell,MIL,False,3-pointer,25,29-49,'MIL',trails
+890,890,890,201403110MIN,25.0,4.2,4th quarter,1:08.0,Tony Mitchell,MIL,True,2-pointer,2,97-112,'MIN',trails
+891,891,891,201403110MIN,22.9,2.7,4th quarter,0:09.0,Tony Mitchell,MIL,True,2-pointer,1,101-112,'MIN',trails
+547,547,547,201403290PHI,23.5,3.0,4th quarter,4:04.0,Tony Mitchell,DET,True,2-pointer,1,89-118,'DET',trails
+243,243,243,201404090CLE,7.6,5.3,4th quarter,4:43.0,Tony Mitchell,DET,False,2-pointer,17,86-116,'DET',trails
+252,252,252,201404090CLE,23.0,3.0,4th quarter,0:22.0,Tony Mitchell,DET,False,2-pointer,1,100-122,'DET',trails
+240,240,240,201404130DET,23.6,3.4,1st quarter,6:08.0,Tony Mitchell,DET,True,2-pointer,1,7-20,'TOR',trails
+242,242,242,201404130DET,24.1,3.0,1st quarter,5:13.0,Tony Mitchell,DET,False,2-pointer,0,7-24,'TOR',trails
+1713,1713,1713,201404160OKC,32.4,20.3,2nd quarter,9:18.0,Tony Mitchell,DET,False,2-pointer,19,33-31,'OKC',leads

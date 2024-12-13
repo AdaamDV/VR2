@@ -1,0 +1,10 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+650,650,650,200011220MIA,8.9,23.8,1st quarter,1:35.0,Michael Hawkins,CLE,True,3-pointer,24,15-12,'MIA',leads
+25,25,25,200011250CHH,14.2,19.1,2nd quarter,9:24.0,Michael Hawkins,CLE,False,2-pointer,17,34-33,'CHH',leads
+319,319,319,200012120CLE,5.1,23.8,4th quarter,10:19.0,Michael Hawkins,CLE,False,3-pointer,27,67-64,'DAL',leads
+529,529,529,200012150IND,22.2,6.3,2nd quarter,9:09.0,Michael Hawkins,CLE,True,2-pointer,2,37-29,'IND',leads
+597,597,597,200012160CLE,7.8,14.9,4th quarter,11:45.0,Michael Hawkins,CLE,False,2-pointer,19,71-63,'UTA',leads
+598,598,598,200012160CLE,3.4,18.7,4th quarter,11:13.0,Michael Hawkins,CLE,True,3-pointer,25,74-65,'UTA',leads
+1152,1152,1152,200012200SAS,15.4,9.2,3rd quarter,0:02.9,Michael Hawkins,CLE,False,2-pointer,10,65-75,'SAS',trails
+1171,1171,1171,200012200SAS,10.4,12.0,4th quarter,0:00.0,Michael Hawkins,CLE,False,2-pointer,15,77-94,'SAS',trails
+484,484,484,200012220MIA,22.4,30.3,1st quarter,3:15.0,Michael Hawkins,CLE,False,3-pointer,25,19-18,'MIA',leads

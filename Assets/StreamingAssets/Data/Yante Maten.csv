@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1043,1043,1043,201904090MIA,25.1,5.1,4th quarter,0:22.0,Yante Maten,MIA,False,2-pointer,2,120-99,'MIA',leads
+1044,1044,1044,201904090MIA,25.2,4.2,4th quarter,0:20.0,Yante Maten,MIA,False,2-pointer,1,120-99,'MIA',leads
+284,284,284,201904100BRK,23.7,13.8,4th quarter,6:49.0,Yante Maten,MIA,True,2-pointer,11,86-97,'MIA',trails
+286,286,286,201904100BRK,12.3,25.3,4th quarter,5:41.0,Yante Maten,MIA,False,3-pointer,25,88-101,'MIA',trails

@@ -1,0 +1,8 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+402,402,402,202002090CLE,18.4,28.0,4th quarter,2:11.0,Malik Newman,CLE,False,3-pointer,25,88-131,'CLE',trails
+403,403,403,202002090CLE,37.9,15.5,4th quarter,1:50.0,Malik Newman,CLE,False,2-pointer,19,88-131,'CLE',trails
+431,431,431,202112300WAS,34.3,11.5,4th quarter,6:46.0,Malik Newman,CLE,True,2-pointer,13,84-103,'WAS',trails
+433,433,433,202112300WAS,22.9,3.7,4th quarter,5:52.0,Malik Newman,CLE,True,2-pointer,1,89-105,'WAS',trails
+434,434,434,202112300WAS,15.1,18.7,4th quarter,5:12.0,Malik Newman,CLE,False,2-pointer,18,89-105,'WAS',trails
+438,438,438,202112300WAS,15.9,16.7,4th quarter,3:08.0,Malik Newman,CLE,True,2-pointer,16,91-109,'WAS',trails
+439,439,439,202112300WAS,10.8,26.2,4th quarter,2:15.0,Malik Newman,CLE,False,3-pointer,26,91-109,'WAS',trails

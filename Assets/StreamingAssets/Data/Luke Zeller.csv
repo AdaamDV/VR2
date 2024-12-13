@@ -1,0 +1,27 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+754,754,754,201211050MIA,8.0,20.6,4th quarter,4:31.0,Luke Zeller,PHO,True,2-pointer,22,87-114,'MIA',trails
+757,757,757,201211050MIA,33.9,22.9,4th quarter,2:15.0,Luke Zeller,PHO,True,2-pointer,20,92-116,'MIA',trails
+762,762,762,201211050MIA,3.1,19.9,4th quarter,0:00.4,Luke Zeller,PHO,True,3-pointer,26,99-124,'MIA',trails
+422,422,422,201211160LAL,18.1,25.8,4th quarter,1:46.0,Luke Zeller,PHO,False,2-pointer,22,99-114,'LAL',trails
+423,423,423,201211160LAL,24.4,18.2,4th quarter,1:12.0,Luke Zeller,PHO,True,2-pointer,13,101-114,'LAL',trails
+2194,2194,2194,201211210PHO,24.0,30.8,4th quarter,1:51.0,Luke Zeller,PHO,False,3-pointer,26,109-83,'POR',leads
+74,74,74,201211270CLE,42.5,13.2,4th quarter,2:15.0,Luke Zeller,PHO,False,2-pointer,20,91-71,'PHO',leads
+540,540,540,201211280DET,43.0,9.5,4th quarter,6:53.0,Luke Zeller,PHO,False,2-pointer,20,65-94,'DET',trails
+542,542,542,201211280DET,6.8,8.4,4th quarter,6:14.0,Luke Zeller,PHO,False,2-pointer,18,67-97,'DET',trails
+543,543,543,201211280DET,18.0,23.6,4th quarter,5:31.0,Luke Zeller,PHO,False,2-pointer,20,67-101,'DET',trails
+550,550,550,201211280DET,40.2,19.8,4th quarter,1:50.0,Luke Zeller,PHO,True,2-pointer,22,72-114,'DET',trails
+552,552,552,201211280DET,13.5,21.5,4th quarter,0:20.8,Luke Zeller,PHO,True,2-pointer,20,77-117,'DET',trails
+1500,1500,1500,201212140PHO,4.1,8.7,4th quarter,1:12.0,Luke Zeller,PHO,False,2-pointer,20,99-80,'UTA',leads
+620,620,620,201212230PHO,25.3,30.0,4th quarter,3:50.0,Luke Zeller,PHO,False,3-pointer,25,75-98,'PHO',trails
+621,621,621,201212230PHO,41.9,16.6,4th quarter,3:20.0,Luke Zeller,PHO,False,2-pointer,21,75-100,'PHO',trails
+625,625,625,201212230PHO,45.1,5.3,4th quarter,1:19.0,Luke Zeller,PHO,False,2-pointer,21,77-102,'PHO',trails
+384,384,384,201301110BRK,23.5,25.5,4th quarter,0:31.1,Luke Zeller,PHO,True,2-pointer,21,79-99,'PHO',trails
+385,385,385,201301110BRK,40.8,14.6,4th quarter,0:01.1,Luke Zeller,PHO,False,2-pointer,19,79-99,'PHO',trails
+257,257,257,201301270DAL,37.6,22.0,4th quarter,1:06.0,Luke Zeller,PHO,False,2-pointer,22,93-110,'DAL',trails
+426,426,426,201302020GSW,17.0,23.4,4th quarter,1:37.0,Luke Zeller,PHO,False,2-pointer,20,89-110,'PHO',trails
+1535,1535,1535,201302080OKC,11.7,13.5,4th quarter,4:02.0,Luke Zeller,PHO,False,2-pointer,15,84-112,'OKC',trails
+1539,1539,1539,201302080OKC,26.8,25.9,4th quarter,2:12.0,Luke Zeller,PHO,True,2-pointer,21,88-118,'OKC',trails
+1542,1542,1542,201302080OKC,17.0,27.7,4th quarter,1:06.0,Luke Zeller,PHO,False,3-pointer,24,94-122,'OKC',trails
+1138,1138,1138,201302100PHO,30.9,26.3,4th quarter,9:01.0,Luke Zeller,PHO,False,2-pointer,22,48-81,'PHO',trails
+1143,1143,1143,201302100PHO,39.4,13.3,4th quarter,6:45.0,Luke Zeller,PHO,True,2-pointer,17,56-84,'PHO',trails
+1152,1152,1152,201302100PHO,0.1,6.1,4th quarter,1:29.0,Luke Zeller,PHO,False,3-pointer,24,65-95,'PHO',trails

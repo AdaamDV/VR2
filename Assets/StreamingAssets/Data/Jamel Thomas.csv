@@ -1,0 +1,20 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+593,593,593,200104080NJN,4.0,7.8,4th quarter,6:13.0,Jamel Thomas,NJN,False,2-pointer,20,72-102,'IND',trails
+594,594,594,200104080NJN,8.5,6.1,4th quarter,5:46.0,Jamel Thomas,NJN,False,2-pointer,16,72-104,'IND',trails
+598,598,598,200104080NJN,24.0,5.0,4th quarter,3:27.0,Jamel Thomas,NJN,False,2-pointer,0,77-106,'IND',trails
+601,601,601,200104080NJN,9.1,12.0,4th quarter,1:04.0,Jamel Thomas,NJN,False,2-pointer,16,81-108,'IND',trails
+602,602,602,200104080NJN,24.0,5.0,4th quarter,0:50.6,Jamel Thomas,NJN,True,2-pointer,0,83-108,'IND',trails
+22,22,22,200104120CHH,24.0,5.0,2nd quarter,11:22.0,Jamel Thomas,NJN,True,2-pointer,0,16-20,'CHH',trails
+32,32,32,200104120CHH,2.6,18.5,2nd quarter,6:14.0,Jamel Thomas,NJN,False,3-pointer,25,24-34,'CHH',trails
+34,34,34,200104120CHH,-0.2,7.6,2nd quarter,5:27.0,Jamel Thomas,NJN,True,3-pointer,24,27-34,'CHH',trails
+60,60,60,200104120CHH,8.5,13.0,3rd quarter,3:12.0,Jamel Thomas,NJN,False,2-pointer,17,53-62,'CHH',trails
+61,61,61,200104120CHH,36.3,18.5,3rd quarter,1:40.0,Jamel Thomas,NJN,False,2-pointer,18,53-65,'CHH',trails
+64,64,64,200104120CHH,24.0,5.0,3rd quarter,0:00.3,Jamel Thomas,NJN,True,2-pointer,0,58-69,'CHH',trails
+70,70,70,200104120CHH,24.0,5.0,4th quarter,7:31.0,Jamel Thomas,NJN,False,2-pointer,0,64-76,'CHH',trails
+74,74,74,200104120CHH,36.9,16.8,4th quarter,6:11.0,Jamel Thomas,NJN,False,2-pointer,17,66-81,'CHH',trails
+82,82,82,200104120CHH,24.0,5.0,4th quarter,1:08.0,Jamel Thomas,NJN,False,2-pointer,0,74-88,'CHH',trails
+84,84,84,200104120CHH,24.0,5.0,4th quarter,0:18.0,Jamel Thomas,NJN,True,2-pointer,0,78-88,'CHH',trails
+942,942,942,200104130NJN,24.7,16.6,2nd quarter,8:16.0,Jamel Thomas,NJN,True,2-pointer,12,36-31,'NJN',leads
+952,952,952,200104130NJN,42.0,35.0,2nd quarter,0:00.8,Jamel Thomas,NJN,False,3-pointer,35,46-56,'NJN',trails
+18,18,18,200104150BOS,13.1,20.2,2nd quarter,11:48.0,Jamel Thomas,NJN,False,2-pointer,19,26-33,'NJN',trails
+967,967,967,200104170NJN,31.3,13.2,2nd quarter,9:07.0,Jamel Thomas,NJN,False,2-pointer,11,24-35,'NJN',trails

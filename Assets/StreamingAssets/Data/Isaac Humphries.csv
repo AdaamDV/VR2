@@ -1,0 +1,22 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+582,582,582,201904020SAS,13.4,26.0,1st quarter,1:49.0,Isaac Humphries,ATL,False,3-pointer,25,26-28,'SAS',trails
+584,584,584,201904020SAS,21.7,4.5,1st quarter,0:33.0,Isaac Humphries,ATL,True,2-pointer,3,31-33,'SAS',trails
+587,587,587,201904020SAS,1.5,1.2,2nd quarter,11:04.0,Isaac Humphries,ATL,False,3-pointer,23,33-36,'SAS',trails
+590,590,590,201904020SAS,37.3,10.8,2nd quarter,9:46.0,Isaac Humphries,ATL,False,2-pointer,15,35-36,'SAS',trails
+619,619,619,201904020SAS,22.8,4.9,3rd quarter,5:20.0,Isaac Humphries,ATL,False,2-pointer,2,70-78,'SAS',trails
+636,636,636,201904020SAS,23.3,4.9,4th quarter,8:48.0,Isaac Humphries,ATL,True,2-pointer,2,100-93,'SAS',leads
+640,640,640,201904020SAS,23.5,3.2,4th quarter,7:31.0,Isaac Humphries,ATL,False,2-pointer,1,100-93,'SAS',leads
+642,642,642,201904020SAS,33.2,26.4,4th quarter,6:25.0,Isaac Humphries,ATL,False,3-pointer,25,100-96,'SAS',leads
+645,645,645,201904020SAS,23.3,4.8,4th quarter,5:30.0,Isaac Humphries,ATL,False,2-pointer,2,102-98,'SAS',leads
+125,125,125,201904030ATL,24.2,5.1,2nd quarter,9:08.0,Isaac Humphries,ATL,False,2-pointer,2,50-45,'ATL',leads
+169,169,169,201904030ATL,1.0,6.2,3rd quarter,0:25.0,Isaac Humphries,ATL,False,3-pointer,23,98-92,'ATL',leads
+1691,1691,1691,201904050ORL,1.2,0.5,3rd quarter,5:38.0,Isaac Humphries,ATL,False,3-pointer,23,65-99,'ORL',trails
+1698,1698,1698,201904050ORL,30.8,27.3,3rd quarter,0:52.0,Isaac Humphries,ATL,True,3-pointer,25,78-111,'ORL',trails
+1718,1718,1718,201904050ORL,21.1,29.5,4th quarter,0:43.0,Isaac Humphries,ATL,False,3-pointer,26,109-149,'ORL',trails
+1427,1427,1427,201904070MIL,12.2,3.1,1st quarter,11:19.0,Isaac Humphries,ATL,False,2-pointer,12,0-2,'MIL',trails
+1433,1433,1433,201904070MIL,23.5,7.3,1st quarter,9:56.0,Isaac Humphries,ATL,False,2-pointer,4,2-8,'MIL',trails
+1436,1436,1436,201904070MIL,10.0,26.5,1st quarter,8:49.0,Isaac Humphries,ATL,False,3-pointer,27,4-10,'MIL',trails
+1466,1466,1466,201904070MIL,37.7,25.8,2nd quarter,8:19.0,Isaac Humphries,ATL,False,3-pointer,26,27-34,'MIL',trails
+1471,1471,1471,201904070MIL,47.5,5.8,2nd quarter,6:05.0,Isaac Humphries,ATL,True,3-pointer,24,33-46,'MIL',trails
+1488,1488,1488,201904070MIL,47.1,7.7,3rd quarter,9:07.0,Isaac Humphries,ATL,True,3-pointer,24,51-60,'MIL',trails
+153,153,153,201904100ATL,23.1,5.9,2nd quarter,0:49.0,Isaac Humphries,ATL,True,2-pointer,3,65-67,'IND',trails

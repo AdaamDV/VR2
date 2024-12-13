@@ -1,0 +1,10 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+338,338,338,201404090CLE,1.6,14.2,4th quarter,3:16.0,Scotty Hopson,CLE,False,3-pointer,25,118-93,'DET',leads
+341,341,341,201404090CLE,5.7,4.1,4th quarter,2:25.0,Scotty Hopson,CLE,False,2-pointer,18,120-96,'DET',leads
+345,345,345,201404090CLE,15.6,4.7,4th quarter,0:40.0,Scotty Hopson,CLE,False,2-pointer,9,122-100,'DET',leads
+346,346,346,201404090CLE,0.9,13.8,4th quarter,0:09.0,Scotty Hopson,CLE,False,3-pointer,26,122-100,'DET',leads
+296,296,296,201803040DAL,25.5,5.2,1st quarter,0:27.0,Scotty Hopson,DAL,False,2-pointer,2,22-31,'NOP',trails
+879,879,879,202112290PHO,37.3,16.8,2nd quarter,11:50.0,Scotty Hopson,OKC,True,2-pointer,19,25-33,'PHO',trails
+882,882,882,202112290PHO,25.3,10.3,2nd quarter,10:00.0,Scotty Hopson,OKC,False,2-pointer,7,30-38,'PHO',trails
+927,927,927,202112290PHO,20.1,20.8,3rd quarter,1:23.0,Scotty Hopson,OKC,True,2-pointer,18,77-80,'PHO',trails
+954,954,954,202112290PHO,46.8,14.2,4th quarter,0:33.0,Scotty Hopson,OKC,False,3-pointer,25,97-115,'PHO',trails

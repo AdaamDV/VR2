@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+2474,2474,2474,201911270TOR,26.3,4.8,4th quarter,4:10.0,Shamorie Ponds,TOR,True,2-pointer,3,116-84,'NYK',leads
+2476,2476,2476,201911270TOR,23.6,3.8,4th quarter,3:18.0,Shamorie Ponds,TOR,True,2-pointer,1,118-86,'NYK',leads
+2482,2482,2482,201911270TOR,24.7,29.1,4th quarter,0:37.0,Shamorie Ponds,TOR,False,3-pointer,26,126-98,'NYK',leads
+1615,1615,1615,201912010TOR,23.9,3.7,4th quarter,0:53.0,Shamorie Ponds,TOR,False,2-pointer,0,128-108,'TOR',leads
+1255,1255,1255,201912310TOR,2.7,20.6,4th quarter,1:32.0,Shamorie Ponds,TOR,True,3-pointer,27,113-95,'TOR',leads

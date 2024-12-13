@@ -1,0 +1,27 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+389,389,389,200612080CHI,4.9,4.9,3rd quarter,2:43.0,Uroš Slokar,TOR,False,2-pointer,19,66-68,'TOR',trails
+245,245,245,200612190PHO,29.9,21.4,4th quarter,1:47.0,Uroš Slokar,TOR,True,2-pointer,17,98-111,'TOR',trails
+248,248,248,200612190PHO,31.4,18.3,4th quarter,0:17.9,Uroš Slokar,TOR,False,2-pointer,15,98-115,'TOR',trails
+240,240,240,200703030CLE,26.6,11.3,4th quarter,4:12.0,Uroš Slokar,TOR,True,2-pointer,7,87-110,'TOR',trails
+1047,1047,1047,200703060WAS,22.5,6.5,4th quarter,4:34.0,Uroš Slokar,TOR,False,2-pointer,2,93-116,'TOR',trails
+1050,1050,1050,200703060WAS,31.7,22.3,4th quarter,2:19.0,Uroš Slokar,TOR,True,2-pointer,19,102-125,'TOR',trails
+1055,1055,1055,200703060WAS,24.1,5.2,4th quarter,0:15.1,Uroš Slokar,TOR,True,2-pointer,0,109-129,'TOR',trails
+1446,1446,1446,200703070TOR,8.9,6.2,4th quarter,0:11.9,Uroš Slokar,TOR,False,2-pointer,15,94-85,'TOR',leads
+553,553,553,200703120MIL,31.9,16.2,4th quarter,0:38.9,Uroš Slokar,TOR,False,2-pointer,14,106-93,'TOR',leads
+1403,1403,1403,200703160TOR,27.4,11.3,4th quarter,1:28.0,Uroš Slokar,TOR,True,2-pointer,7,98-114,'HOU',trails
+1405,1405,1405,200703160TOR,31.7,9.1,4th quarter,0:25.4,Uroš Slokar,TOR,True,2-pointer,9,100-114,'HOU',trails
+670,670,670,200703180NYK,17.8,23.6,4th quarter,3:44.0,Uroš Slokar,TOR,False,2-pointer,20,69-92,'NYK',trails
+1901,1901,1901,200703230TOR,24.0,5.0,4th quarter,2:12.0,Uroš Slokar,TOR,True,2-pointer,0,118-86,'TOR',leads
+1902,1902,1902,200703230TOR,24.0,5.0,4th quarter,1:23.0,Uroš Slokar,TOR,False,2-pointer,0,119-88,'TOR',leads
+1903,1903,1903,200703230TOR,26.9,12.4,4th quarter,1:08.0,Uroš Slokar,TOR,False,2-pointer,8,119-88,'TOR',leads
+1905,1905,1905,200703230TOR,7.9,24.6,4th quarter,0:20.9,Uroš Slokar,TOR,False,3-pointer,25,121-92,'TOR',leads
+174,174,174,200704170DET,7.2,10.9,1st quarter,0:41.8,Uroš Slokar,TOR,False,2-pointer,18,18-21,'TOR',trails
+175,175,175,200704170DET,11.8,6.5,2nd quarter,11:23.0,Uroš Slokar,TOR,False,2-pointer,12,18-25,'TOR',trails
+190,190,190,200704170DET,29.7,18.5,2nd quarter,3:05.0,Uroš Slokar,TOR,True,2-pointer,15,30-50,'TOR',trails
+214,214,214,200704170DET,42.2,8.3,3rd quarter,0:35.2,Uroš Slokar,TOR,True,2-pointer,19,56-75,'TOR',trails
+216,216,216,200704170DET,6.9,10.9,4th quarter,11:11.0,Uroš Slokar,TOR,True,2-pointer,18,58-78,'TOR',trails
+218,218,218,200704170DET,36.8,16.5,4th quarter,10:01.0,Uroš Slokar,TOR,True,2-pointer,17,62-78,'TOR',trails
+219,219,219,200704170DET,30.7,5.2,4th quarter,9:09.0,Uroš Slokar,TOR,True,2-pointer,7,64-80,'TOR',trails
+229,229,229,200704170DET,5.4,4.9,4th quarter,4:20.0,Uroš Slokar,TOR,True,2-pointer,19,74-91,'TOR',trails
+232,232,232,200704170DET,41.2,15.9,4th quarter,2:43.0,Uroš Slokar,TOR,False,2-pointer,20,76-94,'TOR',trails
+233,233,233,200704170DET,47.6,10.4,4th quarter,2:15.0,Uroš Slokar,TOR,True,3-pointer,24,80-96,'TOR',trails

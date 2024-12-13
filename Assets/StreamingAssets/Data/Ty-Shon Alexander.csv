@@ -1,0 +1,14 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1513,1513,1513,202012270SAC,22.7,21.1,4th quarter,0:18.0,Ty-Shon Alexander,PHO,False,2-pointer,18,116-98,'SAC',leads
+1356,1356,1356,202012290PHO,7.2,3.7,4th quarter,3:03.0,Ty-Shon Alexander,PHO,False,2-pointer,17,109-81,'NOP',leads
+1359,1359,1359,202012290PHO,36.2,25.9,4th quarter,1:20.0,Ty-Shon Alexander,PHO,False,3-pointer,26,109-84,'NOP',leads
+257,257,257,202103230MIA,36.7,25.6,4th quarter,0:52.0,Ty-Shon Alexander,PHO,False,3-pointer,26,108-94,'MIA',leads
+1055,1055,1055,202104020PHO,35.6,26.2,4th quarter,1:59.0,Ty-Shon Alexander,PHO,True,3-pointer,26,132-101,'PHO',leads
+264,264,264,202104080LAC,46.3,16.7,4th quarter,0:47.0,Ty-Shon Alexander,PHO,False,3-pointer,26,99-113,'PHO',trails
+878,878,878,202104100PHO,11.1,26.7,4th quarter,1:58.0,Ty-Shon Alexander,PHO,False,3-pointer,27,131-99,'PHO',leads
+688,688,688,202104130PHO,0.9,2.4,4th quarter,1:26.0,Ty-Shon Alexander,PHO,False,3-pointer,23,106-86,'MIA',leads
+890,890,890,202104170PHO,9.8,25.9,4th quarter,5:16.0,Ty-Shon Alexander,PHO,False,3-pointer,27,78-103,'SAS',trails
+897,897,897,202104170PHO,25.6,3.7,4th quarter,0:52.0,Ty-Shon Alexander,PHO,True,2-pointer,2,84-111,'SAS',trails
+1440,1440,1440,202104300PHO,15.7,27.7,4th quarter,3:13.0,Ty-Shon Alexander,PHO,False,3-pointer,26,112-89,'UTA',leads
+1008,1008,1008,202105150SAS,44.8,17.7,4th quarter,2:08.0,Ty-Shon Alexander,PHO,True,3-pointer,25,135-96,'SAS',leads
+81,81,81,202107110MIL,38.9,7.4,4th quarter,0:44.0,Ty-Shon Alexander,PHO,True,2-pointer,15,100-117,'PHO',trails

@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+86,86,86,200704030CHA,15.6,22.6,4th quarter,1:30.0,Mike Hall,WAS,False,2-pointer,20,100-118,'CHA',trails
+87,87,87,200704030CHA,24.0,5.0,4th quarter,1:06.0,Mike Hall,WAS,True,2-pointer,0,102-120,'CHA',trails
+1415,1415,1415,200704150WAS,4.6,3.7,4th quarter,2:54.0,Mike Hall,WAS,False,2-pointer,19,65-97,'WAS',trails
+1418,1418,1418,200704150WAS,6.1,1.9,4th quarter,0:17.9,Mike Hall,WAS,False,2-pointer,18,68-101,'WAS',trails

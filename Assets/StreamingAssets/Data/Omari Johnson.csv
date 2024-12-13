@@ -1,0 +1,22 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+637,637,637,201804060MEM,37.6,26.1,2nd quarter,10:33.0,Omari Johnson,MEM,False,3-pointer,26,28-27,'SAC',leads
+647,647,647,201804060MEM,24.1,2.8,2nd quarter,4:52.0,Omari Johnson,MEM,False,2-pointer,0,34-35,'SAC',trails
+676,676,676,201804060MEM,13.6,23.6,3rd quarter,1:26.0,Omari Johnson,MEM,False,2-pointer,23,61-66,'SAC',trails
+679,679,679,201804060MEM,6.8,21.3,3rd quarter,0:03.0,Omari Johnson,MEM,False,3-pointer,25,63-68,'SAC',trails
+682,682,682,201804060MEM,47.4,1.7,4th quarter,10:18.0,Omari Johnson,MEM,False,3-pointer,23,65-71,'SAC',trails
+630,630,630,201804080MEM,0.7,1.8,2nd quarter,10:01.0,Omari Johnson,MEM,True,3-pointer,23,37-24,'DET',leads
+653,653,653,201804080MEM,46.6,10.9,3rd quarter,8:14.0,Omari Johnson,MEM,False,3-pointer,23,68-65,'DET',leads
+664,664,664,201804080MEM,47.2,13.7,3rd quarter,1:48.0,Omari Johnson,MEM,False,3-pointer,25,89-84,'DET',leads
+668,668,668,201804080MEM,24.0,2.4,3rd quarter,0:14.0,Omari Johnson,MEM,True,2-pointer,0,96-84,'DET',leads
+1055,1055,1055,201804090MIN,45.5,14.3,1st quarter,5:54.0,Omari Johnson,MEM,False,3-pointer,24,10-10,'MIN',tied
+1057,1057,1057,201804090MIN,23.8,3.7,1st quarter,5:28.0,Omari Johnson,MEM,True,2-pointer,0,12-10,'MIN',leads
+1066,1066,1066,201804090MIN,24.2,3.7,1st quarter,1:50.0,Omari Johnson,MEM,True,2-pointer,0,24-14,'MIN',leads
+1070,1070,1070,201804090MIN,4.7,4.2,2nd quarter,11:48.0,Omari Johnson,MEM,False,2-pointer,19,26-20,'MIN',leads
+1293,1293,1293,201804110OKC,15.5,3.8,1st quarter,2:12.0,Omari Johnson,MEM,True,2-pointer,8,25-33,'OKC',trails
+1299,1299,1299,201804110OKC,33.1,4.3,2nd quarter,11:04.0,Omari Johnson,MEM,False,2-pointer,9,30-40,'OKC',trails
+1309,1309,1309,201804110OKC,37.5,24.2,2nd quarter,5:51.0,Omari Johnson,MEM,True,3-pointer,25,43-54,'OKC',trails
+1311,1311,1311,201804110OKC,19.6,29.3,2nd quarter,4:08.0,Omari Johnson,MEM,False,3-pointer,26,46-61,'OKC',trails
+1312,1312,1312,201804110OKC,24.2,5.5,2nd quarter,3:45.0,Omari Johnson,MEM,True,2-pointer,2,48-61,'OKC',trails
+1331,1331,1331,201804110OKC,32.4,28.0,3rd quarter,6:54.0,Omari Johnson,MEM,True,3-pointer,26,66-90,'OKC',trails
+1339,1339,1339,201804110OKC,42.7,19.8,3rd quarter,2:49.0,Omari Johnson,MEM,True,3-pointer,25,85-98,'OKC',trails
+1348,1348,1348,201804110OKC,17.7,27.1,4th quarter,9:40.0,Omari Johnson,MEM,False,3-pointer,24,99-114,'OKC',trails

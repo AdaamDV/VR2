@@ -1,0 +1,19 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+112,112,112,200104120CHH,4.9,6.9,2nd quarter,8:15.0,Scott Burrell,CHH,True,2-pointer,19,28-18,'CHH',leads
+117,117,117,200104120CHH,24.0,5.0,2nd quarter,5:42.0,Scott Burrell,CHH,False,2-pointer,0,34-24,'CHH',leads
+128,128,128,200104120CHH,6.4,8.0,3rd quarter,6:14.0,Scott Burrell,CHH,False,2-pointer,18,53-46,'CHH',leads
+134,134,134,200104120CHH,1.1,17.5,3rd quarter,2:29.0,Scott Burrell,CHH,True,3-pointer,26,65-53,'CHH',leads
+137,137,137,200104120CHH,34.8,29.1,3rd quarter,0:45.1,Scott Burrell,CHH,False,3-pointer,26,67-55,'CHH',leads
+345,345,345,200104150DET,6.2,5.0,2nd quarter,7:40.0,Scott Burrell,CHH,True,2-pointer,18,38-23,'CHH',leads
+349,349,349,200104150DET,24.0,5.0,2nd quarter,5:51.0,Scott Burrell,CHH,True,2-pointer,0,44-27,'CHH',leads
+350,350,350,200104150DET,30.8,33.1,2nd quarter,5:11.0,Scott Burrell,CHH,False,3-pointer,29,44-29,'CHH',leads
+113,113,113,200104160CHH,39.7,8.8,2nd quarter,7:34.0,Scott Burrell,CHH,True,2-pointer,16,42-34,'CHH',leads
+114,114,114,200104160CHH,10.4,22.5,2nd quarter,7:00.0,Scott Burrell,CHH,True,2-pointer,22,44-36,'CHH',leads
+147,147,147,200104160CHH,46.0,19.8,4th quarter,11:14.0,Scott Burrell,CHH,False,3-pointer,27,83-61,'CHH',leads
+152,152,152,200104160CHH,21.1,12.6,4th quarter,7:09.0,Scott Burrell,CHH,False,2-pointer,8,89-64,'CHH',leads
+28,28,28,200104180BOS,47.5,4.4,2nd quarter,7:11.0,Scott Burrell,CHH,True,3-pointer,24,43-32,'CHH',leads
+31,31,31,200104180BOS,10.2,25.9,2nd quarter,5:08.0,Scott Burrell,CHH,False,3-pointer,25,45-38,'CHH',leads
+56,56,56,200104180BOS,26.4,7.1,3rd quarter,3:33.0,Scott Burrell,CHH,False,2-pointer,3,68-65,'CHH',leads
+73,73,73,200104210MIA,30.2,28.6,4th quarter,3:05.0,Scott Burrell,CHH,False,3-pointer,24,100-74,'CHH',leads
+76,76,76,200104210MIA,24.0,5.0,4th quarter,0:57.7,Scott Burrell,CHH,True,2-pointer,0,104-80,'CHH',leads
+71,71,71,200104230MIA,3.2,11.6,4th quarter,1:20.0,Scott Burrell,CHH,True,2-pointer,22,102-70,'CHH',leads

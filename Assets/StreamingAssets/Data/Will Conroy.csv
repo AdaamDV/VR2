@@ -1,0 +1,23 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+350,350,350,200703010SEA,21.4,9.6,2nd quarter,6:30.0,Will Conroy,LAC,False,2-pointer,5,27-31,'SEA',trails
+375,375,375,200703010SEA,9.2,3.9,4th quarter,11:12.0,Will Conroy,LAC,False,2-pointer,15,57-57,'SEA',tied
+765,765,765,200704180LAC,24.0,5.0,4th quarter,10:12.0,Will Conroy,LAC,False,2-pointer,0,68-67,'NOK',leads
+565,565,565,201001310HOU,25.2,14.7,2nd quarter,7:24.0,Will Conroy,HOU,False,2-pointer,10,27-39,'HOU',trails
+606,606,606,201001310HOU,24.0,5.0,3rd quarter,0:03.0,Will Conroy,HOU,True,2-pointer,0,73-79,'HOU',trails
+507,507,507,201002020HOU,24.0,5.0,4th quarter,2:57.0,Will Conroy,HOU,False,2-pointer,0,109-89,'HOU',leads
+511,511,511,201002020HOU,4.6,20.1,4th quarter,1:46.0,Will Conroy,HOU,False,3-pointer,25,113-89,'HOU',leads
+513,513,513,201002020HOU,24.0,5.0,4th quarter,0:40.6,Will Conroy,HOU,True,2-pointer,0,119-92,'HOU',leads
+514,514,514,201002020HOU,28.5,10.0,4th quarter,0:14.8,Will Conroy,HOU,False,2-pointer,7,119-94,'HOU',leads
+754,754,754,201003030HOU,42.4,21.2,2nd quarter,11:39.0,Will Conroy,HOU,False,3-pointer,25,17-22,'HOU',trails
+861,861,861,201003060MIN,24.0,5.0,2nd quarter,6:32.0,Will Conroy,HOU,True,2-pointer,0,47-34,'HOU',leads
+863,863,863,201003060MIN,24.7,10.8,2nd quarter,5:56.0,Will Conroy,HOU,False,2-pointer,6,47-34,'HOU',leads
+327,327,327,201003070DET,1.2,17.1,2nd quarter,6:49.0,Will Conroy,HOU,False,3-pointer,26,34-41,'HOU',trails
+694,694,694,201211040TOR,14.3,8.4,3rd quarter,0:00.0,Will Conroy,MIN,False,2-pointer,10,73-79,'TOR',trails
+705,705,705,201211040TOR,47.7,5.7,4th quarter,3:25.0,Will Conroy,MIN,False,3-pointer,24,85-98,'TOR',trails
+707,707,707,201211040TOR,25.2,8.4,4th quarter,2:02.0,Will Conroy,MIN,False,2-pointer,4,85-103,'TOR',trails
+710,710,710,201211040TOR,32.4,25.8,4th quarter,0:04.9,Will Conroy,MIN,False,2-pointer,22,86-105,'TOR',trails
+1658,1658,1658,201211070MIN,46.6,8.3,4th quarter,3:29.0,Will Conroy,MIN,False,3-pointer,23,86-64,'ORL',leads
+1660,1660,1660,201211070MIN,22.4,5.7,4th quarter,1:21.0,Will Conroy,MIN,False,2-pointer,2,88-71,'ORL',leads
+1662,1662,1662,201211070MIN,27.7,8.0,4th quarter,0:16.9,Will Conroy,MIN,False,2-pointer,5,90-73,'ORL',leads
+1050,1050,1050,201211140MIN,1.1,7.6,2nd quarter,10:09.0,Will Conroy,MIN,False,3-pointer,23,25-32,'CHA',trails
+1055,1055,1055,201211140MIN,31.8,9.7,2nd quarter,7:42.0,Will Conroy,MIN,False,2-pointer,9,27-40,'CHA',trails

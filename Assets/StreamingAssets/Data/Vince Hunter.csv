@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+317,317,317,201712010MEM,24.6,3.4,4th quarter,0:06.0,Vince Hunter,MEM,True,2-pointer,0,79-95,'SAS',trails
+811,811,811,201712110MEM,22.8,3.7,4th quarter,0:26.0,Vince Hunter,MEM,True,2-pointer,1,80-104,'MIA',trails
+1220,1220,1220,201712200GSW,24.6,13.0,4th quarter,2:06.0,Vince Hunter,MEM,False,2-pointer,10,80-93,'GSW',trails
+1224,1224,1224,201712200GSW,24.0,2.4,4th quarter,1:24.0,Vince Hunter,MEM,False,2-pointer,0,80-95,'GSW',trails
+1226,1226,1226,201712200GSW,37.0,15.8,4th quarter,0:46.0,Vince Hunter,MEM,True,2-pointer,18,84-97,'GSW',trails

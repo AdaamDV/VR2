@@ -1,0 +1,9 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+829,829,829,200611220MIL,33.0,18.8,1st quarter,0:40.8,Steven Smith,PHI,False,2-pointer,16,30-23,'MIL',leads
+830,830,830,200611220MIL,7.2,4.2,2nd quarter,11:40.0,Steven Smith,PHI,False,2-pointer,17,31-25,'MIL',leads
+849,849,849,200611220MIL,24.0,5.0,2nd quarter,0:41.9,Steven Smith,PHI,False,2-pointer,0,56-50,'MIL',leads
+354,354,354,200612060CHI,31.7,17.2,4th quarter,3:15.0,Steven Smith,PHI,False,2-pointer,14,87-113,'CHI',trails
+1353,1353,1353,200612200PHI,33.2,4.9,1st quarter,1:25.0,Steven Smith,PHI,False,2-pointer,9,23-19,'IND',leads
+1354,1354,1354,200612200PHI,37.6,2.9,1st quarter,1:21.0,Steven Smith,PHI,True,2-pointer,14,25-19,'IND',leads
+1388,1388,1388,200612200PHI,24.0,5.0,3rd quarter,2:01.0,Steven Smith,PHI,False,2-pointer,0,64-68,'IND',trails
+1389,1389,1389,200612200PHI,38.8,4.7,3rd quarter,1:57.0,Steven Smith,PHI,True,2-pointer,15,66-68,'IND',trails

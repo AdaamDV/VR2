@@ -1,0 +1,26 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1476,1476,1476,201510300PHI,23.6,2.4,4th quarter,1:55.0,Tibor Pleiß,UTA,True,2-pointer,0,98-66,'UTA',leads
+1360,1360,1360,201511130ORL,24.0,3.1,1st quarter,3:41.0,Tibor Pleiß,UTA,True,2-pointer,0,7-21,'UTA',trails
+1433,1433,1433,201511130ORL,22.3,4.6,4th quarter,1:27.0,Tibor Pleiß,UTA,False,2-pointer,2,87-96,'UTA',trails
+1435,1435,1435,201511130ORL,25.4,4.1,4th quarter,0:55.0,Tibor Pleiß,UTA,False,2-pointer,1,90-100,'UTA',trails
+984,984,984,201512310UTA,22.0,9.7,4th quarter,1:57.0,Tibor Pleiß,UTA,False,2-pointer,6,107-89,'POR',leads
+1774,1774,1774,201601020UTA,3.5,3.2,1st quarter,2:10.0,Tibor Pleiß,UTA,True,2-pointer,20,22-17,'UTA',leads
+1780,1780,1780,201601020UTA,25.7,2.4,2nd quarter,11:12.0,Tibor Pleiß,UTA,True,2-pointer,1,30-25,'UTA',leads
+1817,1817,1817,201601020UTA,42.7,3.2,4th quarter,11:19.0,Tibor Pleiß,UTA,True,2-pointer,18,68-69,'UTA',trails
+1835,1835,1835,201601020UTA,25.4,2.4,1st overtime,1:46.0,Tibor Pleiß,UTA,False,2-pointer,1,86-87,'UTA',trails
+1604,1604,1604,201601040UTA,18.0,26.2,2nd quarter,8:19.0,Tibor Pleiß,UTA,False,3-pointer,23,30-37,'HOU',trails
+1624,1624,1624,201601040UTA,16.1,2.5,3rd quarter,6:50.0,Tibor Pleiß,UTA,False,2-pointer,7,66-57,'HOU',leads
+1633,1633,1633,201601040UTA,19.3,7.7,3rd quarter,1:05.0,Tibor Pleiß,UTA,False,2-pointer,6,74-64,'HOU',leads
+1634,1634,1634,201601040UTA,23.6,6.8,3rd quarter,1:03.0,Tibor Pleiß,UTA,True,2-pointer,3,76-64,'HOU',leads
+1484,1484,1484,201601060SAS,23.8,3.2,1st quarter,2:11.0,Tibor Pleiß,UTA,False,2-pointer,0,16-29,'SAS',trails
+1487,1487,1487,201601060SAS,23.1,2.9,1st quarter,0:14.0,Tibor Pleiß,UTA,True,2-pointer,0,22-32,'SAS',trails
+1535,1535,1535,201601060SAS,24.0,3.1,4th quarter,7:48.0,Tibor Pleiß,UTA,True,2-pointer,0,86-105,'SAS',trails
+1536,1536,1536,201601060SAS,38.8,5.1,4th quarter,6:06.0,Tibor Pleiß,UTA,True,2-pointer,14,88-109,'SAS',trails
+1541,1541,1541,201601060SAS,21.5,2.9,4th quarter,2:38.0,Tibor Pleiß,UTA,False,2-pointer,2,94-116,'SAS',trails
+1544,1544,1544,201601060SAS,20.6,3.2,4th quarter,0:42.0,Tibor Pleiß,UTA,False,2-pointer,3,98-121,'SAS',trails
+1545,1545,1545,201601060SAS,23.1,2.9,4th quarter,0:39.0,Tibor Pleiß,UTA,False,2-pointer,0,98-121,'SAS',trails
+1120,1120,1120,201601160UTA,25.2,3.0,2nd quarter,7:06.0,Tibor Pleiß,UTA,False,2-pointer,1,47-27,'LAL',leads
+1171,1171,1171,201601160UTA,23.9,7.6,4th quarter,2:11.0,Tibor Pleiß,UTA,False,2-pointer,4,107-76,'LAL',leads
+1172,1172,1172,201601160UTA,24.0,3.1,4th quarter,0:57.0,Tibor Pleiß,UTA,True,2-pointer,0,109-80,'LAL',leads
+255,255,255,201601220BRK,22.9,21.3,4th quarter,2:51.0,Tibor Pleiß,UTA,True,2-pointer,18,103-77,'UTA',leads
+259,259,259,201601220BRK,0.2,1.9,4th quarter,0:30.0,Tibor Pleiß,UTA,False,3-pointer,23,108-84,'UTA',leads

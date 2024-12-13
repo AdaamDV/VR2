@@ -1,0 +1,26 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1097,1097,1097,200603050SEA,25.5,4.1,4th quarter,4:48.0,Noel Felix,SEA,True,2-pointer,2,103-78,'UTA',leads
+1103,1103,1103,200603050SEA,36.8,4.7,4th quarter,0:26.9,Noel Felix,SEA,False,2-pointer,13,111-81,'UTA',leads
+1290,1290,1290,200603080SEA,15.5,24.4,4th quarter,5:18.0,Noel Felix,SEA,False,2-pointer,21,70-89,'SEA',trails
+1294,1294,1294,200603080SEA,7.1,5.0,4th quarter,3:10.0,Noel Felix,SEA,False,2-pointer,17,70-89,'SEA',trails
+1295,1295,1295,200603080SEA,32.9,6.2,4th quarter,2:12.0,Noel Felix,SEA,False,2-pointer,9,70-91,'SEA',trails
+970,970,970,200603210SAC,44.9,11.1,2nd quarter,6:24.0,Noel Felix,SEA,True,2-pointer,22,43-39,'SEA',leads
+973,973,973,200603210SAC,39.8,6.2,2nd quarter,5:21.0,Noel Felix,SEA,False,2-pointer,16,45-41,'SEA',leads
+403,403,403,200603240DEN,24.5,11.6,4th quarter,1:36.0,Noel Felix,SEA,False,2-pointer,7,102-113,'SEA',trails
+406,406,406,200603240DEN,10.0,21.0,4th quarter,0:41.9,Noel Felix,SEA,False,2-pointer,21,104-117,'SEA',trails
+408,408,408,200603240DEN,37.5,29.8,4th quarter,0:00.2,Noel Felix,SEA,False,3-pointer,28,104-117,'SEA',trails
+636,636,636,200603290HOU,9.4,15.4,1st quarter,1:16.0,Noel Felix,SEA,False,2-pointer,18,10-28,'HOU',trails
+637,637,637,200603290HOU,35.0,10.4,1st quarter,0:19.9,Noel Felix,SEA,False,2-pointer,12,10-29,'HOU',trails
+681,681,681,200603290HOU,-0.1,3.9,4th quarter,5:49.0,Noel Felix,SEA,True,3-pointer,24,78-102,'HOU',trails
+683,683,683,200603290HOU,24.0,5.0,4th quarter,5:08.0,Noel Felix,SEA,False,2-pointer,0,78-104,'HOU',trails
+1515,1515,1515,200604020SEA,21.5,31.8,2nd quarter,9:09.0,Noel Felix,SEA,False,3-pointer,27,39-21,'POR',leads
+1552,1552,1552,200604020SEA,9.7,5.5,4th quarter,10:21.0,Noel Felix,SEA,True,2-pointer,14,96-59,'POR',leads
+1559,1559,1559,200604020SEA,36.0,7.8,4th quarter,6:55.0,Noel Felix,SEA,False,2-pointer,12,104-65,'POR',leads
+1560,1560,1560,200604020SEA,24.0,5.0,4th quarter,6:33.0,Noel Felix,SEA,False,2-pointer,0,104-65,'POR',leads
+1573,1573,1573,200604020SEA,28.3,5.3,4th quarter,0:51.9,Noel Felix,SEA,False,2-pointer,4,117-81,'POR',leads
+1574,1574,1574,200604020SEA,24.0,5.0,4th quarter,0:48.9,Noel Felix,SEA,True,2-pointer,0,119-81,'POR',leads
+1554,1554,1554,200604040SEA,32.5,21.9,4th quarter,9:58.0,Noel Felix,SEA,False,2-pointer,19,79-70,'HOU',leads
+325,325,325,200604160LAC,40.1,17.2,2nd quarter,0:14.9,Noel Felix,SEA,False,2-pointer,20,67-51,'SEA',leads
+356,356,356,200604160LAC,24.0,5.0,4th quarter,1:50.0,Noel Felix,SEA,False,2-pointer,0,112-93,'SEA',leads
+357,357,357,200604160LAC,8.2,17.0,4th quarter,1:09.0,Noel Felix,SEA,False,2-pointer,20,112-93,'SEA',leads
+2082,2082,2082,200604190SEA,24.0,5.0,4th quarter,0:01.4,Noel Felix,SEA,True,2-pointer,0,109-98,'SEA',leads

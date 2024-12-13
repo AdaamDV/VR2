@@ -1,0 +1,16 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1503,1503,1503,201103140WAS,26.0,1.5,4th quarter,1:43.0,Hamady N'Diaye,WAS,True,2-pointer,4,87-114,'OKC',trails
+1504,1504,1504,201103140WAS,11.7,2.0,4th quarter,1:12.0,Hamady N'Diaye,WAS,True,2-pointer,13,89-114,'OKC',trails
+194,194,194,201103150CHI,22.5,6.5,2nd quarter,0:52.3,Hamady N'Diaye,WAS,True,2-pointer,2,44-47,'CHI',trails
+1831,1831,1831,201103180TOR,12.9,13.9,3rd quarter,0:16.9,Hamady N'Diaye,WAS,False,2-pointer,14,75-87,'TOR',trails
+530,530,530,201103250DEN,23.5,5.0,4th quarter,11:30.0,Hamady N'Diaye,WAS,True,2-pointer,1,69-84,'DEN',trails
+2135,2135,2135,201202040WAS,23.8,3.3,4th quarter,1:01.0,Hamady N'Diaye,WAS,False,2-pointer,2,77-107,'WAS',trails
+245,245,245,201311020GSW,24.0,-5.0,4th quarter,3:00.0,Hamady N'Diaye,SAC,False,2-pointer,8,74-93,'SAC',trails
+250,250,250,201311020GSW,24.0,-5.0,4th quarter,0:41.0,Hamady N'Diaye,SAC,False,2-pointer,8,82-96,'SAC',trails
+272,272,272,201311170SAC,24.0,-5.0,2nd quarter,10:48.0,Hamady N'Diaye,SAC,False,2-pointer,8,18-25,'SAC',trails
+317,317,317,201311170SAC,24.0,-5.0,4th quarter,11:01.0,Hamady N'Diaye,SAC,True,2-pointer,8,69-74,'SAC',trails
+1754,1754,1754,201311290SAC,24.0,-5.0,2nd quarter,11:43.0,Hamady N'Diaye,SAC,False,2-pointer,8,24-23,'SAC',leads
+1254,1254,1254,201312030SAC,24.0,-5.0,2nd quarter,10:30.0,Hamady N'Diaye,SAC,False,2-pointer,8,31-19,'SAC',leads
+633,633,633,201312090SAC,24.0,-5.0,2nd quarter,11:48.0,Hamady N'Diaye,SAC,False,2-pointer,8,34-23,'DAL',leads
+683,683,683,201312090SAC,24.0,-5.0,4th quarter,2:22.0,Hamady N'Diaye,SAC,True,2-pointer,8,108-90,'DAL',leads
+1486,1486,1486,201312110SAC,24.0,-5.0,4th quarter,1:02.0,Hamady N'Diaye,SAC,True,2-pointer,8,97-120,'UTA',trails

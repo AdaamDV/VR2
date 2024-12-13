@@ -1,0 +1,8 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+595,595,595,201011090MIL,23.8,31.3,4th quarter,6:40.0,Andy Rautins,NYK,True,3-pointer,26,73-96,'NYK',trails
+597,597,597,201011090MIL,23.5,6.2,4th quarter,5:44.0,Andy Rautins,NYK,False,2-pointer,1,73-96,'NYK',trails
+600,600,600,201011090MIL,47.6,13.9,4th quarter,3:06.0,Andy Rautins,NYK,False,3-pointer,25,77-100,'NYK',trails
+1529,1529,1529,201101070PHO,31.8,25.3,4th quarter,1:26.0,Andy Rautins,NYK,True,2-pointer,22,119-94,'NYK',leads
+1282,1282,1282,201102020NYK,44.6,20.1,4th quarter,2:27.0,Andy Rautins,NYK,False,3-pointer,26,89-109,'DAL',trails
+814,814,814,201103070NYK,47.0,16.8,4th quarter,3:31.0,Andy Rautins,NYK,False,3-pointer,26,121-97,'NYK',leads
+816,816,816,201103070NYK,41.6,11.0,4th quarter,2:38.0,Andy Rautins,NYK,True,2-pointer,19,123-99,'NYK',leads

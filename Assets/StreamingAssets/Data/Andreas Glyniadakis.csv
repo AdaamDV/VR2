@@ -1,0 +1,18 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+678,678,678,200611220LAC,24.0,5.0,2nd quarter,10:11.0,Andreas Glyniadakis,SEA,True,2-pointer,0,29-22,'SEA',leads
+696,696,696,200611220LAC,24.6,11.1,2nd quarter,1:06.0,Andreas Glyniadakis,SEA,False,2-pointer,6,49-41,'SEA',leads
+578,578,578,200611260SEA,19.7,6.5,1st quarter,1:39.0,Andreas Glyniadakis,SEA,True,2-pointer,5,21-21,'SAS',tied
+580,580,580,200611260SEA,25.5,9.8,1st quarter,0:25.9,Andreas Glyniadakis,SEA,False,2-pointer,5,21-23,'SAS',trails
+339,339,339,200612150CLE,30.7,5.5,1st quarter,11:31.0,Andreas Glyniadakis,SEA,True,2-pointer,7,2-0,'SEA',leads
+340,340,340,200612150CLE,32.4,7.2,1st quarter,10:56.0,Andreas Glyniadakis,SEA,False,2-pointer,9,2-2,'SEA',tied
+346,346,346,200612150CLE,24.5,5.0,1st quarter,8:17.0,Andreas Glyniadakis,SEA,True,2-pointer,1,6-12,'SEA',trails
+38,38,38,200612170DET,5.4,10.3,3rd quarter,11:18.0,Andreas Glyniadakis,SEA,False,2-pointer,19,50-53,'SEA',trails
+42,42,42,200612170DET,39.6,8.5,3rd quarter,9:44.0,Andreas Glyniadakis,SEA,False,2-pointer,16,55-55,'SEA',tied
+47,47,47,200612170DET,24.0,5.0,3rd quarter,7:19.0,Andreas Glyniadakis,SEA,False,2-pointer,0,59-59,'SEA',tied
+197,197,197,200612180MEM,18.4,8.3,1st quarter,10:19.0,Andreas Glyniadakis,SEA,True,2-pointer,7,2-0,'SEA',leads
+199,199,199,200612180MEM,22.7,9.5,1st quarter,9:10.0,Andreas Glyniadakis,SEA,True,2-pointer,5,6-2,'SEA',leads
+219,219,219,200612180MEM,31.2,18.5,2nd quarter,7:55.0,Andreas Glyniadakis,SEA,True,2-pointer,15,34-30,'SEA',leads
+236,236,236,200612180MEM,12.7,8.8,3rd quarter,8:19.0,Andreas Glyniadakis,SEA,True,2-pointer,12,63-58,'SEA',leads
+238,238,238,200612180MEM,29.7,13.6,3rd quarter,7:23.0,Andreas Glyniadakis,SEA,False,2-pointer,10,67-58,'SEA',leads
+157,157,157,200612280DEN,24.0,5.0,1st quarter,11:12.0,Andreas Glyniadakis,SEA,False,2-pointer,0,2-0,'SEA',leads
+386,386,386,200701020DAL,11.2,9.8,4th quarter,0:05.9,Andreas Glyniadakis,SEA,False,2-pointer,14,88-112,DAL,trails

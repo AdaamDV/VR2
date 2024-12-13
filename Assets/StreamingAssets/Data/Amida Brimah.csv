@@ -1,0 +1,9 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+792,792,792,202104250ORL,30.2,6.4,4th quarter,2:07.0,Amida Brimah,IND,False,2-pointer,7,124-106,'IND',leads
+887,887,887,202104270IND,23.7,6.3,4th quarter,7:55.0,Amida Brimah,IND,True,2-pointer,3,85-123,'POR',trails
+889,889,889,202104270IND,23.4,4.1,4th quarter,6:57.0,Amida Brimah,IND,True,2-pointer,1,87-126,'POR',trails
+1282,1282,1282,202105010OKC,24.8,3.6,4th quarter,8:20.0,Amida Brimah,IND,True,2-pointer,1,135-75,'IND',leads
+1283,1283,1283,202105010OKC,30.8,8.8,4th quarter,7:35.0,Amida Brimah,IND,False,2-pointer,9,136-75,'IND',leads
+1286,1286,1286,202105010OKC,25.2,3.4,4th quarter,5:30.0,Amida Brimah,IND,True,2-pointer,1,143-82,'IND',leads
+1287,1287,1287,202105010OKC,24.7,3.3,4th quarter,5:03.0,Amida Brimah,IND,True,2-pointer,1,145-82,'IND',leads
+1295,1295,1295,202105010OKC,26.0,3.1,4th quarter,0:23.0,Amida Brimah,IND,False,2-pointer,2,152-95,'IND',leads

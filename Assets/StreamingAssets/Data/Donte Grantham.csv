@@ -1,0 +1,3 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+695,695,695,201902070OKC,10.7,26.1,4th quarter,0:42.0,Donte Grantham,OKC,False,3-pointer,26,115-95,'OKC',leads
+795,795,795,201903080LAC,6.5,23.0,4th quarter,0:03.0,Donte Grantham,OKC,False,3-pointer,26,110-118,'OKC',trails

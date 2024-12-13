@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1416,1416,1416,201911180TOR,24.2,6.7,4th quarter,1:21.0,Dewan Hernandez,TOR,True,2-pointer,3,132-96,'TOR',leads
+1417,1417,1417,201911180TOR,24.3,29.8,4th quarter,0:54.0,Dewan Hernandez,TOR,False,3-pointer,27,132-96,'TOR',leads
+1614,1614,1614,201912010TOR,27.3,5.4,4th quarter,1:08.0,Dewan Hernandez,TOR,False,2-pointer,4,128-108,'TOR',leads
+1616,1616,1616,201912010TOR,24.0,2.7,4th quarter,0:51.0,Dewan Hernandez,TOR,False,2-pointer,1,128-108,'TOR',leads
+1617,1617,1617,201912010TOR,24.7,4.2,4th quarter,0:28.0,Dewan Hernandez,TOR,False,2-pointer,1,130-108,'TOR',leads
+614,614,614,202008120PHI,37.9,24.4,4th quarter,2:39.0,Dewan Hernandez,TOR,True,3-pointer,25,111-115,'TOR',trails
+615,615,615,202008120PHI,21.8,4.4,4th quarter,1:49.0,Dewan Hernandez,TOR,True,2-pointer,2,114-118,'TOR',trails
+619,619,619,202008120PHI,26.2,4.3,4th quarter,0:08.0,Dewan Hernandez,TOR,False,2-pointer,2,121-121,'TOR',tied
+678,678,678,202008140TOR,23.7,4.4,3rd quarter,1:49.0,Dewan Hernandez,TOR,False,2-pointer,1,79-74,'TOR',leads
+679,679,679,202008140TOR,24.5,4.3,3rd quarter,1:45.0,Dewan Hernandez,TOR,False,2-pointer,1,79-74,'TOR',leads
+680,680,680,202008140TOR,22.4,5.4,3rd quarter,1:28.0,Dewan Hernandez,TOR,False,2-pointer,3,79-74,'TOR',leads
+694,694,694,202008140TOR,24.3,4.1,4th quarter,6:44.0,Dewan Hernandez,TOR,True,2-pointer,1,100-92,'TOR',leads
+700,700,700,202008140TOR,23.9,12.1,4th quarter,3:52.0,Dewan Hernandez,TOR,True,2-pointer,9,109-96,'TOR',leads
+701,701,701,202008140TOR,23.6,5.0,4th quarter,3:09.0,Dewan Hernandez,TOR,False,2-pointer,2,109-96,'TOR',leads

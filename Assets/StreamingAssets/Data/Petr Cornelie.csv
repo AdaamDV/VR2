@@ -1,0 +1,16 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+332,332,332,202111180DEN,16.1,26.9,4th quarter,1:41.0,Petr Cornelie,DEN,False,3-pointer,25,89-103,'DEN',trails
+771,771,771,202111210PHO,0.4,6.0,4th quarter,6:37.0,Petr Cornelie,DEN,False,3-pointer,24,87-111,'PHO',trails
+775,775,775,202111210PHO,32.4,28.8,4th quarter,4:29.0,Petr Cornelie,DEN,False,3-pointer,27,91-118,'PHO',trails
+578,578,578,202111230POR,23.7,4.4,4th quarter,3:19.0,Petr Cornelie,DEN,False,2-pointer,1,94-113,'POR',trails
+347,347,347,202111260DEN,3.9,19.3,4th quarter,1:48.0,Petr Cornelie,DEN,False,3-pointer,26,98-115,'DEN',trails
+348,348,348,202111260DEN,23.9,4.4,4th quarter,1:46.0,Petr Cornelie,DEN,True,2-pointer,1,100-115,'DEN',trails
+351,351,351,202111260DEN,22.7,3.3,4th quarter,0:25.0,Petr Cornelie,DEN,True,2-pointer,1,109-120,'DEN',trails
+93,93,93,202112060CHI,40.4,16.0,4th quarter,0:32.0,Petr Cornelie,DEN,False,2-pointer,21,94-107,'DEN',trails
+95,95,95,202112060CHI,46.7,10.6,4th quarter,0:06.0,Petr Cornelie,DEN,False,3-pointer,24,97-109,'DEN',trails
+508,508,508,202112150DEN,31.2,7.4,4th quarter,3:25.0,Petr Cornelie,DEN,True,2-pointer,8,101-120,'DEN',trails
+512,512,512,202112150DEN,14.7,27.3,4th quarter,1:21.0,Petr Cornelie,DEN,False,3-pointer,26,104-124,'DEN',trails
+513,513,513,202112150DEN,25.9,3.4,4th quarter,0:40.0,Petr Cornelie,DEN,True,2-pointer,2,106-124,'DEN',trails
+80,80,80,202112170ATL,47.0,3.2,4th quarter,2:40.0,Petr Cornelie,DEN,False,3-pointer,23,127-110,'DEN',leads
+619,619,619,202112220OKC,25.9,3.6,4th quarter,0:22.0,Petr Cornelie,DEN,False,2-pointer,2,94-108,'OKC',trails
+469,469,469,202201010HOU,8.2,26.8,4th quarter,0:24.0,Petr Cornelie,DEN,True,3-pointer,28,124-108,'HOU',leads

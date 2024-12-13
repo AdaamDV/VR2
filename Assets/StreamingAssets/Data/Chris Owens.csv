@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+232,232,232,200304150HOU,24.0,5.0,4th quarter,3:25.0,Chris Owens,MEM,False,2-pointer,0,74-88,'HOU',trails
+233,233,233,200304150HOU,24.0,5.0,4th quarter,3:24.0,Chris Owens,MEM,True,2-pointer,0,76-88,'HOU',trails
+234,234,234,200304150HOU,7.1,6.5,4th quarter,2:56.0,Chris Owens,MEM,True,2-pointer,17,78-88,'HOU',trails

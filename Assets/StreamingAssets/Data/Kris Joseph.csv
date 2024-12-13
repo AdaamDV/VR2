@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+295,295,295,201211300BOS,25.2,5.3,4th quarter,4:25.0,Kris Joseph,BOS,False,2-pointer,1,88-67,'POR',leads
+297,297,297,201211300BOS,25.3,6.4,4th quarter,3:09.0,Kris Joseph,BOS,False,2-pointer,2,88-71,'POR',leads
+301,301,301,201211300BOS,6.8,14.3,4th quarter,2:04.0,Kris Joseph,BOS,False,2-pointer,20,92-72,'POR',leads
+334,334,334,201212050BOS,16.5,26.1,4th quarter,0:13.9,Kris Joseph,BOS,False,2-pointer,22,104-91,'BOS',leads
+74,74,74,201212250BRK,34.5,23.4,4th quarter,0:28.9,Kris Joseph,BOS,False,2-pointer,21,91-76,'BOS',leads
+75,75,75,201212250BRK,22.5,6.7,4th quarter,0:05.8,Kris Joseph,BOS,True,2-pointer,2,93-76,'BOS',leads
+69,69,69,201212270LAC,10.1,25.9,4th quarter,2:47.0,Kris Joseph,BOS,False,3-pointer,25,73-102,'BOS',trails
+70,70,70,201212270LAC,34.8,5.6,4th quarter,0:36.9,Kris Joseph,BOS,False,2-pointer,11,75-106,'BOS',trails
+729,729,729,201212290GSW,9.0,8.9,4th quarter,3:35.0,Kris Joseph,BOS,False,2-pointer,16,76-97,'BOS',trails
+730,730,730,201212290GSW,3.6,21.8,4th quarter,2:48.0,Kris Joseph,BOS,False,3-pointer,26,76-97,'BOS',trails
+733,733,733,201212290GSW,24.0,5.6,4th quarter,0:13.5,Kris Joseph,BOS,True,2-pointer,1,83-101,'BOS',trails
+170,170,170,201304090BRK,18.6,19.6,4th quarter,1:05.0,Kris Joseph,BRK,False,2-pointer,16,101-80,'PHI',leads
+70,70,70,201304100BOS,35.4,21.4,4th quarter,2:36.0,Kris Joseph,BRK,False,2-pointer,20,101-84,'BOS',leads
+90,90,90,201304150BRK,38.7,24.7,1st quarter,2:22.0,Kris Joseph,BRK,False,3-pointer,25,17-30,'WAS',trails

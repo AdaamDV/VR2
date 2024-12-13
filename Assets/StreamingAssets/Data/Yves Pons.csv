@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1424,1424,1424,202111120MEM,24.1,3.2,4th quarter,2:09.0,Yves Pons,MEM,False,2-pointer,0,92-114,'PHO',trails
+1366,1366,1366,202112130MEM,27.8,5.5,4th quarter,4:24.0,Yves Pons,MEM,False,2-pointer,4,117-84,'MEM',leads
+1373,1373,1373,202112130MEM,1.7,4.2,4th quarter,1:07.0,Yves Pons,MEM,True,3-pointer,22,126-90,'MEM',leads
+723,723,723,202203080MEM,24.0,3.3,4th quarter,3:08.0,Yves Pons,MEM,True,2-pointer,0,130-104,'NOP',leads

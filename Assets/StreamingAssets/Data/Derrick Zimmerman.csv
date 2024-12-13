@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+344,344,344,200604180PHI,24.0,5.0,2nd quarter,1:47.0,Derrick Zimmerman,NJN,False,2-pointer,0,42-32,'NJN',leads
+1739,1739,1739,200604190NJN,24.6,12.1,4th quarter,4:56.0,Derrick Zimmerman,NJN,True,2-pointer,7,71-77,'NYK',trails
+1743,1743,1743,200604190NJN,24.0,5.0,4th quarter,1:50.0,Derrick Zimmerman,NJN,True,2-pointer,0,79-88,'NYK',trails

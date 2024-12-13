@@ -1,0 +1,19 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+441,441,441,202001270MIA,1.5,5.3,4th quarter,2:18.0,Vic Law,ORL,False,3-pointer,23,88-111,'MIA',trails
+1046,1046,1046,202002080ORL,14.6,20.3,4th quarter,0:32.0,Vic Law,ORL,False,2-pointer,20,95-111,'ORL',trails
+784,784,784,202003080HOU,28.7,24.3,4th quarter,1:25.0,Vic Law,ORL,False,2-pointer,22,126-104,'HOU',leads
+24,24,24,202008090BOS,24.0,2.7,2nd quarter,9:25.0,Vic Law,ORL,False,2-pointer,1,33-34,'ORL',trails
+465,465,465,202008110ORL,46.0,5.2,1st quarter,0:50.0,Vic Law,ORL,False,3-pointer,22,20-34,'ORL',trails
+469,469,469,202008110ORL,19.7,5.9,2nd quarter,9:15.0,Vic Law,ORL,False,2-pointer,5,24-37,'ORL',trails
+499,499,499,202008110ORL,33.1,11.9,3rd quarter,2:42.0,Vic Law,ORL,True,2-pointer,13,61-79,'ORL',trails
+500,500,500,202008110ORL,23.4,28.4,3rd quarter,2:16.0,Vic Law,ORL,False,3-pointer,25,61-79,'ORL',trails
+520,520,520,202008110ORL,17.9,21.6,4th quarter,4:01.0,Vic Law,ORL,True,2-pointer,19,90-102,'ORL',trails
+858,858,858,202008130ORL,18.9,28.9,1st quarter,0:52.0,Vic Law,ORL,True,3-pointer,26,34-29,'NOP',leads
+859,859,859,202008130ORL,23.6,4.9,1st quarter,0:26.0,Vic Law,ORL,False,2-pointer,2,34-29,'NOP',leads
+902,902,902,202008130ORL,27.8,29.1,3rd quarter,1:38.0,Vic Law,ORL,False,3-pointer,26,99-83,'NOP',leads
+906,906,906,202008130ORL,39.5,16.7,4th quarter,11:33.0,Vic Law,ORL,False,2-pointer,21,99-87,'NOP',leads
+917,917,917,202008130ORL,28.8,10.3,4th quarter,3:40.0,Vic Law,ORL,True,2-pointer,9,119-110,'NOP',leads
+918,918,918,202008130ORL,47.0,15.8,4th quarter,3:20.0,Vic Law,ORL,False,3-pointer,26,119-110,'NOP',leads
+920,920,920,202008130ORL,27.3,7.3,4th quarter,1:57.0,Vic Law,ORL,True,2-pointer,5,126-116,'NOP',leads
+921,921,921,202008130ORL,28.9,15.7,4th quarter,1:23.0,Vic Law,ORL,True,2-pointer,13,128-118,'NOP',leads
+504,504,504,202008220ORL,47.3,3.8,4th quarter,2:44.0,Vic Law,ORL,True,3-pointer,23,98-118,'ORL',trails

@@ -1,0 +1,27 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1419,1419,1419,200202030WAS,31.7,6.9,4th quarter,0:34.2,Norm Richardson,IND,False,2-pointer,8,89-107,'IND',trails
+1420,1420,1420,200202030WAS,21.7,5.9,4th quarter,0:30.0,Norm Richardson,IND,False,2-pointer,2,89-107,'IND',trails
+780,780,780,200202050IND,20.7,8.0,2nd quarter,0:23.3,Norm Richardson,IND,False,2-pointer,4,58-67,'DAL',trails
+1142,1142,1142,200204030TOR,24.0,5.0,2nd quarter,8:01.0,Norm Richardson,CHI,False,2-pointer,0,38-50,'TOR',trails
+412,412,412,200204050CHI,4.0,6.7,2nd quarter,10:53.0,Norm Richardson,CHI,True,2-pointer,20,33-30,'TOR',leads
+416,416,416,200204050CHI,34.0,22.1,2nd quarter,8:02.0,Norm Richardson,CHI,False,2-pointer,20,36-34,'TOR',leads
+420,420,420,200204050CHI,24.0,5.0,2nd quarter,6:08.0,Norm Richardson,CHI,True,2-pointer,0,42-38,'TOR',leads
+188,188,188,200204060CLE,23.4,27.6,2nd quarter,9:50.0,Norm Richardson,CHI,True,2-pointer,23,25-41,'CLE',trails
+191,191,191,200204060CLE,31.3,20.6,2nd quarter,7:38.0,Norm Richardson,CHI,False,2-pointer,17,27-43,'CLE',trails
+193,193,193,200204060CLE,37.2,8.4,2nd quarter,6:25.0,Norm Richardson,CHI,False,2-pointer,14,27-47,'CLE',trails
+100,100,100,200204080CHI,47.1,8.4,2nd quarter,11:21.0,Norm Richardson,CHI,False,3-pointer,23,24-26,'BOS',trails
+102,102,102,200204080CHI,24.0,5.0,2nd quarter,9:43.0,Norm Richardson,CHI,True,2-pointer,0,27-26,'BOS',leads
+106,106,106,200204080CHI,39.5,27.6,2nd quarter,7:59.0,Norm Richardson,CHI,True,3-pointer,27,30-32,'BOS',trails
+512,512,512,200204110NYK,43.3,10.1,1st quarter,0:39.8,Norm Richardson,CHI,False,2-pointer,20,26-31,'NYK',trails
+514,514,514,200204110NYK,24.0,5.0,1st quarter,0:01.0,Norm Richardson,CHI,False,2-pointer,0,26-31,'NYK',trails
+515,515,515,200204110NYK,46.8,5.0,2nd quarter,11:35.0,Norm Richardson,CHI,True,3-pointer,23,29-31,'NYK',trails
+517,517,517,200204110NYK,24.0,5.0,2nd quarter,10:26.0,Norm Richardson,CHI,True,2-pointer,0,34-33,'NYK',leads
+518,518,518,200204110NYK,46.8,6.9,2nd quarter,9:51.0,Norm Richardson,CHI,True,3-pointer,23,37-33,'NYK',leads
+556,556,556,200204110NYK,0.7,4.8,4th quarter,10:00.0,Norm Richardson,CHI,False,3-pointer,23,85-88,'NYK',trails
+557,557,557,200204110NYK,24.0,5.0,4th quarter,9:41.0,Norm Richardson,CHI,True,2-pointer,0,87-88,'NYK',trails
+561,561,561,200204110NYK,24.0,5.0,4th quarter,7:46.0,Norm Richardson,CHI,False,2-pointer,0,91-90,'NYK',leads
+331,331,331,200204130CHI,30.0,22.5,2nd quarter,6:27.0,Norm Richardson,CHI,False,2-pointer,19,32-43,'DET',trails
+377,377,377,200204130CHI,47.7,5.9,4th quarter,1:42.0,Norm Richardson,CHI,False,3-pointer,24,100-122,'DET',trails
+345,345,345,200204150PHI,24.0,5.0,2nd quarter,9:53.0,Norm Richardson,CHI,False,2-pointer,0,24-29,'CHI',trails
+347,347,347,200204150PHI,0.0,5.0,2nd quarter,9:33.0,Norm Richardson,CHI,True,3-pointer,24,29-29,'CHI',tied
+191,191,191,200204170CHH,0.0,5.7,2nd quarter,8:12.0,Norm Richardson,CHI,False,3-pointer,24,32-26,'CHH',leads

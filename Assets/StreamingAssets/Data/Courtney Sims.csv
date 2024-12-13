@@ -1,0 +1,8 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+790,790,790,200712120IND,24.6,7.3,4th quarter,0:29.9,Courtney Sims,IND,False,2-pointer,2,117-102,'IND',leads
+1435,1435,1435,200904080NYK,24.0,5.0,2nd quarter,2:06.0,Courtney Sims,NYK,False,2-pointer,0,32-59,'NYK',trails
+1436,1436,1436,200904080NYK,19.9,21.5,2nd quarter,1:42.0,Courtney Sims,NYK,False,2-pointer,17,32-59,'NYK',trails
+1439,1439,1439,200904080NYK,24.0,5.0,2nd quarter,0:44.0,Courtney Sims,NYK,True,2-pointer,0,37-63,'NYK',trails
+1471,1471,1471,200904080NYK,24.0,5.0,4th quarter,6:06.0,Courtney Sims,NYK,True,2-pointer,0,74-103,'NYK',trails
+1479,1479,1479,200904080NYK,24.0,5.0,4th quarter,0:47.0,Courtney Sims,NYK,True,2-pointer,0,86-111,'NYK',trails
+1480,1480,1480,200904080NYK,21.3,9.4,4th quarter,0:14.9,Courtney Sims,NYK,False,2-pointer,5,86-111,'NYK',trails

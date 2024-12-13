@@ -1,0 +1,23 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+95,95,95,202101130CHO,22.4,8.6,4th quarter,0:34.0,Tyler Bey,DAL,False,2-pointer,6,104-90,'DAL',leads
+336,336,336,202101170DAL,24.4,3.9,4th quarter,1:17.0,Tyler Bey,DAL,False,2-pointer,1,99-115,'DAL',trails
+488,488,488,202101230DAL,26.5,10.3,4th quarter,6:06.0,Tyler Bey,DAL,False,2-pointer,7,97-115,'HOU',trails
+492,492,492,202101230DAL,24.0,3.3,4th quarter,5:07.0,Tyler Bey,DAL,True,2-pointer,0,99-117,'HOU',trails
+493,493,493,202101230DAL,20.2,4.4,4th quarter,4:33.0,Tyler Bey,DAL,True,2-pointer,4,101-119,'HOU',trails
+1627,1627,1627,202103210POR,44.1,17.9,4th quarter,5:44.0,Tyler Bey,DAL,False,3-pointer,25,121-81,'POR',leads
+1632,1632,1632,202103210POR,29.8,18.3,4th quarter,3:08.0,Tyler Bey,DAL,False,2-pointer,16,127-85,'POR',leads
+1636,1636,1636,202103210POR,24.2,14.8,4th quarter,1:42.0,Tyler Bey,DAL,False,2-pointer,12,132-87,'POR',leads
+797,797,797,202103240MIN,23.6,4.2,4th quarter,1:32.0,Tyler Bey,DAL,True,2-pointer,1,125-105,'DAL',leads
+1305,1305,1305,202103290OKC,23.6,2.8,4th quarter,2:56.0,Tyler Bey,DAL,False,2-pointer,1,123-98,'DAL',leads
+1306,1306,1306,202103290OKC,17.2,14.1,4th quarter,2:28.0,Tyler Bey,DAL,False,2-pointer,13,123-100,'DAL',leads
+156,156,156,202104120DAL,24.6,7.5,4th quarter,4:02.0,Tyler Bey,DAL,True,2-pointer,4,89-104,'DAL',trails
+426,426,426,202104270GSW,23.6,12.9,4th quarter,8:02.0,Tyler Bey,DAL,False,2-pointer,10,111-71,'DAL',leads
+428,428,428,202104270GSW,23.3,31.3,4th quarter,7:06.0,Tyler Bey,DAL,True,3-pointer,28,114-76,'DAL',leads
+430,430,430,202104270GSW,22.7,5.8,4th quarter,6:06.0,Tyler Bey,DAL,False,2-pointer,3,117-79,'DAL',leads
+433,433,433,202104270GSW,35.3,28.2,4th quarter,4:13.0,Tyler Bey,DAL,False,3-pointer,27,119-87,'DAL',leads
+443,443,443,202104270GSW,23.0,5.5,4th quarter,0:13.0,Tyler Bey,DAL,True,2-pointer,2,132-101,'DAL',leads
+621,621,621,202105040MIA,31.9,28.5,4th quarter,0:29.0,Tyler Bey,DAL,False,3-pointer,26,127-111,'DAL',leads
+535,535,535,202105070DAL,24.0,3.3,4th quarter,1:33.0,Tyler Bey,DAL,True,2-pointer,0,108-90,'DAL',leads
+1291,1291,1291,202105110MEM,30.9,13.2,4th quarter,5:28.0,Tyler Bey,DAL,False,2-pointer,12,97-117,'DAL',trails
+956,956,956,202105160MIN,30.3,14.8,4th quarter,2:06.0,Tyler Bey,DAL,False,2-pointer,13,115-132,'DAL',trails
+961,961,961,202105160MIN,24.0,3.3,4th quarter,0:25.0,Tyler Bey,DAL,False,2-pointer,0,121-136,'DAL',trails

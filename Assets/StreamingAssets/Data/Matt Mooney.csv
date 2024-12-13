@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+873,873,873,202001200CLE,15.2,9.8,4th quarter,1:44.0,Matt Mooney,CLE,True,2-pointer,11,84-100,'NYK',trails
+874,874,874,202001200CLE,1.2,12.8,4th quarter,1:09.0,Matt Mooney,CLE,False,3-pointer,25,84-103,'NYK',trails
+28,28,28,202003100CHI,47.0,1.6,2nd quarter,7:51.0,Matt Mooney,CLE,False,3-pointer,23,35-33,'CHI',leads
+64,64,64,202003100CHI,7.4,2.8,4th quarter,10:37.0,Matt Mooney,CLE,False,2-pointer,17,81-81,'CHI',tied
+534,534,534,202112250NYK,46.3,14.8,4th quarter,0:17.0,Matt Mooney,NYK,False,3-pointer,25,101-87,'NYK',leads

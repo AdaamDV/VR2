@@ -1,0 +1,13 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+111,111,111,201204250CLE,10.2,26.3,1st quarter,1:25.0,D.J. Kennedy,CLE,True,3-pointer,25,25-21,'CLE',leads
+120,120,120,201204250CLE,16.9,20.6,2nd quarter,6:16.0,D.J. Kennedy,CLE,False,2-pointer,17,36-33,'CLE',leads
+145,145,145,201204250CLE,43.5,21.5,3rd quarter,2:11.0,D.J. Kennedy,CLE,True,3-pointer,26,61-71,'CLE',trails
+147,147,147,201204250CLE,37.5,17.4,3rd quarter,0:54.9,D.J. Kennedy,CLE,True,2-pointer,18,63-73,'CLE',trails
+150,150,150,201204250CLE,5.7,11.6,4th quarter,10:11.0,D.J. Kennedy,CLE,True,2-pointer,19,67-79,'CLE',trails
+160,160,160,201204250CLE,24.7,5.0,4th quarter,3:23.0,D.J. Kennedy,CLE,True,2-pointer,1,79-94,'CLE',trails
+505,505,505,201204260CHI,43.0,6.4,2nd quarter,10:42.0,D.J. Kennedy,CLE,False,2-pointer,19,27-28,'CHI',trails
+517,517,517,201204260CHI,27.1,20.9,2nd quarter,2:38.0,D.J. Kennedy,CLE,False,2-pointer,16,39-51,'CHI',trails
+543,543,543,201204260CHI,21.7,7.6,3rd quarter,1:11.0,D.J. Kennedy,CLE,False,2-pointer,3,62-78,'CHI',trails
+552,552,552,201204260CHI,0.9,4.8,4th quarter,9:19.0,D.J. Kennedy,CLE,False,3-pointer,23,64-85,'CHI',trails
+563,563,563,201204260CHI,24.9,25.3,4th quarter,4:19.0,D.J. Kennedy,CLE,False,2-pointer,20,69-94,'CHI',trails
+569,569,569,201204260CHI,6.9,23.1,4th quarter,0:42.9,D.J. Kennedy,CLE,False,3-pointer,25,75-105,'CHI',trails

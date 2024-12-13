@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+815,815,815,200011100TOR,22.8,10.5,4th quarter,0:35.8,Garth Joseph,TOR,True,2-pointer,6,115-88,'TOR',leads
+1266,1266,1266,200012050UTA,28.7,8.8,2nd quarter,11:43.0,Garth Joseph,TOR,False,2-pointer,6,11-24,'TOR',trails
+489,489,489,200101150DEN,24.1,12.4,4th quarter,0:46.9,Garth Joseph,DEN,False,2-pointer,7,120-105,'SEA',leads
+327,327,327,200101170DEN,32.5,5.7,4th quarter,5:23.0,Garth Joseph,DEN,False,2-pointer,9,104-85,'VAN',leads
+334,334,334,200101170DEN,16.3,8.4,4th quarter,1:50.0,Garth Joseph,DEN,False,2-pointer,8,114-93,'VAN',leads

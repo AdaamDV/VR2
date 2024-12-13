@@ -1,0 +1,20 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1294,1294,1294,200412060UTA,28.3,8.1,4th quarter,6:02.0,Aleksandar Radojević,UTA,False,2-pointer,5,71-89,'MIA',trails
+1023,1023,1023,200412150PHO,24.0,5.0,4th quarter,4:47.0,Aleksandar Radojević,UTA,True,2-pointer,0,84-101,'UTA',trails
+1026,1026,1026,200412150PHO,24.0,5.0,4th quarter,3:43.0,Aleksandar Radojević,UTA,False,2-pointer,0,84-102,'UTA',trails
+1027,1027,1027,200412150PHO,24.8,12.6,4th quarter,2:42.0,Aleksandar Radojević,UTA,False,2-pointer,8,84-102,'UTA',trails
+1029,1029,1029,200412150PHO,24.0,5.0,4th quarter,1:38.0,Aleksandar Radojević,UTA,False,2-pointer,0,84-105,'UTA',trails
+224,224,224,200412170BOS,33.0,6.5,4th quarter,10:24.0,Aleksandar Radojević,UTA,True,2-pointer,9,71-86,'UTA',trails
+228,228,228,200412170BOS,25.6,5.5,4th quarter,6:17.0,Aleksandar Radojević,UTA,False,2-pointer,2,82-95,'UTA',trails
+229,229,229,200412170BOS,26.4,5.7,4th quarter,6:15.0,Aleksandar Radojević,UTA,False,2-pointer,3,82-95,'UTA',trails
+241,241,241,200412170BOS,24.1,5.0,4th quarter,0:01.2,Aleksandar Radojević,UTA,True,2-pointer,0,106-114,'UTA',trails
+324,324,324,200412190NYK,24.0,5.0,2nd quarter,8:19.0,Aleksandar Radojević,UTA,False,2-pointer,0,16-25,'NYK',trails
+824,824,824,200412200PHI,24.0,5.0,2nd quarter,2:16.0,Aleksandar Radojević,UTA,False,2-pointer,0,50-38,'UTA',leads
+825,825,825,200412200PHI,24.0,5.0,2nd quarter,2:13.0,Aleksandar Radojević,UTA,False,2-pointer,0,50-38,'UTA',leads
+830,830,830,200412200PHI,24.0,5.0,3rd quarter,11:35.0,Aleksandar Radojević,UTA,False,2-pointer,0,57-41,'UTA',leads
+1789,1789,1789,200412220TOR,27.1,12.4,1st quarter,10:20.0,Aleksandar Radojević,UTA,True,2-pointer,8,2-2,'TOR',tied
+1795,1795,1795,200412220TOR,37.3,9.3,1st quarter,7:27.0,Aleksandar Radojević,UTA,True,2-pointer,14,6-8,'TOR',trails
+1804,1804,1804,200412220TOR,24.0,5.0,1st quarter,1:25.0,Aleksandar Radojević,UTA,False,2-pointer,0,17-21,'TOR',trails
+1193,1193,1193,200412270UTA,27.1,19.8,1st quarter,7:59.0,Aleksandar Radojević,UTA,True,2-pointer,15,10-9,'SEA',leads
+1196,1196,1196,200412270UTA,24.0,5.0,1st quarter,6:39.0,Aleksandar Radojević,UTA,False,2-pointer,0,10-12,'SEA',trails
+528,528,528,200412290LAC,35.8,15.0,3rd quarter,9:46.0,Aleksandar Radojević,UTA,False,2-pointer,15,48-52,'UTA',trails

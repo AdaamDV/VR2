@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+99,99,99,202112310BOS,16.5,8.6,4th quarter,0:03.0,M.J. Walker,PHO,False,2-pointer,9,108-123,'PHO',trails
+269,269,269,202201020CHO,22.7,5.7,4th quarter,6:17.0,M.J. Walker,PHO,False,2-pointer,3,123-85,'CHO',leads
+270,270,270,202201020CHO,0.8,4.1,4th quarter,6:06.0,M.J. Walker,PHO,False,3-pointer,23,123-85,'CHO',leads
+274,274,274,202201020CHO,32.1,28.7,4th quarter,4:24.0,M.J. Walker,PHO,False,3-pointer,27,125-88,'CHO',leads

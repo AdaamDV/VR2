@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+977,977,977,201710280NOP,9.3,25.4,4th quarter,2:47.0,Charles Cooke,NOP,False,3-pointer,26,117-96,'NOP',leads
+978,978,978,201710280NOP,1.2,4.5,4th quarter,2:18.0,Charles Cooke,NOP,False,3-pointer,22,117-98,'NOP',leads
+981,981,981,201710280NOP,27.6,7.7,4th quarter,1:23.0,Charles Cooke,NOP,False,2-pointer,5,117-100,'NOP',leads
+987,987,987,201710280NOP,30.8,8.2,4th quarter,0:20.0,Charles Cooke,NOP,True,2-pointer,8,123-101,'NOP',leads
+408,408,408,201712190WAS,47.0,6.3,4th quarter,1:54.0,Charles Cooke,NOP,True,3-pointer,23,100-116,'NOP',trails
+1279,1279,1279,201712220ORL,39.4,26.2,4th quarter,4:03.0,Charles Cooke,NOP,False,3-pointer,27,107-86,'NOP',leads
+1284,1284,1284,201712220ORL,25.8,19.6,4th quarter,1:59.0,Charles Cooke,NOP,False,2-pointer,16,109-90,'NOP',leads
+1272,1272,1272,201712230MIA,21.9,4.7,4th quarter,0:14.0,Charles Cooke,NOP,False,2-pointer,2,109-94,'NOP',leads
+982,982,982,201802030MIN,32.4,34.5,4th quarter,0:00.0,Charles Cooke,NOP,False,3-pointer,32,107-118,'NOP',trails
+443,443,443,201802120DET,1.6,7.1,4th quarter,1:02.0,Charles Cooke,NOP,False,3-pointer,22,118-103,'NOP',leads
+453,453,453,201803240HOU,1.0,10.8,4th quarter,2:34.0,Charles Cooke,NOP,False,3-pointer,24,89-111,'NOP',trails
+455,455,455,201803240HOU,22.7,3.5,4th quarter,0:55.0,Charles Cooke,NOP,False,2-pointer,1,89-114,'NOP',trails
+1334,1334,1334,201804060PHO,36.5,17.2,4th quarter,1:40.0,Charles Cooke,NOP,False,2-pointer,18,117-97,'NOP',leads
+1272,1272,1272,201804110NOP,42.4,22.1,4th quarter,0:58.0,Charles Cooke,NOP,False,3-pointer,26,120-98,'SAS',leads

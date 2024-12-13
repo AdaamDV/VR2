@@ -1,0 +1,13 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1266,1266,1266,201710250OKC,13.9,12.4,4th quarter,0:20.0,Ike Anigbogu,IND,False,2-pointer,13,94-114,'IND',trails
+363,363,363,201710310IND,11.8,2.2,4th quarter,3:35.0,Ike Anigbogu,IND,False,2-pointer,12,91-67,'IND',leads
+367,367,367,201710310IND,32.5,18.7,4th quarter,1:29.0,Ike Anigbogu,IND,True,2-pointer,17,95-78,'IND',leads
+499,499,499,201711120IND,24.5,4.4,4th quarter,2:24.0,Ike Anigbogu,IND,False,2-pointer,1,90-112,'HOU',trails
+503,503,503,201711120IND,24.6,8.6,4th quarter,0:31.0,Ike Anigbogu,IND,False,2-pointer,5,95-115,'HOU',trails
+548,548,548,201712310IND,24.0,2.4,4th quarter,1:59.0,Ike Anigbogu,IND,True,2-pointer,0,82-103,'IND',trails
+551,551,551,201712310IND,23.8,22.9,4th quarter,0:43.0,Ike Anigbogu,IND,False,2-pointer,19,84-107,'IND',trails
+553,553,553,201712310IND,15.1,17.7,4th quarter,0:00.0,Ike Anigbogu,IND,True,2-pointer,17,90-107,'IND',trails
+593,593,593,201801140PHO,34.5,3.6,4th quarter,0:24.0,Ike Anigbogu,IND,True,2-pointer,10,120-95,'IND',leads
+707,707,707,201810200IND,24.4,22.6,4th quarter,1:01.0,Ike Anigbogu,IND,False,2-pointer,19,132-110,'IND',leads
+708,708,708,201810200IND,23.2,21.8,4th quarter,0:38.0,Ike Anigbogu,IND,False,2-pointer,19,132-110,'IND',leads
+1238,1238,1238,201811230IND,24.0,2.7,4th quarter,0:09.0,Ike Anigbogu,IND,False,2-pointer,1,100-111,'SAS',trails

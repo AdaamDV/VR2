@@ -1,0 +1,11 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1197,1197,1197,200012020NYK,29.8,12.2,4th quarter,7:39.0,Tom Hammonds,MIN,False,2-pointer,9,72-79,'NYK',trails
+325,325,325,200012070MIN,34.0,15.1,4th quarter,0:59.9,Tom Hammonds,MIN,False,2-pointer,14,102-84,'MIN',leads
+908,908,908,200012120NJN,24.0,5.0,4th quarter,3:14.0,Tom Hammonds,MIN,False,2-pointer,0,85-108,'NJN',trails
+911,911,911,200012120NJN,25.6,11.3,4th quarter,1:36.0,Tom Hammonds,MIN,False,2-pointer,7,88-114,'NJN',trails
+916,916,916,200012120NJN,38.4,6.1,4th quarter,0:18.7,Tom Hammonds,MIN,True,2-pointer,14,94-116,'NJN',trails
+391,391,391,200104180DAL,4.9,10.7,2nd quarter,4:18.0,Tom Hammonds,MIN,False,2-pointer,20,39-52,'DAL',trails
+392,392,392,200104180DAL,24.0,5.0,2nd quarter,3:54.0,Tom Hammonds,MIN,False,2-pointer,0,40-52,'DAL',trails
+393,393,393,200104180DAL,24.0,5.0,2nd quarter,3:53.0,Tom Hammonds,MIN,True,2-pointer,0,42-52,'DAL',trails
+399,399,399,200104180DAL,31.9,7.6,2nd quarter,1:42.0,Tom Hammonds,MIN,False,2-pointer,8,46-58,'DAL',trails
+434,434,434,200104180DAL,24.0,5.0,4th quarter,6:55.0,Tom Hammonds,MIN,True,2-pointer,0,76-106,'DAL',trails

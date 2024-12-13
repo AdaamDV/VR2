@@ -1,0 +1,13 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+706,706,706,200212010SAC,43.2,16.0,4th quarter,6:11.0,Tito Maddox,HOU,True,2-pointer,22,71-90,'HOU',trails
+716,716,716,200212010SAC,24.0,5.0,4th quarter,0:02.3,Tito Maddox,HOU,True,2-pointer,0,84-103,'HOU',trails
+515,515,515,200302210HOU,23.8,11.4,4th quarter,2:46.0,Tito Maddox,HOU,False,2-pointer,6,79-98,'DAL',trails
+516,516,516,200302210HOU,24.0,5.0,4th quarter,1:48.0,Tito Maddox,HOU,True,2-pointer,0,85-98,'DAL',trails
+519,519,519,200302210HOU,3.8,21.8,4th quarter,0:25.7,Tito Maddox,HOU,False,3-pointer,26,85-100,'DAL',trails
+259,259,259,200302220HOU,17.8,7.5,2nd quarter,11:15.0,Tito Maddox,HOU,False,2-pointer,7,26-21,'HOU',leads
+267,267,267,200302220HOU,24.0,5.0,2nd quarter,7:20.0,Tito Maddox,HOU,False,2-pointer,0,38-25,'HOU',leads
+270,270,270,200302220HOU,10.9,26.7,2nd quarter,6:06.0,Tito Maddox,HOU,False,3-pointer,25,42-28,'HOU',leads
+306,306,306,200302220HOU,3.3,20.5,4th quarter,11:20.0,Tito Maddox,HOU,False,3-pointer,26,83-59,'HOU',leads
+309,309,309,200302220HOU,15.6,7.0,4th quarter,9:18.0,Tito Maddox,HOU,False,2-pointer,9,84-62,'HOU',leads
+641,641,641,200303140HOU,24.0,5.0,4th quarter,2:06.0,Tito Maddox,HOU,False,2-pointer,0,115-82,'HOU',leads
+653,653,653,200304060HOU,24.0,5.0,4th quarter,1:49.0,Tito Maddox,HOU,False,2-pointer,0,111-89,'HOU',leads

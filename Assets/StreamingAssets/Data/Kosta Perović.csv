@@ -1,0 +1,11 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1332,1332,1332,200801190MIL,24.0,5.0,2nd quarter,5:48.0,Kosta Perović,GSW,True,2-pointer,0,42-41,'MIL',leads
+1334,1334,1334,200801190MIL,24.0,5.0,2nd quarter,5:09.0,Kosta Perović,GSW,True,2-pointer,0,44-41,'MIL',leads
+404,404,404,200803190LAC,29.1,7.2,4th quarter,1:55.0,Kosta Perović,GSW,False,2-pointer,6,114-94,'GSW',leads
+1210,1210,1210,200804010SAS,20.4,7.5,4th quarter,3:34.0,Kosta Perović,GSW,False,2-pointer,4,83-113,'SAS',trails
+585,585,585,200804020DAL,6.4,12.4,4th quarter,1:16.0,Kosta Perović,GSW,False,2-pointer,19,86-109,'DAL',trails
+516,516,516,200804140PHO,24.0,5.0,1st quarter,4:16.0,Kosta Perović,GSW,False,2-pointer,0,16-23,'PHO',trails
+517,517,517,200804140PHO,17.3,13.7,1st quarter,3:36.0,Kosta Perović,GSW,False,2-pointer,11,17-25,'PHO',trails
+518,518,518,200804140PHO,24.0,5.0,1st quarter,3:15.0,Kosta Perović,GSW,False,2-pointer,0,17-25,'PHO',trails
+527,527,527,200804140PHO,24.0,5.0,2nd quarter,11:48.0,Kosta Perović,GSW,False,2-pointer,0,27-31,'PHO',trails
+580,580,580,200804140PHO,24.0,5.0,4th quarter,10:12.0,Kosta Perović,GSW,True,2-pointer,0,101-93,'PHO',leads

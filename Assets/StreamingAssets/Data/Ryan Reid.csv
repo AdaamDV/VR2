@@ -1,0 +1,6 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1141,1141,1141,201202140OKC,37.6,5.4,4th quarter,3:07.0,Ryan Reid,OKC,True,2-pointer,14,105-80,'UTA',leads
+1148,1148,1148,201202140OKC,24.9,5.3,4th quarter,0:34.7,Ryan Reid,OKC,True,2-pointer,1,111-84,'UTA',leads
+1138,1138,1138,201202170OKC,39.5,5.4,4th quarter,4:31.0,Ryan Reid,OKC,True,2-pointer,16,105-79,'OKC',leads
+1140,1140,1140,201202170OKC,10.9,19.3,4th quarter,2:05.0,Ryan Reid,OKC,True,2-pointer,19,109-85,'OKC',leads
+1106,1106,1106,201203100OKC,27.1,24.0,4th quarter,1:15.0,Ryan Reid,OKC,False,2-pointer,19,120-91,'OKC',leads

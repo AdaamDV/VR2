@@ -1,0 +1,14 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+187,187,187,202111260CHO,26.8,5.3,4th quarter,0:21.0,Kai Jones,CHO,True,2-pointer,3,133-113,'CHO',leads
+358,358,358,202112100CHO,23.1,10.0,4th quarter,10:25.0,Kai Jones,CHO,False,2-pointer,7,101-101,'SAC',tied
+366,366,366,202112100CHO,24.0,3.3,4th quarter,7:16.0,Kai Jones,CHO,True,2-pointer,0,111-105,'SAC',leads
+1606,1606,1606,202112150SAS,2.2,17.3,4th quarter,1:26.0,Kai Jones,CHO,False,3-pointer,26,129-113,'SAS',leads
+356,356,356,202112270CHO,24.1,4.1,4th quarter,0:26.0,Kai Jones,CHO,True,2-pointer,1,123-99,'HOU',leads
+365,365,365,202201020CHO,24.4,4.1,4th quarter,2:07.0,Kai Jones,CHO,True,2-pointer,1,93-131,'CHO',trails
+172,172,172,202201230CHO,3.2,5.9,4th quarter,0:34.0,Kai Jones,CHO,False,2-pointer,21,91-110,'CHO',trails
+1348,1348,1348,202201250TOR,24.0,3.8,4th quarter,1:56.0,Kai Jones,CHO,True,2-pointer,1,110-125,'TOR',trails
+779,779,779,202201260IND,1.2,9.8,4th quarter,0:40.0,Kai Jones,CHO,True,3-pointer,24,158-124,'IND',leads
+653,653,653,202202110DET,22.6,16.8,4th quarter,1:02.0,Kai Jones,CHO,False,2-pointer,14,137-117,'DET',leads
+655,655,655,202202110DET,21.8,4.2,4th quarter,0:42.0,Kai Jones,CHO,True,2-pointer,2,141-117,'DET',leads
+786,786,786,202202280MIL,26.4,10.0,4th quarter,1:32.0,Kai Jones,CHO,False,2-pointer,7,102-127,'CHO',trails
+787,787,787,202202280MIL,23.8,4.3,4th quarter,1:14.0,Kai Jones,CHO,True,2-pointer,1,104-127,'CHO',trails

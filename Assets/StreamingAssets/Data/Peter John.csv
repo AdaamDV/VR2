@@ -1,0 +1,11 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+691,691,691,200411090MIA,24.0,5.0,4th quarter,1:41.0,Peter John,WAS,True,2-pointer,0,87-100,'MIA',trails
+693,693,693,200411090MIA,34.8,20.3,4th quarter,0:55.3,Peter John,WAS,True,2-pointer,19,91-102,'MIA',trails
+694,694,694,200411090MIA,12.3,17.3,4th quarter,0:03.3,Peter John,WAS,True,2-pointer,17,93-103,'MIA',trails
+555,555,555,200411130CLE,12.5,3.9,4th quarter,4:25.0,Peter John,WAS,False,2-pointer,12,69-96,'CLE',trails
+560,560,560,200411130CLE,21.9,5.0,4th quarter,1:24.0,Peter John,WAS,False,2-pointer,2,72-100,'CLE',trails
+561,561,561,200411130CLE,27.6,6.0,4th quarter,1:01.0,Peter John,WAS,False,2-pointer,4,72-102,'CLE',trails
+562,562,562,200411130CLE,9.4,4.2,4th quarter,0:43.9,Peter John,WAS,False,2-pointer,15,72-105,'CLE',trails
+563,563,563,200502150HOU,11.0,18.2,4th quarter,1:21.0,Peter John,WAS,False,2-pointer,19,89-119,'HOU',trails
+236,236,236,200504060DET,24.0,5.0,4th quarter,1:07.0,Peter John,WAS,True,2-pointer,0,89-103,'DET',trails
+237,237,237,200504060DET,39.9,7.6,4th quarter,0:49.4,Peter John,WAS,True,2-pointer,16,91-105,'DET',trails

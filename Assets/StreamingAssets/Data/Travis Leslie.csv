@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1327,1327,1327,201112280SAS,23.6,5.3,4th quarter,2:59.0,Travis Leslie,LAC,False,2-pointer,1,85-111,'SAS',trails
+801,801,801,201201040LAC,25.5,6.9,4th quarter,3:03.0,Travis Leslie,LAC,True,2-pointer,2,113-88,'HOU',leads
+1046,1046,1046,201201170UTA,31.5,21.8,4th quarter,8:15.0,Travis Leslie,LAC,False,2-pointer,18,65-87,'UTA',trails
+1051,1051,1051,201201170UTA,19.4,6.5,4th quarter,6:59.0,Travis Leslie,LAC,False,2-pointer,5,68-91,'UTA',trails
+1052,1052,1052,201201170UTA,19.9,8.7,4th quarter,6:38.0,Travis Leslie,LAC,False,2-pointer,6,68-93,'UTA',trails
+1057,1057,1057,201201170UTA,21.4,6.2,4th quarter,2:23.0,Travis Leslie,LAC,False,2-pointer,3,75-107,'UTA',trails
+1061,1061,1061,201201170UTA,22.7,7.2,4th quarter,0:21.2,Travis Leslie,LAC,False,2-pointer,3,77-108,'UTA',trails
+1062,1062,1062,201201170UTA,23.0,7.3,4th quarter,0:21.2,Travis Leslie,LAC,True,2-pointer,3,79-108,'UTA',trails
+489,489,489,201202020LAC,23.0,7.3,4th quarter,1:18.0,Travis Leslie,LAC,False,2-pointer,3,91-110,'DEN',trails
+490,490,490,201202020LAC,17.0,4.7,4th quarter,1:06.0,Travis Leslie,LAC,False,2-pointer,7,91-112,'DEN',trails
+2054,2054,2054,201202040WAS,25.2,3.9,4th quarter,4:26.0,Travis Leslie,LAC,True,2-pointer,2,98-65,'WAS',leads
+2056,2056,2056,201202040WAS,24.7,13.5,4th quarter,2:43.0,Travis Leslie,LAC,True,2-pointer,9,102-72,'WAS',leads
+2058,2058,2058,201202040WAS,25.2,4.4,4th quarter,2:05.0,Travis Leslie,LAC,True,2-pointer,1,104-74,'WAS',leads
+897,897,897,201203210OKC,25.6,7.2,4th quarter,1:50.0,Travis Leslie,LAC,False,2-pointer,3,88-110,'OKC',trails

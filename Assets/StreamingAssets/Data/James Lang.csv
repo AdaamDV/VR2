@@ -1,0 +1,10 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+49,49,49,200612020CHI,36.5,4.2,3rd quarter,3:25.0,James Lang,WAS,False,2-pointer,13,54-77,'CHI',trails
+56,56,56,200612020CHI,24.0,5.0,4th quarter,11:46.0,James Lang,WAS,True,2-pointer,0,67-92,'CHI',trails
+66,66,66,200612020CHI,24.0,5.0,4th quarter,3:49.0,James Lang,WAS,False,2-pointer,0,83-103,'CHI',trails
+69,69,69,200612020CHI,24.0,5.0,4th quarter,2:14.0,James Lang,WAS,True,2-pointer,0,90-106,'CHI',trails
+490,490,490,200612170LAL,24.0,5.0,2nd quarter,10:29.0,James Lang,WAS,False,2-pointer,0,28-23,'LAL',leads
+496,496,496,200612170LAL,23.2,12.6,2nd quarter,7:22.0,James Lang,WAS,True,2-pointer,8,35-31,'LAL',leads
+524,524,524,200612170LAL,24.0,5.0,3rd quarter,0:50.9,James Lang,WAS,False,2-pointer,0,87-80,'LAL',leads
+525,525,525,200612170LAL,24.0,5.0,3rd quarter,0:47.8,James Lang,WAS,False,2-pointer,0,87-80,'LAL',leads
+34,34,34,200612180DEN,24.0,5.0,2nd quarter,6:39.0,James Lang,WAS,True,2-pointer,0,27-52,'DEN',trails

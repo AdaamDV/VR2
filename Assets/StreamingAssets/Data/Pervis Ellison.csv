@@ -1,0 +1,8 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+685,685,685,200011080MIA,25.8,7.8,1st quarter,2:51.0,Pervis Ellison,SEA,True,2-pointer,3,17-19,'MIA',trails
+197,197,197,200011120DET,24.0,5.0,1st quarter,1:35.0,Pervis Ellison,SEA,False,2-pointer,0,16-15,'SEA',leads
+239,239,239,200011120DET,35.5,14.5,4th quarter,11:30.0,Pervis Ellison,SEA,False,2-pointer,15,64-77,'SEA',trails
+242,242,242,200011120DET,24.0,5.0,4th quarter,10:41.0,Pervis Ellison,SEA,True,2-pointer,0,68-77,'SEA',trails
+244,244,244,200011120DET,35.5,5.0,4th quarter,9:49.0,Pervis Ellison,SEA,False,2-pointer,12,68-77,'SEA',trails
+1258,1258,1258,200011140SEA,10.8,12.4,4th quarter,8:25.0,Pervis Ellison,SEA,False,2-pointer,15,78-65,'NYK',leads
+1470,1470,1470,200011220SAS,22.4,5.9,3rd quarter,1:54.0,Pervis Ellison,SEA,False,2-pointer,2,54-84,'SAS',trails

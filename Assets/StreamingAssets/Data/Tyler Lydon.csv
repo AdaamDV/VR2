@@ -1,0 +1,19 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+179,179,179,201810230DEN,23.8,3.9,4th quarter,2:24.0,Tyler Lydon,DEN,True,2-pointer,1,123-97,'SAC',leads
+173,173,173,201811150DEN,47.4,9.8,4th quarter,5:43.0,Tyler Lydon,DEN,True,3-pointer,24,119-83,'DEN',leads
+178,178,178,201811150DEN,16.6,29.3,4th quarter,2:55.0,Tyler Lydon,DEN,True,3-pointer,27,130-87,'DEN',leads
+181,181,181,201811150DEN,14.6,28.2,4th quarter,1:36.0,Tyler Lydon,DEN,False,3-pointer,27,136-93,'DEN',leads
+683,683,683,201811230DEN,23.7,5.8,4th quarter,4:39.0,Tyler Lydon,DEN,False,2-pointer,3,105-77,'ORL',leads
+690,690,690,201811230DEN,24.0,2.7,4th quarter,1:28.0,Tyler Lydon,DEN,True,2-pointer,1,112-83,'ORL',leads
+175,175,175,201811270DEN,23.3,4.6,4th quarter,4:05.0,Tyler Lydon,DEN,True,2-pointer,1,108-80,'LAL',leads
+179,179,179,201811270DEN,21.3,28.3,4th quarter,2:14.0,Tyler Lydon,DEN,True,3-pointer,25,113-83,'LAL',leads
+185,185,185,201901100DEN,1.7,3.3,4th quarter,0:27.0,Tyler Lydon,DEN,True,3-pointer,22,121-100,'DEN',leads
+360,360,360,201901150DEN,42.4,20.1,4th quarter,4:19.0,Tyler Lydon,DEN,False,3-pointer,25,100-133,'DEN',trails
+356,356,356,201901170DEN,22.8,3.7,4th quarter,2:04.0,Tyler Lydon,DEN,False,2-pointer,1,133-96,'DEN',leads
+358,358,358,201901170DEN,47.8,2.6,4th quarter,1:23.0,Tyler Lydon,DEN,False,3-pointer,24,133-98,'DEN',leads
+360,360,360,201901170DEN,5.0,23.6,4th quarter,0:34.0,Tyler Lydon,DEN,False,3-pointer,28,133-102,'DEN',leads
+361,361,361,201901170DEN,11.1,25.4,4th quarter,0:27.0,Tyler Lydon,DEN,False,3-pointer,26,133-102,'DEN',leads
+682,682,682,201901190DEN,24.0,2.7,4th quarter,0:30.0,Tyler Lydon,DEN,True,2-pointer,1,124-99,'DEN',leads
+853,853,853,201901250DEN,1.8,3.7,4th quarter,0:54.0,Tyler Lydon,DEN,False,3-pointer,22,131-93,'PHO',leads
+229,229,229,201902040DET,24.3,7.3,2nd quarter,11:03.0,Tyler Lydon,DEN,False,2-pointer,4,38-38,'DET',tied
+2006,2006,2006,201904070POR,24.0,2.7,2nd quarter,8:47.0,Tyler Lydon,DEN,True,2-pointer,1,31-36,'POR',trails

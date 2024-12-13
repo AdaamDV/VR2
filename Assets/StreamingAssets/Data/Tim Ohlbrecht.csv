@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+155,155,155,201303030HOU,24.0,12.2,4th quarter,1:53.0,Tim Ohlbrecht,HOU,False,2-pointer,7,133-101,'DAL',leads
+157,157,157,201303030HOU,24.7,5.9,4th quarter,0:38.9,Tim Ohlbrecht,HOU,True,2-pointer,1,135-103,'DAL',leads
+1504,1504,1504,201304050POR,17.2,10.3,4th quarter,0:58.9,Tim Ohlbrecht,HOU,False,2-pointer,9,116-96,'POR',leads

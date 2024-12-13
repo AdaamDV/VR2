@@ -1,0 +1,18 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+597,597,597,201512050MIA,24.4,5.3,4th quarter,5:56.0,Sasha Kaun,CLE,False,2-pointer,2,73-93,'MIA',trails
+604,604,604,201512050MIA,24.2,4.1,4th quarter,1:47.0,Sasha Kaun,CLE,True,2-pointer,1,81-95,'MIA',trails
+321,321,321,201512200CLE,22.6,3.0,4th quarter,1:51.0,Sasha Kaun,CLE,True,2-pointer,1,106-80,'CLE',leads
+322,322,322,201512200CLE,22.9,3.7,4th quarter,1:18.0,Sasha Kaun,CLE,False,2-pointer,1,106-80,'CLE',leads
+323,323,323,201512200CLE,22.2,3.0,4th quarter,1:16.0,Sasha Kaun,CLE,True,2-pointer,1,108-80,'CLE',leads
+518,518,518,201603040CLE,22.3,1.9,4th quarter,2:03.0,Sasha Kaun,CLE,True,2-pointer,2,105-77,'CLE',leads
+325,325,325,201603050CLE,23.6,3.2,4th quarter,0:45.0,Sasha Kaun,CLE,True,2-pointer,0,120-103,'BOS',leads
+413,413,413,201603130LAC,23.1,4.6,4th quarter,1:43.0,Sasha Kaun,CLE,False,2-pointer,1,111-88,'CLE',leads
+854,854,854,201603210CLE,22.8,2.9,4th quarter,4:03.0,Sasha Kaun,CLE,True,2-pointer,1,114-83,'DEN',leads
+857,857,857,201603210CLE,24.0,3.1,4th quarter,2:36.0,Sasha Kaun,CLE,True,2-pointer,0,116-85,'DEN',leads
+394,394,394,201604060IND,24.9,2.9,4th quarter,1:52.0,Sasha Kaun,CLE,True,2-pointer,0,105-120,'IND',trails
+801,801,801,201604130CLE,28.0,5.6,1st quarter,0:01.0,Sasha Kaun,CLE,False,2-pointer,4,24-29,'DET',trails
+812,812,812,201604130CLE,22.0,9.7,2nd quarter,7:21.0,Sasha Kaun,CLE,False,2-pointer,6,32-39,'DET',trails
+843,843,843,201604130CLE,28.2,3.7,4th quarter,10:14.0,Sasha Kaun,CLE,False,2-pointer,4,77-84,'DET',trails
+846,846,846,201604130CLE,23.8,3.0,4th quarter,9:12.0,Sasha Kaun,CLE,True,2-pointer,0,81-85,'DET',trails
+852,852,852,201604130CLE,14.8,4.3,4th quarter,6:19.0,Sasha Kaun,CLE,False,2-pointer,9,83-93,'DET',trails
+859,859,859,201604130CLE,21.3,3.7,4th quarter,3:20.0,Sasha Kaun,CLE,False,2-pointer,2,90-99,'DET',trails

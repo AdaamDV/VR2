@@ -1,0 +1,14 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+350,350,350,201712120CLE,27.3,12.4,4th quarter,1:59.0,London Perrantes,CLE,False,2-pointer,9,121-107,'CLE',leads
+176,176,176,201803010CLE,43.3,22.3,4th quarter,0:02.0,London Perrantes,CLE,False,3-pointer,27,97-108,'CLE',trails
+1323,1323,1323,201803130PHO,23.2,3.5,4th quarter,4:22.0,London Perrantes,CLE,True,2-pointer,0,119-95,'PHO',leads
+351,351,351,201803230CLE,23.8,6.8,4th quarter,1:10.0,London Perrantes,CLE,False,2-pointer,3,117-93,'PHO',leads
+92,92,92,201803280CHO,9.1,17.3,4th quarter,0:29.0,London Perrantes,CLE,False,2-pointer,20,118-103,'CHO',leads
+854,854,854,201804010CLE,23.1,29.4,4th quarter,0:19.0,London Perrantes,CLE,False,3-pointer,26,98-87,'DAL',leads
+490,490,490,201804110CLE,25.1,12.1,2nd quarter,7:08.0,London Perrantes,CLE,False,2-pointer,9,25-31,'NYK',trails
+491,491,491,201804110CLE,24.8,10.5,2nd quarter,7:02.0,London Perrantes,CLE,True,2-pointer,7,27-31,'NYK',trails
+503,503,503,201804110CLE,41.1,15.2,3rd quarter,11:48.0,London Perrantes,CLE,False,2-pointer,21,37-57,'NYK',trails
+505,505,505,201804110CLE,37.8,15.0,3rd quarter,10:40.0,London Perrantes,CLE,False,2-pointer,18,40-61,'NYK',trails
+514,514,514,201804110CLE,19.3,6.0,3rd quarter,6:18.0,London Perrantes,CLE,False,2-pointer,5,53-68,'NYK',trails
+516,516,516,201804110CLE,22.7,12.4,3rd quarter,5:41.0,London Perrantes,CLE,False,2-pointer,9,55-68,'NYK',trails
+539,539,539,201804110CLE,4.2,17.3,4th quarter,4:33.0,London Perrantes,CLE,False,3-pointer,24,82-95,'NYK',trails

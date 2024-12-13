@@ -1,0 +1,3 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1504,1504,1504,201711200PHI,38.9,27.0,4th quarter,0:40.0,Jacob Pullen,PHI,False,3-pointer,28,107-86,'UTA',leads
+1774,1774,1774,201712230TOR,13.8,10.3,4th quarter,2:11.0,Jacob Pullen,PHI,True,2-pointer,12,82-96,'TOR',trails

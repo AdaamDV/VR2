@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+534,534,534,201003030DEN,8.8,6.2,4th quarter,10:59.0,Antonio Anderson,OKC,True,2-pointer,15,66-96,'OKC',trails
+537,537,537,201003030DEN,3.3,6.4,4th quarter,8:30.0,Antonio Anderson,OKC,False,2-pointer,21,66-106,'OKC',trails
+546,546,546,201003030DEN,14.4,22.3,4th quarter,2:00.0,Antonio Anderson,OKC,False,2-pointer,20,82-119,'OKC',trails

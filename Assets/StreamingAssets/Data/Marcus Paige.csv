@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+346,346,346,201710250CHO,24.9,18.6,4th quarter,2:02.0,Marcus Paige,CHO,False,2-pointer,15,110-86,'CHO',leads
+347,347,347,201710250CHO,26.3,5.0,4th quarter,1:42.0,Marcus Paige,CHO,False,2-pointer,3,110-88,'CHO',leads
+147,147,147,201803220CHO,22.5,4.4,4th quarter,11:00.0,Marcus Paige,CHO,False,2-pointer,2,114-59,'CHO',leads
+151,151,151,201803220CHO,6.4,20.7,4th quarter,8:20.0,Marcus Paige,CHO,False,3-pointer,24,120-61,'CHO',leads
+153,153,153,201803220CHO,16.2,6.5,4th quarter,7:34.0,Marcus Paige,CHO,True,2-pointer,8,122-63,'CHO',leads
+163,163,163,201803220CHO,46.9,4.0,4th quarter,3:00.0,Marcus Paige,CHO,True,3-pointer,22,133-72,'CHO',leads
+164,164,164,201803220CHO,10.1,18.1,4th quarter,2:26.0,Marcus Paige,CHO,True,2-pointer,20,135-72,'CHO',leads
+166,166,166,201803220CHO,46.9,13.6,4th quarter,1:07.0,Marcus Paige,CHO,False,3-pointer,25,137-74,'CHO',leads
+951,951,951,201804060ORL,12.3,26.6,4th quarter,4:53.0,Marcus Paige,CHO,False,3-pointer,26,124-86,'CHO',leads
+953,953,953,201804060ORL,36.2,26.5,4th quarter,3:45.0,Marcus Paige,CHO,False,3-pointer,26,126-89,'CHO',leads
+954,954,954,201804060ORL,26.4,6.6,4th quarter,3:16.0,Marcus Paige,CHO,False,2-pointer,4,126-91,'CHO',leads
+329,329,329,201804080CHO,1.8,4.5,4th quarter,2:40.0,Marcus Paige,CHO,True,3-pointer,22,105-116,'IND',trails
+335,335,335,201804080CHO,0.7,7.6,4th quarter,0:17.0,Marcus Paige,CHO,False,3-pointer,23,114-120,'IND',trails
+454,454,454,201804100IND,47.4,8.0,4th quarter,0:27.0,Marcus Paige,CHO,False,3-pointer,23,119-93,'IND',leads

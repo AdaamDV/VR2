@@ -1,0 +1,26 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1042,1042,1042,201011030NJN,18.4,9.5,2nd quarter,1:36.0,Sherron Collins,CHA,False,2-pointer,7,34-38,'NJN',trails
+109,109,109,201011080CHA,30.7,30.0,2nd quarter,9:25.0,Sherron Collins,CHA,False,3-pointer,26,29-21,'SAS',leads
+117,117,117,201011150CHA,26.4,25.8,2nd quarter,7:11.0,Sherron Collins,CHA,False,2-pointer,21,35-36,'CHA',trails
+121,121,121,201011150CHA,27.6,5.7,2nd quarter,4:23.0,Sherron Collins,CHA,False,2-pointer,4,39-42,'CHA',trails
+475,475,475,201011190MIA,6.3,21.7,2nd quarter,7:43.0,Sherron Collins,CHA,False,3-pointer,24,29-41,'MIA',trails
+383,383,383,201011270MIL,9.6,24.8,4th quarter,8:28.0,Sherron Collins,CHA,False,3-pointer,24,74-87,'CHA',trails
+734,734,734,201012040PHI,24.6,6.9,4th quarter,1:35.0,Sherron Collins,CHA,True,2-pointer,2,85-107,'CHA',trails
+736,736,736,201012040PHI,22.7,9.1,4th quarter,0:02.9,Sherron Collins,CHA,False,2-pointer,4,89-109,'CHA',trails
+97,97,97,201012210CHA,38.4,28.0,2nd quarter,6:03.0,Sherron Collins,CHA,True,3-pointer,27,32-32,'OKC',tied
+99,99,99,201012210CHA,32.4,29.4,2nd quarter,4:14.0,Sherron Collins,CHA,False,3-pointer,26,34-34,'OKC',tied
+102,102,102,201012210CHA,15.9,15.7,2nd quarter,2:30.0,Sherron Collins,CHA,False,2-pointer,13,36-38,'OKC',trails
+105,105,105,201012210CHA,20.0,18.7,2nd quarter,0:52.8,Sherron Collins,CHA,True,2-pointer,14,40-42,'OKC',trails
+106,106,106,201012210CHA,36.5,16.8,2nd quarter,0:28.9,Sherron Collins,CHA,False,2-pointer,17,40-43,'OKC',trails
+140,140,140,201012210CHA,26.0,5.1,4th quarter,3:15.0,Sherron Collins,CHA,False,2-pointer,2,72-91,'OKC',trails
+318,318,318,201101030CHA,23.2,5.1,4th quarter,1:26.0,Sherron Collins,CHA,True,2-pointer,1,82-94,'MIA',trails
+324,324,324,201101080CHA,17.2,25.5,4th quarter,1:00.0,Sherron Collins,CHA,False,2-pointer,22,100-87,'CHA',leads
+476,476,476,201102020DET,10.9,17.3,1st quarter,6:38.0,Sherron Collins,CHA,True,2-pointer,18,13-8,'DET',leads
+483,483,483,201102020DET,24.0,6.1,1st quarter,2:16.0,Sherron Collins,CHA,True,2-pointer,1,23-16,'DET',leads
+457,457,457,201102040CHA,14.2,28.0,4th quarter,10:51.0,Sherron Collins,CHA,True,3-pointer,25,80-89,'MIA',trails
+458,458,458,201102040CHA,39.9,14.9,4th quarter,9:51.0,Sherron Collins,CHA,False,2-pointer,19,80-92,'MIA',trails
+364,364,364,201102090IND,22.4,30.5,2nd quarter,9:52.0,Sherron Collins,CHA,False,3-pointer,26,32-35,'IND',trails
+157,157,157,201102140CHA,11.0,28.0,4th quarter,1:43.0,Sherron Collins,CHA,False,3-pointer,26,106-84,'LAL',leads
+160,160,160,201102140CHA,40.3,38.6,4th quarter,0:01.5,Sherron Collins,CHA,False,3-pointer,37,109-89,'LAL',leads
+65,65,65,201102150CHI,26.1,25.1,4th quarter,0:45.9,Sherron Collins,CHA,False,2-pointer,20,92-106,'CHA',trails
+66,66,66,201102150CHI,27.4,31.8,4th quarter,0:14.8,Sherron Collins,CHA,False,3-pointer,27,92-106,'CHA',trails

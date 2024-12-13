@@ -1,0 +1,16 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1092,1092,1092,201611020NYK,4.9,21.8,4th quarter,3:27.0,Kyle Wiltjer,HOU,False,3-pointer,27,114-91,'HOU',leads
+1094,1094,1094,201611020NYK,6.7,22.0,4th quarter,2:42.0,Kyle Wiltjer,HOU,False,3-pointer,26,114-91,'HOU',leads
+1097,1097,1097,201611020NYK,30.8,27.7,4th quarter,2:00.0,Kyle Wiltjer,HOU,False,3-pointer,26,116-92,'HOU',leads
+616,616,616,201612020DEN,10.3,24.3,4th quarter,0:44.0,Kyle Wiltjer,HOU,True,3-pointer,25,128-110,'HOU',leads
+494,494,494,201612140HOU,4.9,23.8,4th quarter,4:38.0,Kyle Wiltjer,HOU,True,3-pointer,28,120-84,'HOU',leads
+495,495,495,201612140HOU,8.5,26.2,4th quarter,3:55.0,Kyle Wiltjer,HOU,True,3-pointer,28,123-87,'HOU',leads
+684,684,684,201612260HOU,3.5,20.0,4th quarter,5:29.0,Kyle Wiltjer,HOU,False,3-pointer,27,120-96,'HOU',leads
+685,685,685,201612260HOU,41.9,23.5,4th quarter,4:30.0,Kyle Wiltjer,HOU,False,3-pointer,27,120-100,'HOU',leads
+695,695,695,201612260HOU,35.2,25.8,4th quarter,1:08.0,Kyle Wiltjer,HOU,False,3-pointer,25,131-113,'HOU',leads
+247,247,247,201612270DAL,10.0,26.2,4th quarter,2:20.0,Kyle Wiltjer,HOU,False,3-pointer,27,120-98,'HOU',leads
+684,684,684,201703150HOU,4.1,17.4,4th quarter,1:53.0,Kyle Wiltjer,HOU,False,3-pointer,24,129-94,'HOU',leads
+744,744,744,201703170NOP,3.3,19.9,4th quarter,1:46.0,Kyle Wiltjer,HOU,True,3-pointer,26,112-123,'NOP',trails
+747,747,747,201703170NOP,33.7,17.1,4th quarter,0:03.0,Kyle Wiltjer,HOU,False,2-pointer,17,112-128,'NOP',trails
+1551,1551,1551,201704020PHO,6.4,20.5,2nd quarter,4:46.0,Kyle Wiltjer,HOU,False,3-pointer,24,47-48,'HOU',trails
+253,253,253,201705010SAS,5.3,20.0,4th quarter,2:42.0,Kyle Wiltjer,HOU,True,3-pointer,25,123-89,'SAS',leads

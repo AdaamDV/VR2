@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+366,366,366,202112280MIA,23.9,4.8,2nd quarter,4:14.0,Craig Sword,WAS,True,2-pointer,2,43-55,'MIA',trails
+368,368,368,202112280MIA,22.1,4.3,2nd quarter,2:50.0,Craig Sword,WAS,True,2-pointer,2,47-60,'MIA',trails
+385,385,385,202112280MIA,1.2,3.7,3rd quarter,3:32.0,Craig Sword,WAS,False,3-pointer,23,60-85,'MIA',trails
+389,389,389,202112280MIA,22.8,4.4,3rd quarter,1:39.0,Craig Sword,WAS,True,2-pointer,2,68-87,'MIA',trails

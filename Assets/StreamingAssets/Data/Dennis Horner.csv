@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+619,619,619,201112270NJN,39.2,7.6,4th quarter,4:30.0,Dennis Horner,NJN,True,2-pointer,15,62-99,'NJN',trails
+622,622,622,201112270NJN,27.1,6.1,4th quarter,2:39.0,Dennis Horner,NJN,False,2-pointer,3,64-103,'NJN',trails
+625,625,625,201112270NJN,47.1,3.7,4th quarter,1:13.0,Dennis Horner,NJN,False,3-pointer,23,67-103,'NJN',trails
+663,663,663,201203300GSW,40.6,8.1,2nd quarter,9:16.0,Dennis Horner,NJN,False,2-pointer,17,24-30,'NJN',trails

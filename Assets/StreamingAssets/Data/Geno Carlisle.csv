@@ -1,0 +1,4 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+172,172,172,200412050POR,7.6,6.2,4th quarter,2:01.0,Geno Carlisle,POR,False,2-pointer,16,98-116,'POR',trails
+239,239,239,200412150CLE,22.5,5.3,4th quarter,5:57.0,Geno Carlisle,POR,True,2-pointer,2,73-93,'POR',trails
+241,241,241,200412150CLE,23.5,4.4,4th quarter,4:12.0,Geno Carlisle,POR,True,2-pointer,1,77-97,'POR',trails

@@ -1,0 +1,15 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+1173,1173,1173,201203160ORL,3.3,24.7,1st quarter,4:27.0,Jerry Smith,NJN,True,3-pointer,29,11-16,'NJN',trails
+1182,1182,1182,201203160ORL,24.0,6.9,2nd quarter,11:23.0,Jerry Smith,NJN,False,2-pointer,2,20-22,'NJN',trails
+1184,1184,1184,201203160ORL,24.4,33.5,2nd quarter,10:53.0,Jerry Smith,NJN,False,3-pointer,29,22-24,'NJN',trails
+1195,1195,1195,201203160ORL,23.5,19.8,2nd quarter,2:57.0,Jerry Smith,NJN,True,2-pointer,15,31-43,'NJN',trails
+1196,1196,1196,201203160ORL,22.9,32.1,2nd quarter,2:33.0,Jerry Smith,NJN,False,3-pointer,27,31-43,'NJN',trails
+1199,1199,1199,201203160ORL,23.3,8.3,2nd quarter,0:31.5,Jerry Smith,NJN,False,2-pointer,3,36-43,'NJN',trails
+1213,1213,1213,201203160ORL,37.5,4.8,3rd quarter,2:03.0,Jerry Smith,NJN,False,2-pointer,14,53-69,'NJN',trails
+1018,1018,1018,201203170NJN,11.5,17.9,1st quarter,2:48.0,Jerry Smith,NJN,True,2-pointer,18,26-21,'NJN',leads
+1022,1022,1022,201203170NJN,24.2,26.3,1st quarter,0:16.9,Jerry Smith,NJN,False,2-pointer,21,29-26,'NJN',leads
+1064,1064,1064,201203170NJN,24.0,30.0,4th quarter,11:49.0,Jerry Smith,NJN,False,3-pointer,25,82-70,'NJN',leads
+1069,1069,1069,201203170NJN,21.9,5.0,4th quarter,9:07.0,Jerry Smith,NJN,False,2-pointer,2,82-74,'NJN',leads
+730,730,730,201203190NJN,36.1,27.2,1st quarter,2:41.0,Jerry Smith,NJN,False,3-pointer,25,13-24,'NJN',trails
+648,648,648,201203210NJN,23.8,9.7,4th quarter,4:29.0,Jerry Smith,NJN,False,2-pointer,5,84-101,'NJN',trails
+650,650,650,201203210NJN,47.1,3.6,4th quarter,2:48.0,Jerry Smith,NJN,False,3-pointer,23,84-101,'NJN',trails

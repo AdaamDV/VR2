@@ -1,0 +1,24 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+395,395,395,200401020MEM,30.7,10.9,4th quarter,1:59.0,Paul Grant,UTA,True,2-pointer,9,86-99,'UTA',trails
+658,658,658,200401030HOU,34.0,21.1,1st quarter,2:50.0,Paul Grant,UTA,True,2-pointer,19,15-16,'HOU',trails
+659,659,659,200401030HOU,43.9,6.8,1st quarter,2:01.0,Paul Grant,UTA,True,2-pointer,20,17-18,'HOU',trails
+661,661,661,200401030HOU,18.8,18.0,1st quarter,0:28.9,Paul Grant,UTA,False,2-pointer,14,17-18,'HOU',trails
+666,666,666,200401030HOU,8.7,9.6,2nd quarter,8:41.0,Paul Grant,UTA,False,2-pointer,16,20-23,'HOU',trails
+696,696,696,200401030HOU,13.3,20.3,4th quarter,9:19.0,Paul Grant,UTA,False,2-pointer,19,59-71,'HOU',trails
+700,700,700,200401030HOU,24.0,5.0,4th quarter,6:34.0,Paul Grant,UTA,False,2-pointer,0,59-76,'HOU',trails
+701,701,701,200401030HOU,24.0,5.0,4th quarter,6:18.0,Paul Grant,UTA,True,2-pointer,0,61-76,'HOU',trails
+706,706,706,200401030HOU,24.0,5.0,4th quarter,3:03.0,Paul Grant,UTA,False,2-pointer,0,61-80,'HOU',trails
+1243,1243,1243,200401050UTA,23.7,23.3,2nd quarter,0:33.9,Paul Grant,UTA,True,2-pointer,18,48-46,'DAL',leads
+1245,1245,1245,200401050UTA,29.6,13.2,2nd quarter,0:08.9,Paul Grant,UTA,False,2-pointer,10,48-48,'DAL',tied
+523,523,523,200401090DEN,34.0,8.5,2nd quarter,7:35.0,Paul Grant,UTA,False,2-pointer,11,18-35,'UTA',trails
+526,526,526,200401090DEN,21.5,9.6,2nd quarter,6:29.0,Paul Grant,UTA,True,2-pointer,5,25-37,'UTA',trails
+530,530,530,200401090DEN,24.0,5.0,2nd quarter,4:51.0,Paul Grant,UTA,True,2-pointer,0,27-40,'UTA',trails
+928,928,928,200401100UTA,24.0,5.0,2nd quarter,10:35.0,Paul Grant,UTA,True,2-pointer,0,25-22,'UTA',leads
+960,960,960,200401100UTA,16.5,22.8,4th quarter,11:42.0,Paul Grant,UTA,False,2-pointer,19,77-50,'UTA',leads
+962,962,962,200401100UTA,24.8,19.5,4th quarter,10:02.0,Paul Grant,UTA,True,2-pointer,15,81-52,'UTA',leads
+967,967,967,200401100UTA,24.0,5.0,4th quarter,7:00.0,Paul Grant,UTA,False,2-pointer,0,88-54,'UTA',leads
+970,970,970,200401100UTA,11.8,17.0,4th quarter,5:50.0,Paul Grant,UTA,False,2-pointer,17,88-56,'UTA',leads
+338,338,338,200401190GSW,24.0,5.0,3rd quarter,1:38.0,Paul Grant,UTA,True,2-pointer,0,57-66,'UTA',trails
+931,931,931,200401200UTA,24.0,5.0,4th quarter,4:52.0,Paul Grant,UTA,False,2-pointer,0,66-86,'UTA',trails
+643,643,643,200401230LAC,22.0,10.1,2nd quarter,10:36.0,Paul Grant,UTA,False,2-pointer,5,25-34,'UTA',trails
+649,649,649,200401230LAC,23.8,10.9,2nd quarter,8:02.0,Paul Grant,UTA,True,2-pointer,6,31-34,'UTA',trails

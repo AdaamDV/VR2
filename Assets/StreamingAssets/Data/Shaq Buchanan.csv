@@ -1,0 +1,5 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+981,981,981,202112260SAC,5.1,19.8,4th quarter,1:51.0,Shaq Buchanan,MEM,False,3-pointer,25,120-93,'SAC',leads
+803,803,803,202112290MEM,37.4,25.8,2nd quarter,10:47.0,Shaq Buchanan,MEM,False,3-pointer,26,23-32,'LAL',trails
+806,806,806,202112290MEM,25.4,3.8,2nd quarter,9:28.0,Shaq Buchanan,MEM,True,2-pointer,2,27-34,'LAL',trails
+807,807,807,202112290MEM,24.9,4.8,2nd quarter,8:34.0,Shaq Buchanan,MEM,False,2-pointer,2,27-37,'LAL',trails

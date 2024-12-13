@@ -1,0 +1,10 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+111,111,111,202112230DAL,10.7,4.3,2nd quarter,8:56.0,Carlik Jones,DAL,False,2-pointer,13,27-22,'DAL',leads
+145,145,145,202112230DAL,27.1,4.9,3rd quarter,0:07.0,Carlik Jones,DAL,False,2-pointer,4,74-73,'DAL',leads
+978,978,978,202112270POR,1.0,5.4,4th quarter,3:55.0,Carlik Jones,DAL,False,3-pointer,23,125-105,'POR',leads
+1285,1285,1285,202112310SAC,34.6,10.1,1st quarter,1:03.0,Carlik Jones,DAL,False,2-pointer,13,29-36,'DAL',trails
+1286,1286,1286,202112310SAC,24.0,3.3,1st quarter,0:59.0,Carlik Jones,DAL,False,2-pointer,0,29-36,'DAL',trails
+1345,1345,1345,202112310SAC,26.2,4.7,4th quarter,0:56.0,Carlik Jones,DAL,False,2-pointer,3,112-91,'DAL',leads
+1346,1346,1346,202112310SAC,14.7,14.9,4th quarter,0:34.0,Carlik Jones,DAL,False,2-pointer,15,112-94,'DAL',leads
+468,468,468,202201010HOU,11.3,16.3,4th quarter,0:43.0,Carlik Jones,DEN,False,2-pointer,18,121-105,'HOU',leads
+420,420,420,202201030DAL,25.4,5.1,4th quarter,1:53.0,Carlik Jones,DEN,True,2-pointer,2,82-95,'DAL',trails

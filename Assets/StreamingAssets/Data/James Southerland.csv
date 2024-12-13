@@ -1,0 +1,16 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,match_id,shotX,shotY,quarter,time_remaining,player,team,made,shot_type,distance,score,opp,status
+468,468,468,201311290CHA,48.4,4.2,4th quarter,2:27.0,James Southerland,CHA,False,3-pointer,24,91-72,'CHA',leads
+469,469,469,201311290CHA,14.7,18.3,4th quarter,1:59.0,James Southerland,CHA,False,2-pointer,18,91-72,'CHA',leads
+470,470,470,201311290CHA,8.3,6.9,4th quarter,1:00.0,James Southerland,CHA,False,2-pointer,16,92-74,'CHA',leads
+1390,1390,1390,201404110OKC,24.0,-5.0,4th quarter,7:42.0,James Southerland,NOP,True,2-pointer,8,69-99,'NOP',trails
+1394,1394,1394,201404110OKC,24.0,-5.0,4th quarter,5:17.0,James Southerland,NOP,True,3-pointer,8,78-108,'NOP',trails
+1396,1396,1396,201404110OKC,24.0,-5.0,4th quarter,4:15.0,James Southerland,NOP,False,2-pointer,8,80-111,'NOP',trails
+1397,1397,1397,201404110OKC,24.0,-5.0,4th quarter,3:57.0,James Southerland,NOP,False,2-pointer,8,80-111,'NOP',trails
+1400,1400,1400,201404110OKC,24.0,-5.0,4th quarter,2:44.0,James Southerland,NOP,True,2-pointer,8,84-113,'NOP',trails
+1401,1401,1401,201404110OKC,24.0,-5.0,4th quarter,2:15.0,James Southerland,NOP,True,3-pointer,8,87-113,'NOP',trails
+1405,1405,1405,201404110OKC,24.0,-5.0,4th quarter,0:10.0,James Southerland,NOP,False,3-pointer,8,91-116,'NOP',trails
+832,832,832,201404120HOU,18.1,14.6,1st quarter,3:17.0,James Southerland,NOP,False,2-pointer,13,16-16,'NOP',tied
+833,833,833,201404120HOU,44.4,11.3,1st quarter,2:47.0,James Southerland,NOP,False,2-pointer,22,16-16,'NOP',tied
+881,881,881,201404120HOU,44.3,19.2,3rd quarter,2:18.0,James Southerland,NOP,True,3-pointer,26,78-68,'NOP',leads
+768,768,768,201404140NOP,40.2,9.1,2nd quarter,4:26.0,James Southerland,NOP,False,2-pointer,17,37-41,'NOP',trails
+772,772,772,201404140NOP,45.7,14.6,2nd quarter,3:17.0,James Southerland,NOP,False,3-pointer,25,39-44,'NOP',trails
